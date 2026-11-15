@@ -1,0 +1,178 @@
+"""Forecasting + ingredient logic for the pizza demand app.
+
+Pipeline:
+  sales (date, pizza, qty)  ->  daily totals  ->  features (weekday, holiday, rain, lags)
+  -> Gradient Boosting forecast of total pizzas per day (7-day horizon)
+  -> split into pizza varieties using recent sales mix
+  -> multiply by recipes -> ingredient quantities
+"""
+from __future__ import annotations
+
+import numpy as np
+import pandas as pd
+from sklearn.ensemble import GradientBoostingRegressor
+
+HOLIDAYS_MD = {(1, 1), (2, 14), (10, 31), (12, 24), (12, 25), (12, 31)}
+FEATURES = ["dow", "month", "is_weekend", "holiday", "rainy",
+            "lag7", "lag14", "lag21", "lag28", "mean4", "trend7"]
+MIN_DAYS = 90
+MAX_HORIZON = 7  # all lag features are >= 7 days, so up to 7 days ahead needs no recursion
+
+
+def default_holiday(d: pd.Timestamp) -> int:
+    return int((d.month, d.day) in HOLIDAYS_MD)
+
+
+# ---------------------------------------------------------------- data prep
+def clean_sales(df: pd.DataFrame) -> pd.DataFrame:
+    missing = {"date", "pizza", "qty"} - set(df.columns)
+    if missing:
+        raise ValueError(f"Sales file is missing columns: {sorted(missing)}. Need: date, pizza, qty")
+    out = df.copy()
+    out["date"] = pd.to_datetime(out["date"])
+    out["qty"] = pd.to_numeric(out["qty"], errors="coerce").fillna(0).clip(lower=0)
+    return out
+
+
+def build_daily(sales: pd.DataFrame) -> pd.DataFrame:
+    total = sales.groupby("date")["qty"].sum()
+    idx = pd.date_range(total.index.min(), total.index.max(), freq="D")
+    daily = pd.DataFrame(index=idx)
+    daily["total"] = total.reindex(idx).fillna(0)
+    if "holiday" in sales.columns:
+        daily["holiday"] = sales.groupby("date")["holiday"].max().reindex(idx).fillna(0).astype(int)
+    else:
+        daily["holiday"] = [default_holiday(d) for d in idx]
+    if "rainy" in sales.columns:
+        daily["rainy"] = sales.groupby("date")["rainy"].max().reindex(idx).fillna(0).astype(int)
+    else:
+        daily["rainy"] = 0
+    return daily
+
+
+def make_features(df: pd.DataFrame) -> pd.DataFrame:
+    f = pd.DataFrame(index=df.index)
+    f["dow"] = df.index.dayofweek
+    f["month"] = df.index.month
+    f["is_weekend"] = (f["dow"] >= 5).astype(int)
+    f["holiday"] = df["holiday"]
+    f["rainy"] = df["rainy"]
+    for k in (7, 14, 21, 28):
+        f[f"lag{k}"] = df["total"].shift(k)
+    f["mean4"] = f[["lag7", "lag14", "lag21", "lag28"]].mean(axis=1, skipna=False)  # naive baseline
+    f["trend7"] = df["total"].shift(7).rolling(7).mean()
+    return f
+
+
+def _model() -> GradientBoostingRegressor:
+    return GradientBoostingRegressor(n_estimators=300, max_depth=3, learning_rate=0.05,
+                                     subsample=0.8, random_state=0)
+
+
+def _scores(actual: pd.Series, pred: pd.Series) -> dict:
+    err = actual - pred
+    return {"MAE": float(err.abs().mean()),
+            "MAPE %": float((err.abs() / actual.replace(0, np.nan)).mean() * 100),
+            "WAPE %": float(err.abs().sum() / actual.sum() * 100)}
+
+
+# ---------------------------------------------------------------- backtest
+def backtest(daily: pd.DataFrame, test_days: int = 28) -> dict:
+    """Hold out the last `test_days`, train on everything before, compare to naive baseline."""
+    if len(daily) < MIN_DAYS:
+        raise ValueError(f"Need at least {MIN_DAYS} days of sales history (found {len(daily)}).")
+    f = make_features(daily)
+    valid = f.dropna().index
+    cut = daily.index[-test_days]
+    train_idx, test_idx = valid[valid < cut], valid[valid >= cut]
+    model = _model().fit(f.loc[train_idx, FEATURES], daily.loc[train_idx, "total"])
+    frame = pd.DataFrame({
+        "actual": daily.loc[test_idx, "total"],
+        "model": np.clip(model.predict(f.loc[test_idx, FEATURES]), 0, None),
+        "baseline": f.loc[test_idx, "mean4"],
+    })
+    rel = ((frame["actual"] - frame["model"]) / frame["model"].replace(0, np.nan)).dropna()
+    return {
+        "frame": frame,
+        "scores": {"Naive baseline (avg of same weekday, last 4 wks)": _scores(frame["actual"], frame["baseline"]),
+                   "Gradient Boosting model": _scores(frame["actual"], frame["model"])},
+        "rel_q80": float(max(rel.quantile(0.80), 0.0)),
+        "rel_q10": float(rel.quantile(0.10)),
+        "rel_q90": float(rel.quantile(0.90)),
+        "importance": pd.Series(model.feature_importances_, index=FEATURES).sort_values(),
+    }
+
+
+# ---------------------------------------------------------------- forecast
+def forecast(daily: pd.DataFrame, horizon: int = 7, rainy: dict | None = None,
+             holiday: dict | None = None, rel_lo: float = -0.12, rel_hi: float = 0.12) -> pd.DataFrame:
+    horizon = min(horizon, MAX_HORIZON)
+    rainy, holiday = rainy or {}, holiday or {}
+    f = make_features(daily)
+    valid = f.dropna().index
+    model = _model().fit(f.loc[valid, FEATURES], daily.loc[valid, "total"])
+
+    future = pd.date_range(daily.index[-1] + pd.Timedelta(days=1), periods=horizon, freq="D")
+    ext = pd.concat([daily, pd.DataFrame({
+        "total": np.nan,
+        "holiday": [int(holiday.get(d, default_holiday(d))) for d in future],
+        "rainy": [int(rainy.get(d, 0)) for d in future],
+    }, index=future)])
+    fx = make_features(ext).loc[future]
+    pred = np.clip(model.predict(fx[FEATURES]), 0, None)
+    return pd.DataFrame({
+        "pred": pred,
+        "low": pred * (1 + rel_lo),
+        "high": pred * (1 + rel_hi),
+        "baseline": fx["mean4"],
+        "holiday": ext.loc[future, "holiday"],
+        "rainy": ext.loc[future, "rainy"],
+    }, index=future)
+
+
+# ---------------------------------------------------------------- pizza mix + ingredients
+def pizza_mix(sales: pd.DataFrame, days: int = 56) -> pd.DataFrame:
+    """Share of each pizza in total sales, for weekdays and weekends (last `days` days)."""
+    s = sales[sales["date"] > sales["date"].max() - pd.Timedelta(days=days)].copy()
+    s["kind"] = np.where(s["date"].dt.dayofweek >= 5, "weekend", "weekday")
+    mix = s.pivot_table(index="pizza", columns="kind", values="qty", aggfunc="sum").fillna(0)
+    for c in ("weekday", "weekend"):
+        if c not in mix:
+            mix[c] = mix.get("weekday", mix.get("weekend"))
+    return mix / mix.sum()
+
+
+def split_by_mix(total: float, date: pd.Timestamp, mix: pd.DataFrame) -> pd.Series:
+    return mix["weekend" if date.dayofweek >= 5 else "weekday"] * total
+
+
+def ingredient_need(counts: pd.Series, recipes: pd.DataFrame) -> pd.Series:
+    """counts: pizzas per variety; recipes: pizza x ingredient grams  ->  grams per ingredient."""
+    return counts.reindex(recipes.index).fillna(0) @ recipes
+
+
+def history_ingredients(sales: pd.DataFrame, recipes: pd.DataFrame) -> pd.DataFrame:
+    wide = sales.pivot_table(index="date", columns="pizza", values="qty", aggfunc="sum").fillna(0)
+    wide = wide.reindex(columns=recipes.index, fill_value=0)
+    return wide @ recipes  # date x ingredient (grams)
+
+
+# ---------------------------------------------------------------- business impact
+def _policy_stats(order: pd.Series, actual: pd.Series) -> dict:
+    waste = (order - actual).clip(lower=0)
+    short = (actual - order).clip(lower=0)
+    return {"Waste (% of pizzas prepared)": waste.sum() / order.sum() * 100,
+            "Stock-out days (of period)": int((actual > order).sum()),
+            "Pizzas lost to stock-outs": float(short.sum()),
+            "Fill rate %": (1 - short.sum() / actual.sum()) * 100}
+
+
+def simulate_policies(bt_frame: pd.DataFrame, daily: pd.DataFrame, buffer: float) -> pd.DataFrame:
+    actual = bt_frame["actual"]
+    prev = daily["total"].shift(1)
+    policies = {
+        "Fixed: prep for an average day": prev.rolling(28).mean().reindex(actual.index) * 1.10,
+        "Fixed: always prep for a peak day": prev.rolling(28).quantile(0.9).reindex(actual.index),
+        "Forecast-driven (this app)": bt_frame["model"] * (1 + buffer),
+    }
+    return pd.DataFrame({k: _policy_stats(v, actual) for k, v in policies.items()}).T

@@ -1,0 +1,3651 @@
+date,pizza,qty,rainy,holiday
+2025-11-15,Margherita,22,0,0
+2025-11-15,Pepperoni,22,0,0
+2025-11-15,Veggie Supreme,8,0,0
+2025-11-15,Paneer Tikka,23,0,0
+2025-11-15,Chicken BBQ,16,0,0
+2025-11-15,Farmhouse,12,0,0
+2025-11-15,Corn & Cheese,4,0,0
+2025-11-15,Mushroom Delight,5,0,0
+2025-11-15,Hawaiian,7,0,0
+2025-11-15,Spicy Jalapeno Chicken,12,0,0
+2025-11-16,Margherita,21,0,0
+2025-11-16,Pepperoni,20,0,0
+2025-11-16,Veggie Supreme,11,0,0
+2025-11-16,Paneer Tikka,16,0,0
+2025-11-16,Chicken BBQ,10,0,0
+2025-11-16,Farmhouse,16,0,0
+2025-11-16,Corn & Cheese,10,0,0
+2025-11-16,Mushroom Delight,8,0,0
+2025-11-16,Hawaiian,8,0,0
+2025-11-16,Spicy Jalapeno Chicken,12,0,0
+2025-11-17,Margherita,10,0,0
+2025-11-17,Pepperoni,5,0,0
+2025-11-17,Veggie Supreme,5,0,0
+2025-11-17,Paneer Tikka,3,0,0
+2025-11-17,Chicken BBQ,4,0,0
+2025-11-17,Farmhouse,7,0,0
+2025-11-17,Corn & Cheese,6,0,0
+2025-11-17,Mushroom Delight,6,0,0
+2025-11-17,Hawaiian,2,0,0
+2025-11-17,Spicy Jalapeno Chicken,4,0,0
+2025-11-18,Margherita,6,0,0
+2025-11-18,Pepperoni,5,0,0
+2025-11-18,Veggie Supreme,6,0,0
+2025-11-18,Paneer Tikka,5,0,0
+2025-11-18,Chicken BBQ,7,0,0
+2025-11-18,Farmhouse,5,0,0
+2025-11-18,Corn & Cheese,7,0,0
+2025-11-18,Mushroom Delight,4,0,0
+2025-11-18,Hawaiian,3,0,0
+2025-11-18,Spicy Jalapeno Chicken,4,0,0
+2025-11-19,Margherita,8,0,0
+2025-11-19,Pepperoni,6,0,0
+2025-11-19,Veggie Supreme,8,0,0
+2025-11-19,Paneer Tikka,4,0,0
+2025-11-19,Chicken BBQ,4,0,0
+2025-11-19,Farmhouse,1,0,0
+2025-11-19,Corn & Cheese,9,0,0
+2025-11-19,Mushroom Delight,5,0,0
+2025-11-19,Hawaiian,6,0,0
+2025-11-19,Spicy Jalapeno Chicken,5,0,0
+2025-11-20,Margherita,9,0,0
+2025-11-20,Pepperoni,6,0,0
+2025-11-20,Veggie Supreme,4,0,0
+2025-11-20,Paneer Tikka,9,0,0
+2025-11-20,Chicken BBQ,6,0,0
+2025-11-20,Farmhouse,6,0,0
+2025-11-20,Corn & Cheese,7,0,0
+2025-11-20,Mushroom Delight,4,0,0
+2025-11-20,Hawaiian,4,0,0
+2025-11-20,Spicy Jalapeno Chicken,5,0,0
+2025-11-21,Margherita,9,0,0
+2025-11-21,Pepperoni,15,0,0
+2025-11-21,Veggie Supreme,10,0,0
+2025-11-21,Paneer Tikka,14,0,0
+2025-11-21,Chicken BBQ,15,0,0
+2025-11-21,Farmhouse,8,0,0
+2025-11-21,Corn & Cheese,6,0,0
+2025-11-21,Mushroom Delight,7,0,0
+2025-11-21,Hawaiian,9,0,0
+2025-11-21,Spicy Jalapeno Chicken,13,0,0
+2025-11-22,Margherita,21,0,0
+2025-11-22,Pepperoni,23,0,0
+2025-11-22,Veggie Supreme,13,0,0
+2025-11-22,Paneer Tikka,19,0,0
+2025-11-22,Chicken BBQ,12,0,0
+2025-11-22,Farmhouse,6,0,0
+2025-11-22,Corn & Cheese,7,0,0
+2025-11-22,Mushroom Delight,10,0,0
+2025-11-22,Hawaiian,11,0,0
+2025-11-22,Spicy Jalapeno Chicken,16,0,0
+2025-11-23,Margherita,13,0,0
+2025-11-23,Pepperoni,24,0,0
+2025-11-23,Veggie Supreme,13,0,0
+2025-11-23,Paneer Tikka,15,0,0
+2025-11-23,Chicken BBQ,14,0,0
+2025-11-23,Farmhouse,13,0,0
+2025-11-23,Corn & Cheese,9,0,0
+2025-11-23,Mushroom Delight,4,0,0
+2025-11-23,Hawaiian,8,0,0
+2025-11-23,Spicy Jalapeno Chicken,18,0,0
+2025-11-24,Margherita,9,0,0
+2025-11-24,Pepperoni,6,0,0
+2025-11-24,Veggie Supreme,11,0,0
+2025-11-24,Paneer Tikka,7,0,0
+2025-11-24,Chicken BBQ,5,0,0
+2025-11-24,Farmhouse,3,0,0
+2025-11-24,Corn & Cheese,3,0,0
+2025-11-24,Mushroom Delight,1,0,0
+2025-11-24,Hawaiian,6,0,0
+2025-11-24,Spicy Jalapeno Chicken,3,0,0
+2025-11-25,Margherita,5,0,0
+2025-11-25,Pepperoni,7,0,0
+2025-11-25,Veggie Supreme,3,0,0
+2025-11-25,Paneer Tikka,8,0,0
+2025-11-25,Chicken BBQ,5,0,0
+2025-11-25,Farmhouse,4,0,0
+2025-11-25,Corn & Cheese,3,0,0
+2025-11-25,Mushroom Delight,3,0,0
+2025-11-25,Hawaiian,3,0,0
+2025-11-25,Spicy Jalapeno Chicken,2,0,0
+2025-11-26,Margherita,7,0,0
+2025-11-26,Pepperoni,3,0,0
+2025-11-26,Veggie Supreme,6,0,0
+2025-11-26,Paneer Tikka,6,0,0
+2025-11-26,Chicken BBQ,4,0,0
+2025-11-26,Farmhouse,3,0,0
+2025-11-26,Corn & Cheese,6,0,0
+2025-11-26,Mushroom Delight,3,0,0
+2025-11-26,Hawaiian,9,0,0
+2025-11-26,Spicy Jalapeno Chicken,4,0,0
+2025-11-27,Margherita,9,0,0
+2025-11-27,Pepperoni,3,0,0
+2025-11-27,Veggie Supreme,11,0,0
+2025-11-27,Paneer Tikka,6,0,0
+2025-11-27,Chicken BBQ,7,0,0
+2025-11-27,Farmhouse,2,0,0
+2025-11-27,Corn & Cheese,5,0,0
+2025-11-27,Mushroom Delight,4,0,0
+2025-11-27,Hawaiian,6,0,0
+2025-11-27,Spicy Jalapeno Chicken,3,0,0
+2025-11-28,Margherita,10,0,0
+2025-11-28,Pepperoni,11,0,0
+2025-11-28,Veggie Supreme,10,0,0
+2025-11-28,Paneer Tikka,10,0,0
+2025-11-28,Chicken BBQ,4,0,0
+2025-11-28,Farmhouse,12,0,0
+2025-11-28,Corn & Cheese,10,0,0
+2025-11-28,Mushroom Delight,3,0,0
+2025-11-28,Hawaiian,7,0,0
+2025-11-28,Spicy Jalapeno Chicken,7,0,0
+2025-11-29,Margherita,18,1,0
+2025-11-29,Pepperoni,26,1,0
+2025-11-29,Veggie Supreme,18,1,0
+2025-11-29,Paneer Tikka,20,1,0
+2025-11-29,Chicken BBQ,12,1,0
+2025-11-29,Farmhouse,18,1,0
+2025-11-29,Corn & Cheese,8,1,0
+2025-11-29,Mushroom Delight,3,1,0
+2025-11-29,Hawaiian,12,1,0
+2025-11-29,Spicy Jalapeno Chicken,16,1,0
+2025-11-30,Margherita,20,0,0
+2025-11-30,Pepperoni,17,0,0
+2025-11-30,Veggie Supreme,18,0,0
+2025-11-30,Paneer Tikka,11,0,0
+2025-11-30,Chicken BBQ,14,0,0
+2025-11-30,Farmhouse,8,0,0
+2025-11-30,Corn & Cheese,13,0,0
+2025-11-30,Mushroom Delight,3,0,0
+2025-11-30,Hawaiian,5,0,0
+2025-11-30,Spicy Jalapeno Chicken,14,0,0
+2025-12-01,Margherita,10,0,0
+2025-12-01,Pepperoni,8,0,0
+2025-12-01,Veggie Supreme,7,0,0
+2025-12-01,Paneer Tikka,7,0,0
+2025-12-01,Chicken BBQ,3,0,0
+2025-12-01,Farmhouse,2,0,0
+2025-12-01,Corn & Cheese,4,0,0
+2025-12-01,Mushroom Delight,2,0,0
+2025-12-01,Hawaiian,2,0,0
+2025-12-01,Spicy Jalapeno Chicken,2,0,0
+2025-12-02,Margherita,7,1,0
+2025-12-02,Pepperoni,13,1,0
+2025-12-02,Veggie Supreme,5,1,0
+2025-12-02,Paneer Tikka,4,1,0
+2025-12-02,Chicken BBQ,9,1,0
+2025-12-02,Farmhouse,3,1,0
+2025-12-02,Corn & Cheese,4,1,0
+2025-12-02,Mushroom Delight,5,1,0
+2025-12-02,Hawaiian,7,1,0
+2025-12-02,Spicy Jalapeno Chicken,4,1,0
+2025-12-03,Margherita,10,0,0
+2025-12-03,Pepperoni,12,0,0
+2025-12-03,Veggie Supreme,4,0,0
+2025-12-03,Paneer Tikka,3,0,0
+2025-12-03,Chicken BBQ,1,0,0
+2025-12-03,Farmhouse,3,0,0
+2025-12-03,Corn & Cheese,3,0,0
+2025-12-03,Mushroom Delight,5,0,0
+2025-12-03,Hawaiian,3,0,0
+2025-12-03,Spicy Jalapeno Chicken,7,0,0
+2025-12-04,Margherita,9,0,0
+2025-12-04,Pepperoni,6,0,0
+2025-12-04,Veggie Supreme,9,0,0
+2025-12-04,Paneer Tikka,8,0,0
+2025-12-04,Chicken BBQ,7,0,0
+2025-12-04,Farmhouse,2,0,0
+2025-12-04,Corn & Cheese,3,0,0
+2025-12-04,Mushroom Delight,7,0,0
+2025-12-04,Hawaiian,3,0,0
+2025-12-04,Spicy Jalapeno Chicken,4,0,0
+2025-12-05,Margherita,18,0,0
+2025-12-05,Pepperoni,21,0,0
+2025-12-05,Veggie Supreme,9,0,0
+2025-12-05,Paneer Tikka,17,0,0
+2025-12-05,Chicken BBQ,4,0,0
+2025-12-05,Farmhouse,10,0,0
+2025-12-05,Corn & Cheese,9,0,0
+2025-12-05,Mushroom Delight,3,0,0
+2025-12-05,Hawaiian,6,0,0
+2025-12-05,Spicy Jalapeno Chicken,11,0,0
+2025-12-06,Margherita,24,0,0
+2025-12-06,Pepperoni,34,0,0
+2025-12-06,Veggie Supreme,20,0,0
+2025-12-06,Paneer Tikka,18,0,0
+2025-12-06,Chicken BBQ,22,0,0
+2025-12-06,Farmhouse,7,0,0
+2025-12-06,Corn & Cheese,8,0,0
+2025-12-06,Mushroom Delight,12,0,0
+2025-12-06,Hawaiian,14,0,0
+2025-12-06,Spicy Jalapeno Chicken,14,0,0
+2025-12-07,Margherita,18,0,0
+2025-12-07,Pepperoni,25,0,0
+2025-12-07,Veggie Supreme,13,0,0
+2025-12-07,Paneer Tikka,13,0,0
+2025-12-07,Chicken BBQ,13,0,0
+2025-12-07,Farmhouse,11,0,0
+2025-12-07,Corn & Cheese,10,0,0
+2025-12-07,Mushroom Delight,9,0,0
+2025-12-07,Hawaiian,7,0,0
+2025-12-07,Spicy Jalapeno Chicken,10,0,0
+2025-12-08,Margherita,9,0,0
+2025-12-08,Pepperoni,8,0,0
+2025-12-08,Veggie Supreme,2,0,0
+2025-12-08,Paneer Tikka,3,0,0
+2025-12-08,Chicken BBQ,6,0,0
+2025-12-08,Farmhouse,3,0,0
+2025-12-08,Corn & Cheese,6,0,0
+2025-12-08,Mushroom Delight,2,0,0
+2025-12-08,Hawaiian,2,0,0
+2025-12-08,Spicy Jalapeno Chicken,6,0,0
+2025-12-09,Margherita,6,0,0
+2025-12-09,Pepperoni,5,0,0
+2025-12-09,Veggie Supreme,4,0,0
+2025-12-09,Paneer Tikka,3,0,0
+2025-12-09,Chicken BBQ,3,0,0
+2025-12-09,Farmhouse,5,0,0
+2025-12-09,Corn & Cheese,3,0,0
+2025-12-09,Mushroom Delight,7,0,0
+2025-12-09,Hawaiian,8,0,0
+2025-12-09,Spicy Jalapeno Chicken,7,0,0
+2025-12-10,Margherita,8,0,0
+2025-12-10,Pepperoni,11,0,0
+2025-12-10,Veggie Supreme,8,0,0
+2025-12-10,Paneer Tikka,2,0,0
+2025-12-10,Chicken BBQ,4,0,0
+2025-12-10,Farmhouse,4,0,0
+2025-12-10,Corn & Cheese,4,0,0
+2025-12-10,Mushroom Delight,5,0,0
+2025-12-10,Hawaiian,4,0,0
+2025-12-10,Spicy Jalapeno Chicken,6,0,0
+2025-12-11,Margherita,12,1,0
+2025-12-11,Pepperoni,4,1,0
+2025-12-11,Veggie Supreme,11,1,0
+2025-12-11,Paneer Tikka,4,1,0
+2025-12-11,Chicken BBQ,9,1,0
+2025-12-11,Farmhouse,8,1,0
+2025-12-11,Corn & Cheese,8,1,0
+2025-12-11,Mushroom Delight,3,1,0
+2025-12-11,Hawaiian,3,1,0
+2025-12-11,Spicy Jalapeno Chicken,1,1,0
+2025-12-12,Margherita,11,0,0
+2025-12-12,Pepperoni,14,0,0
+2025-12-12,Veggie Supreme,11,0,0
+2025-12-12,Paneer Tikka,16,0,0
+2025-12-12,Chicken BBQ,9,0,0
+2025-12-12,Farmhouse,8,0,0
+2025-12-12,Corn & Cheese,9,0,0
+2025-12-12,Mushroom Delight,4,0,0
+2025-12-12,Hawaiian,5,0,0
+2025-12-12,Spicy Jalapeno Chicken,10,0,0
+2025-12-13,Margherita,16,0,0
+2025-12-13,Pepperoni,22,0,0
+2025-12-13,Veggie Supreme,14,0,0
+2025-12-13,Paneer Tikka,17,0,0
+2025-12-13,Chicken BBQ,17,0,0
+2025-12-13,Farmhouse,16,0,0
+2025-12-13,Corn & Cheese,10,0,0
+2025-12-13,Mushroom Delight,12,0,0
+2025-12-13,Hawaiian,13,0,0
+2025-12-13,Spicy Jalapeno Chicken,9,0,0
+2025-12-14,Margherita,19,0,0
+2025-12-14,Pepperoni,27,0,0
+2025-12-14,Veggie Supreme,16,0,0
+2025-12-14,Paneer Tikka,19,0,0
+2025-12-14,Chicken BBQ,15,0,0
+2025-12-14,Farmhouse,12,0,0
+2025-12-14,Corn & Cheese,8,0,0
+2025-12-14,Mushroom Delight,8,0,0
+2025-12-14,Hawaiian,7,0,0
+2025-12-14,Spicy Jalapeno Chicken,13,0,0
+2025-12-15,Margherita,8,0,0
+2025-12-15,Pepperoni,4,0,0
+2025-12-15,Veggie Supreme,7,0,0
+2025-12-15,Paneer Tikka,3,0,0
+2025-12-15,Chicken BBQ,9,0,0
+2025-12-15,Farmhouse,3,0,0
+2025-12-15,Corn & Cheese,8,0,0
+2025-12-15,Mushroom Delight,4,0,0
+2025-12-15,Hawaiian,3,0,0
+2025-12-15,Spicy Jalapeno Chicken,2,0,0
+2025-12-16,Margherita,11,0,0
+2025-12-16,Pepperoni,4,0,0
+2025-12-16,Veggie Supreme,5,0,0
+2025-12-16,Paneer Tikka,3,0,0
+2025-12-16,Chicken BBQ,5,0,0
+2025-12-16,Farmhouse,3,0,0
+2025-12-16,Corn & Cheese,5,0,0
+2025-12-16,Mushroom Delight,3,0,0
+2025-12-16,Hawaiian,4,0,0
+2025-12-16,Spicy Jalapeno Chicken,4,0,0
+2025-12-17,Margherita,10,0,0
+2025-12-17,Pepperoni,7,0,0
+2025-12-17,Veggie Supreme,6,0,0
+2025-12-17,Paneer Tikka,10,0,0
+2025-12-17,Chicken BBQ,2,0,0
+2025-12-17,Farmhouse,3,0,0
+2025-12-17,Corn & Cheese,2,0,0
+2025-12-17,Mushroom Delight,5,0,0
+2025-12-17,Hawaiian,4,0,0
+2025-12-17,Spicy Jalapeno Chicken,6,0,0
+2025-12-18,Margherita,9,0,0
+2025-12-18,Pepperoni,13,0,0
+2025-12-18,Veggie Supreme,9,0,0
+2025-12-18,Paneer Tikka,6,0,0
+2025-12-18,Chicken BBQ,5,0,0
+2025-12-18,Farmhouse,5,0,0
+2025-12-18,Corn & Cheese,4,0,0
+2025-12-18,Mushroom Delight,3,0,0
+2025-12-18,Hawaiian,9,0,0
+2025-12-18,Spicy Jalapeno Chicken,4,0,0
+2025-12-19,Margherita,17,0,0
+2025-12-19,Pepperoni,14,0,0
+2025-12-19,Veggie Supreme,15,0,0
+2025-12-19,Paneer Tikka,13,0,0
+2025-12-19,Chicken BBQ,8,0,0
+2025-12-19,Farmhouse,7,0,0
+2025-12-19,Corn & Cheese,12,0,0
+2025-12-19,Mushroom Delight,5,0,0
+2025-12-19,Hawaiian,6,0,0
+2025-12-19,Spicy Jalapeno Chicken,2,0,0
+2025-12-20,Margherita,27,1,0
+2025-12-20,Pepperoni,24,1,0
+2025-12-20,Veggie Supreme,21,1,0
+2025-12-20,Paneer Tikka,25,1,0
+2025-12-20,Chicken BBQ,13,1,0
+2025-12-20,Farmhouse,18,1,0
+2025-12-20,Corn & Cheese,19,1,0
+2025-12-20,Mushroom Delight,9,1,0
+2025-12-20,Hawaiian,14,1,0
+2025-12-20,Spicy Jalapeno Chicken,19,1,0
+2025-12-21,Margherita,24,0,0
+2025-12-21,Pepperoni,24,0,0
+2025-12-21,Veggie Supreme,9,0,0
+2025-12-21,Paneer Tikka,26,0,0
+2025-12-21,Chicken BBQ,17,0,0
+2025-12-21,Farmhouse,7,0,0
+2025-12-21,Corn & Cheese,10,0,0
+2025-12-21,Mushroom Delight,2,0,0
+2025-12-21,Hawaiian,14,0,0
+2025-12-21,Spicy Jalapeno Chicken,3,0,0
+2025-12-22,Margherita,5,0,0
+2025-12-22,Pepperoni,11,0,0
+2025-12-22,Veggie Supreme,2,0,0
+2025-12-22,Paneer Tikka,5,0,0
+2025-12-22,Chicken BBQ,4,0,0
+2025-12-22,Farmhouse,8,0,0
+2025-12-22,Corn & Cheese,3,0,0
+2025-12-22,Mushroom Delight,7,0,0
+2025-12-22,Hawaiian,4,0,0
+2025-12-22,Spicy Jalapeno Chicken,4,0,0
+2025-12-23,Margherita,4,1,0
+2025-12-23,Pepperoni,9,1,0
+2025-12-23,Veggie Supreme,8,1,0
+2025-12-23,Paneer Tikka,5,1,0
+2025-12-23,Chicken BBQ,8,1,0
+2025-12-23,Farmhouse,2,1,0
+2025-12-23,Corn & Cheese,7,1,0
+2025-12-23,Mushroom Delight,5,1,0
+2025-12-23,Hawaiian,4,1,0
+2025-12-23,Spicy Jalapeno Chicken,2,1,0
+2025-12-24,Margherita,6,0,1
+2025-12-24,Pepperoni,9,0,1
+2025-12-24,Veggie Supreme,6,0,1
+2025-12-24,Paneer Tikka,11,0,1
+2025-12-24,Chicken BBQ,11,0,1
+2025-12-24,Farmhouse,9,0,1
+2025-12-24,Corn & Cheese,9,0,1
+2025-12-24,Mushroom Delight,3,0,1
+2025-12-24,Hawaiian,7,0,1
+2025-12-24,Spicy Jalapeno Chicken,6,0,1
+2025-12-25,Margherita,13,0,1
+2025-12-25,Pepperoni,17,0,1
+2025-12-25,Veggie Supreme,8,0,1
+2025-12-25,Paneer Tikka,4,0,1
+2025-12-25,Chicken BBQ,8,0,1
+2025-12-25,Farmhouse,3,0,1
+2025-12-25,Corn & Cheese,9,0,1
+2025-12-25,Mushroom Delight,5,0,1
+2025-12-25,Hawaiian,3,0,1
+2025-12-25,Spicy Jalapeno Chicken,6,0,1
+2025-12-26,Margherita,24,1,0
+2025-12-26,Pepperoni,13,1,0
+2025-12-26,Veggie Supreme,13,1,0
+2025-12-26,Paneer Tikka,12,1,0
+2025-12-26,Chicken BBQ,9,1,0
+2025-12-26,Farmhouse,5,1,0
+2025-12-26,Corn & Cheese,12,1,0
+2025-12-26,Mushroom Delight,4,1,0
+2025-12-26,Hawaiian,6,1,0
+2025-12-26,Spicy Jalapeno Chicken,7,1,0
+2025-12-27,Margherita,25,0,0
+2025-12-27,Pepperoni,17,0,0
+2025-12-27,Veggie Supreme,14,0,0
+2025-12-27,Paneer Tikka,15,0,0
+2025-12-27,Chicken BBQ,16,0,0
+2025-12-27,Farmhouse,9,0,0
+2025-12-27,Corn & Cheese,8,0,0
+2025-12-27,Mushroom Delight,7,0,0
+2025-12-27,Hawaiian,11,0,0
+2025-12-27,Spicy Jalapeno Chicken,17,0,0
+2025-12-28,Margherita,19,0,0
+2025-12-28,Pepperoni,20,0,0
+2025-12-28,Veggie Supreme,13,0,0
+2025-12-28,Paneer Tikka,13,0,0
+2025-12-28,Chicken BBQ,18,0,0
+2025-12-28,Farmhouse,11,0,0
+2025-12-28,Corn & Cheese,6,0,0
+2025-12-28,Mushroom Delight,8,0,0
+2025-12-28,Hawaiian,11,0,0
+2025-12-28,Spicy Jalapeno Chicken,16,0,0
+2025-12-29,Margherita,7,0,0
+2025-12-29,Pepperoni,8,0,0
+2025-12-29,Veggie Supreme,6,0,0
+2025-12-29,Paneer Tikka,6,0,0
+2025-12-29,Chicken BBQ,3,0,0
+2025-12-29,Farmhouse,6,0,0
+2025-12-29,Corn & Cheese,3,0,0
+2025-12-29,Mushroom Delight,2,0,0
+2025-12-29,Hawaiian,4,0,0
+2025-12-29,Spicy Jalapeno Chicken,3,0,0
+2025-12-30,Margherita,9,0,0
+2025-12-30,Pepperoni,10,0,0
+2025-12-30,Veggie Supreme,8,0,0
+2025-12-30,Paneer Tikka,5,0,0
+2025-12-30,Chicken BBQ,4,0,0
+2025-12-30,Farmhouse,5,0,0
+2025-12-30,Corn & Cheese,2,0,0
+2025-12-30,Mushroom Delight,3,0,0
+2025-12-30,Hawaiian,2,0,0
+2025-12-30,Spicy Jalapeno Chicken,2,0,0
+2025-12-31,Margherita,15,1,1
+2025-12-31,Pepperoni,6,1,1
+2025-12-31,Veggie Supreme,7,1,1
+2025-12-31,Paneer Tikka,9,1,1
+2025-12-31,Chicken BBQ,6,1,1
+2025-12-31,Farmhouse,7,1,1
+2025-12-31,Corn & Cheese,10,1,1
+2025-12-31,Mushroom Delight,2,1,1
+2025-12-31,Hawaiian,10,1,1
+2025-12-31,Spicy Jalapeno Chicken,8,1,1
+2026-01-01,Margherita,10,0,1
+2026-01-01,Pepperoni,14,0,1
+2026-01-01,Veggie Supreme,7,0,1
+2026-01-01,Paneer Tikka,10,0,1
+2026-01-01,Chicken BBQ,15,0,1
+2026-01-01,Farmhouse,14,0,1
+2026-01-01,Corn & Cheese,6,0,1
+2026-01-01,Mushroom Delight,3,0,1
+2026-01-01,Hawaiian,5,0,1
+2026-01-01,Spicy Jalapeno Chicken,4,0,1
+2026-01-02,Margherita,16,0,0
+2026-01-02,Pepperoni,6,0,0
+2026-01-02,Veggie Supreme,9,0,0
+2026-01-02,Paneer Tikka,14,0,0
+2026-01-02,Chicken BBQ,8,0,0
+2026-01-02,Farmhouse,8,0,0
+2026-01-02,Corn & Cheese,13,0,0
+2026-01-02,Mushroom Delight,12,0,0
+2026-01-02,Hawaiian,6,0,0
+2026-01-02,Spicy Jalapeno Chicken,6,0,0
+2026-01-03,Margherita,17,0,0
+2026-01-03,Pepperoni,25,0,0
+2026-01-03,Veggie Supreme,16,0,0
+2026-01-03,Paneer Tikka,14,0,0
+2026-01-03,Chicken BBQ,24,0,0
+2026-01-03,Farmhouse,15,0,0
+2026-01-03,Corn & Cheese,12,0,0
+2026-01-03,Mushroom Delight,6,0,0
+2026-01-03,Hawaiian,11,0,0
+2026-01-03,Spicy Jalapeno Chicken,20,0,0
+2026-01-04,Margherita,15,0,0
+2026-01-04,Pepperoni,20,0,0
+2026-01-04,Veggie Supreme,15,0,0
+2026-01-04,Paneer Tikka,18,0,0
+2026-01-04,Chicken BBQ,17,0,0
+2026-01-04,Farmhouse,9,0,0
+2026-01-04,Corn & Cheese,9,0,0
+2026-01-04,Mushroom Delight,11,0,0
+2026-01-04,Hawaiian,11,0,0
+2026-01-04,Spicy Jalapeno Chicken,13,0,0
+2026-01-05,Margherita,10,0,0
+2026-01-05,Pepperoni,3,0,0
+2026-01-05,Veggie Supreme,5,0,0
+2026-01-05,Paneer Tikka,7,0,0
+2026-01-05,Chicken BBQ,5,0,0
+2026-01-05,Farmhouse,7,0,0
+2026-01-05,Corn & Cheese,4,0,0
+2026-01-05,Mushroom Delight,4,0,0
+2026-01-05,Hawaiian,5,0,0
+2026-01-05,Spicy Jalapeno Chicken,2,0,0
+2026-01-06,Margherita,8,0,0
+2026-01-06,Pepperoni,9,0,0
+2026-01-06,Veggie Supreme,4,0,0
+2026-01-06,Paneer Tikka,5,0,0
+2026-01-06,Chicken BBQ,5,0,0
+2026-01-06,Farmhouse,2,0,0
+2026-01-06,Corn & Cheese,4,0,0
+2026-01-06,Mushroom Delight,6,0,0
+2026-01-06,Hawaiian,3,0,0
+2026-01-06,Spicy Jalapeno Chicken,3,0,0
+2026-01-07,Margherita,7,0,0
+2026-01-07,Pepperoni,4,0,0
+2026-01-07,Veggie Supreme,11,0,0
+2026-01-07,Paneer Tikka,7,0,0
+2026-01-07,Chicken BBQ,5,0,0
+2026-01-07,Farmhouse,7,0,0
+2026-01-07,Corn & Cheese,1,0,0
+2026-01-07,Mushroom Delight,4,0,0
+2026-01-07,Hawaiian,8,0,0
+2026-01-07,Spicy Jalapeno Chicken,6,0,0
+2026-01-08,Margherita,9,0,0
+2026-01-08,Pepperoni,8,0,0
+2026-01-08,Veggie Supreme,8,0,0
+2026-01-08,Paneer Tikka,9,0,0
+2026-01-08,Chicken BBQ,6,0,0
+2026-01-08,Farmhouse,7,0,0
+2026-01-08,Corn & Cheese,4,0,0
+2026-01-08,Mushroom Delight,3,0,0
+2026-01-08,Hawaiian,0,0,0
+2026-01-08,Spicy Jalapeno Chicken,3,0,0
+2026-01-09,Margherita,14,0,0
+2026-01-09,Pepperoni,14,0,0
+2026-01-09,Veggie Supreme,16,0,0
+2026-01-09,Paneer Tikka,16,0,0
+2026-01-09,Chicken BBQ,5,0,0
+2026-01-09,Farmhouse,8,0,0
+2026-01-09,Corn & Cheese,7,0,0
+2026-01-09,Mushroom Delight,3,0,0
+2026-01-09,Hawaiian,2,0,0
+2026-01-09,Spicy Jalapeno Chicken,7,0,0
+2026-01-10,Margherita,20,1,0
+2026-01-10,Pepperoni,35,1,0
+2026-01-10,Veggie Supreme,14,1,0
+2026-01-10,Paneer Tikka,24,1,0
+2026-01-10,Chicken BBQ,14,1,0
+2026-01-10,Farmhouse,14,1,0
+2026-01-10,Corn & Cheese,5,1,0
+2026-01-10,Mushroom Delight,7,1,0
+2026-01-10,Hawaiian,11,1,0
+2026-01-10,Spicy Jalapeno Chicken,10,1,0
+2026-01-11,Margherita,12,0,0
+2026-01-11,Pepperoni,22,0,0
+2026-01-11,Veggie Supreme,10,0,0
+2026-01-11,Paneer Tikka,14,0,0
+2026-01-11,Chicken BBQ,22,0,0
+2026-01-11,Farmhouse,16,0,0
+2026-01-11,Corn & Cheese,14,0,0
+2026-01-11,Mushroom Delight,10,0,0
+2026-01-11,Hawaiian,11,0,0
+2026-01-11,Spicy Jalapeno Chicken,10,0,0
+2026-01-12,Margherita,6,0,0
+2026-01-12,Pepperoni,9,0,0
+2026-01-12,Veggie Supreme,8,0,0
+2026-01-12,Paneer Tikka,1,0,0
+2026-01-12,Chicken BBQ,6,0,0
+2026-01-12,Farmhouse,7,0,0
+2026-01-12,Corn & Cheese,1,0,0
+2026-01-12,Mushroom Delight,4,0,0
+2026-01-12,Hawaiian,8,0,0
+2026-01-12,Spicy Jalapeno Chicken,4,0,0
+2026-01-13,Margherita,9,0,0
+2026-01-13,Pepperoni,5,0,0
+2026-01-13,Veggie Supreme,7,0,0
+2026-01-13,Paneer Tikka,4,0,0
+2026-01-13,Chicken BBQ,5,0,0
+2026-01-13,Farmhouse,3,0,0
+2026-01-13,Corn & Cheese,3,0,0
+2026-01-13,Mushroom Delight,5,0,0
+2026-01-13,Hawaiian,1,0,0
+2026-01-13,Spicy Jalapeno Chicken,4,0,0
+2026-01-14,Margherita,11,1,0
+2026-01-14,Pepperoni,11,1,0
+2026-01-14,Veggie Supreme,14,1,0
+2026-01-14,Paneer Tikka,4,1,0
+2026-01-14,Chicken BBQ,4,1,0
+2026-01-14,Farmhouse,3,1,0
+2026-01-14,Corn & Cheese,5,1,0
+2026-01-14,Mushroom Delight,8,1,0
+2026-01-14,Hawaiian,2,1,0
+2026-01-14,Spicy Jalapeno Chicken,2,1,0
+2026-01-15,Margherita,14,0,0
+2026-01-15,Pepperoni,8,0,0
+2026-01-15,Veggie Supreme,4,0,0
+2026-01-15,Paneer Tikka,7,0,0
+2026-01-15,Chicken BBQ,3,0,0
+2026-01-15,Farmhouse,5,0,0
+2026-01-15,Corn & Cheese,2,0,0
+2026-01-15,Mushroom Delight,6,0,0
+2026-01-15,Hawaiian,8,0,0
+2026-01-15,Spicy Jalapeno Chicken,7,0,0
+2026-01-16,Margherita,21,0,0
+2026-01-16,Pepperoni,15,0,0
+2026-01-16,Veggie Supreme,10,0,0
+2026-01-16,Paneer Tikka,9,0,0
+2026-01-16,Chicken BBQ,13,0,0
+2026-01-16,Farmhouse,6,0,0
+2026-01-16,Corn & Cheese,6,0,0
+2026-01-16,Mushroom Delight,8,0,0
+2026-01-16,Hawaiian,5,0,0
+2026-01-16,Spicy Jalapeno Chicken,6,0,0
+2026-01-17,Margherita,22,0,0
+2026-01-17,Pepperoni,22,0,0
+2026-01-17,Veggie Supreme,13,0,0
+2026-01-17,Paneer Tikka,17,0,0
+2026-01-17,Chicken BBQ,16,0,0
+2026-01-17,Farmhouse,19,0,0
+2026-01-17,Corn & Cheese,10,0,0
+2026-01-17,Mushroom Delight,9,0,0
+2026-01-17,Hawaiian,13,0,0
+2026-01-17,Spicy Jalapeno Chicken,13,0,0
+2026-01-18,Margherita,19,0,0
+2026-01-18,Pepperoni,34,0,0
+2026-01-18,Veggie Supreme,14,0,0
+2026-01-18,Paneer Tikka,18,0,0
+2026-01-18,Chicken BBQ,18,0,0
+2026-01-18,Farmhouse,11,0,0
+2026-01-18,Corn & Cheese,5,0,0
+2026-01-18,Mushroom Delight,6,0,0
+2026-01-18,Hawaiian,5,0,0
+2026-01-18,Spicy Jalapeno Chicken,12,0,0
+2026-01-19,Margherita,8,0,0
+2026-01-19,Pepperoni,7,0,0
+2026-01-19,Veggie Supreme,2,0,0
+2026-01-19,Paneer Tikka,11,0,0
+2026-01-19,Chicken BBQ,2,0,0
+2026-01-19,Farmhouse,2,0,0
+2026-01-19,Corn & Cheese,4,0,0
+2026-01-19,Mushroom Delight,2,0,0
+2026-01-19,Hawaiian,6,0,0
+2026-01-19,Spicy Jalapeno Chicken,7,0,0
+2026-01-20,Margherita,4,0,0
+2026-01-20,Pepperoni,5,0,0
+2026-01-20,Veggie Supreme,6,0,0
+2026-01-20,Paneer Tikka,4,0,0
+2026-01-20,Chicken BBQ,9,0,0
+2026-01-20,Farmhouse,5,0,0
+2026-01-20,Corn & Cheese,5,0,0
+2026-01-20,Mushroom Delight,4,0,0
+2026-01-20,Hawaiian,6,0,0
+2026-01-20,Spicy Jalapeno Chicken,7,0,0
+2026-01-21,Margherita,13,1,0
+2026-01-21,Pepperoni,2,1,0
+2026-01-21,Veggie Supreme,8,1,0
+2026-01-21,Paneer Tikka,8,1,0
+2026-01-21,Chicken BBQ,6,1,0
+2026-01-21,Farmhouse,6,1,0
+2026-01-21,Corn & Cheese,8,1,0
+2026-01-21,Mushroom Delight,6,1,0
+2026-01-21,Hawaiian,3,1,0
+2026-01-21,Spicy Jalapeno Chicken,5,1,0
+2026-01-22,Margherita,8,0,0
+2026-01-22,Pepperoni,9,0,0
+2026-01-22,Veggie Supreme,4,0,0
+2026-01-22,Paneer Tikka,5,0,0
+2026-01-22,Chicken BBQ,9,0,0
+2026-01-22,Farmhouse,1,0,0
+2026-01-22,Corn & Cheese,4,0,0
+2026-01-22,Mushroom Delight,5,0,0
+2026-01-22,Hawaiian,2,0,0
+2026-01-22,Spicy Jalapeno Chicken,6,0,0
+2026-01-23,Margherita,22,1,0
+2026-01-23,Pepperoni,7,1,0
+2026-01-23,Veggie Supreme,10,1,0
+2026-01-23,Paneer Tikka,8,1,0
+2026-01-23,Chicken BBQ,9,1,0
+2026-01-23,Farmhouse,14,1,0
+2026-01-23,Corn & Cheese,9,1,0
+2026-01-23,Mushroom Delight,9,1,0
+2026-01-23,Hawaiian,11,1,0
+2026-01-23,Spicy Jalapeno Chicken,11,1,0
+2026-01-24,Margherita,24,0,0
+2026-01-24,Pepperoni,24,0,0
+2026-01-24,Veggie Supreme,11,0,0
+2026-01-24,Paneer Tikka,20,0,0
+2026-01-24,Chicken BBQ,20,0,0
+2026-01-24,Farmhouse,9,0,0
+2026-01-24,Corn & Cheese,13,0,0
+2026-01-24,Mushroom Delight,6,0,0
+2026-01-24,Hawaiian,9,0,0
+2026-01-24,Spicy Jalapeno Chicken,10,0,0
+2026-01-25,Margherita,23,0,0
+2026-01-25,Pepperoni,20,0,0
+2026-01-25,Veggie Supreme,18,0,0
+2026-01-25,Paneer Tikka,17,0,0
+2026-01-25,Chicken BBQ,14,0,0
+2026-01-25,Farmhouse,12,0,0
+2026-01-25,Corn & Cheese,9,0,0
+2026-01-25,Mushroom Delight,5,0,0
+2026-01-25,Hawaiian,7,0,0
+2026-01-25,Spicy Jalapeno Chicken,21,0,0
+2026-01-26,Margherita,6,0,0
+2026-01-26,Pepperoni,9,0,0
+2026-01-26,Veggie Supreme,7,0,0
+2026-01-26,Paneer Tikka,8,0,0
+2026-01-26,Chicken BBQ,4,0,0
+2026-01-26,Farmhouse,7,0,0
+2026-01-26,Corn & Cheese,4,0,0
+2026-01-26,Mushroom Delight,1,0,0
+2026-01-26,Hawaiian,2,0,0
+2026-01-26,Spicy Jalapeno Chicken,6,0,0
+2026-01-27,Margherita,8,0,0
+2026-01-27,Pepperoni,14,0,0
+2026-01-27,Veggie Supreme,0,0,0
+2026-01-27,Paneer Tikka,2,0,0
+2026-01-27,Chicken BBQ,12,0,0
+2026-01-27,Farmhouse,4,0,0
+2026-01-27,Corn & Cheese,2,0,0
+2026-01-27,Mushroom Delight,5,0,0
+2026-01-27,Hawaiian,4,0,0
+2026-01-27,Spicy Jalapeno Chicken,1,0,0
+2026-01-28,Margherita,6,0,0
+2026-01-28,Pepperoni,4,0,0
+2026-01-28,Veggie Supreme,7,0,0
+2026-01-28,Paneer Tikka,5,0,0
+2026-01-28,Chicken BBQ,7,0,0
+2026-01-28,Farmhouse,7,0,0
+2026-01-28,Corn & Cheese,1,0,0
+2026-01-28,Mushroom Delight,4,0,0
+2026-01-28,Hawaiian,3,0,0
+2026-01-28,Spicy Jalapeno Chicken,7,0,0
+2026-01-29,Margherita,10,0,0
+2026-01-29,Pepperoni,9,0,0
+2026-01-29,Veggie Supreme,6,0,0
+2026-01-29,Paneer Tikka,9,0,0
+2026-01-29,Chicken BBQ,8,0,0
+2026-01-29,Farmhouse,5,0,0
+2026-01-29,Corn & Cheese,6,0,0
+2026-01-29,Mushroom Delight,6,0,0
+2026-01-29,Hawaiian,2,0,0
+2026-01-29,Spicy Jalapeno Chicken,3,0,0
+2026-01-30,Margherita,18,0,0
+2026-01-30,Pepperoni,14,0,0
+2026-01-30,Veggie Supreme,10,0,0
+2026-01-30,Paneer Tikka,8,0,0
+2026-01-30,Chicken BBQ,14,0,0
+2026-01-30,Farmhouse,8,0,0
+2026-01-30,Corn & Cheese,9,0,0
+2026-01-30,Mushroom Delight,3,0,0
+2026-01-30,Hawaiian,11,0,0
+2026-01-30,Spicy Jalapeno Chicken,5,0,0
+2026-01-31,Margherita,26,0,0
+2026-01-31,Pepperoni,31,0,0
+2026-01-31,Veggie Supreme,12,0,0
+2026-01-31,Paneer Tikka,18,0,0
+2026-01-31,Chicken BBQ,21,0,0
+2026-01-31,Farmhouse,17,0,0
+2026-01-31,Corn & Cheese,9,0,0
+2026-01-31,Mushroom Delight,7,0,0
+2026-01-31,Hawaiian,11,0,0
+2026-01-31,Spicy Jalapeno Chicken,11,0,0
+2026-02-01,Margherita,19,0,0
+2026-02-01,Pepperoni,17,0,0
+2026-02-01,Veggie Supreme,20,0,0
+2026-02-01,Paneer Tikka,21,0,0
+2026-02-01,Chicken BBQ,18,0,0
+2026-02-01,Farmhouse,7,0,0
+2026-02-01,Corn & Cheese,8,0,0
+2026-02-01,Mushroom Delight,9,0,0
+2026-02-01,Hawaiian,5,0,0
+2026-02-01,Spicy Jalapeno Chicken,17,0,0
+2026-02-02,Margherita,10,0,0
+2026-02-02,Pepperoni,10,0,0
+2026-02-02,Veggie Supreme,5,0,0
+2026-02-02,Paneer Tikka,5,0,0
+2026-02-02,Chicken BBQ,6,0,0
+2026-02-02,Farmhouse,5,0,0
+2026-02-02,Corn & Cheese,3,0,0
+2026-02-02,Mushroom Delight,3,0,0
+2026-02-02,Hawaiian,6,0,0
+2026-02-02,Spicy Jalapeno Chicken,2,0,0
+2026-02-03,Margherita,7,0,0
+2026-02-03,Pepperoni,7,0,0
+2026-02-03,Veggie Supreme,4,0,0
+2026-02-03,Paneer Tikka,5,0,0
+2026-02-03,Chicken BBQ,8,0,0
+2026-02-03,Farmhouse,5,0,0
+2026-02-03,Corn & Cheese,9,0,0
+2026-02-03,Mushroom Delight,2,0,0
+2026-02-03,Hawaiian,2,0,0
+2026-02-03,Spicy Jalapeno Chicken,6,0,0
+2026-02-04,Margherita,7,0,0
+2026-02-04,Pepperoni,6,0,0
+2026-02-04,Veggie Supreme,5,0,0
+2026-02-04,Paneer Tikka,8,0,0
+2026-02-04,Chicken BBQ,6,0,0
+2026-02-04,Farmhouse,5,0,0
+2026-02-04,Corn & Cheese,3,0,0
+2026-02-04,Mushroom Delight,5,0,0
+2026-02-04,Hawaiian,9,0,0
+2026-02-04,Spicy Jalapeno Chicken,4,0,0
+2026-02-05,Margherita,5,0,0
+2026-02-05,Pepperoni,7,0,0
+2026-02-05,Veggie Supreme,5,0,0
+2026-02-05,Paneer Tikka,10,0,0
+2026-02-05,Chicken BBQ,9,0,0
+2026-02-05,Farmhouse,7,0,0
+2026-02-05,Corn & Cheese,7,0,0
+2026-02-05,Mushroom Delight,4,0,0
+2026-02-05,Hawaiian,2,0,0
+2026-02-05,Spicy Jalapeno Chicken,0,0,0
+2026-02-06,Margherita,15,1,0
+2026-02-06,Pepperoni,17,1,0
+2026-02-06,Veggie Supreme,9,1,0
+2026-02-06,Paneer Tikka,19,1,0
+2026-02-06,Chicken BBQ,13,1,0
+2026-02-06,Farmhouse,11,1,0
+2026-02-06,Corn & Cheese,7,1,0
+2026-02-06,Mushroom Delight,6,1,0
+2026-02-06,Hawaiian,7,1,0
+2026-02-06,Spicy Jalapeno Chicken,13,1,0
+2026-02-07,Margherita,21,0,0
+2026-02-07,Pepperoni,20,0,0
+2026-02-07,Veggie Supreme,13,0,0
+2026-02-07,Paneer Tikka,16,0,0
+2026-02-07,Chicken BBQ,20,0,0
+2026-02-07,Farmhouse,14,0,0
+2026-02-07,Corn & Cheese,7,0,0
+2026-02-07,Mushroom Delight,11,0,0
+2026-02-07,Hawaiian,6,0,0
+2026-02-07,Spicy Jalapeno Chicken,13,0,0
+2026-02-08,Margherita,14,0,0
+2026-02-08,Pepperoni,24,0,0
+2026-02-08,Veggie Supreme,9,0,0
+2026-02-08,Paneer Tikka,14,0,0
+2026-02-08,Chicken BBQ,15,0,0
+2026-02-08,Farmhouse,9,0,0
+2026-02-08,Corn & Cheese,11,0,0
+2026-02-08,Mushroom Delight,9,0,0
+2026-02-08,Hawaiian,11,0,0
+2026-02-08,Spicy Jalapeno Chicken,8,0,0
+2026-02-09,Margherita,7,0,0
+2026-02-09,Pepperoni,6,0,0
+2026-02-09,Veggie Supreme,4,0,0
+2026-02-09,Paneer Tikka,12,0,0
+2026-02-09,Chicken BBQ,8,0,0
+2026-02-09,Farmhouse,6,0,0
+2026-02-09,Corn & Cheese,4,0,0
+2026-02-09,Mushroom Delight,3,0,0
+2026-02-09,Hawaiian,3,0,0
+2026-02-09,Spicy Jalapeno Chicken,4,0,0
+2026-02-10,Margherita,5,0,0
+2026-02-10,Pepperoni,5,0,0
+2026-02-10,Veggie Supreme,10,0,0
+2026-02-10,Paneer Tikka,6,0,0
+2026-02-10,Chicken BBQ,9,0,0
+2026-02-10,Farmhouse,2,0,0
+2026-02-10,Corn & Cheese,4,0,0
+2026-02-10,Mushroom Delight,2,0,0
+2026-02-10,Hawaiian,3,0,0
+2026-02-10,Spicy Jalapeno Chicken,5,0,0
+2026-02-11,Margherita,14,1,0
+2026-02-11,Pepperoni,8,1,0
+2026-02-11,Veggie Supreme,8,1,0
+2026-02-11,Paneer Tikka,7,1,0
+2026-02-11,Chicken BBQ,6,1,0
+2026-02-11,Farmhouse,6,1,0
+2026-02-11,Corn & Cheese,3,1,0
+2026-02-11,Mushroom Delight,9,1,0
+2026-02-11,Hawaiian,4,1,0
+2026-02-11,Spicy Jalapeno Chicken,3,1,0
+2026-02-12,Margherita,6,0,0
+2026-02-12,Pepperoni,12,0,0
+2026-02-12,Veggie Supreme,5,0,0
+2026-02-12,Paneer Tikka,3,0,0
+2026-02-12,Chicken BBQ,5,0,0
+2026-02-12,Farmhouse,8,0,0
+2026-02-12,Corn & Cheese,5,0,0
+2026-02-12,Mushroom Delight,5,0,0
+2026-02-12,Hawaiian,5,0,0
+2026-02-12,Spicy Jalapeno Chicken,3,0,0
+2026-02-13,Margherita,15,0,0
+2026-02-13,Pepperoni,16,0,0
+2026-02-13,Veggie Supreme,4,0,0
+2026-02-13,Paneer Tikka,23,0,0
+2026-02-13,Chicken BBQ,8,0,0
+2026-02-13,Farmhouse,5,0,0
+2026-02-13,Corn & Cheese,9,0,0
+2026-02-13,Mushroom Delight,5,0,0
+2026-02-13,Hawaiian,7,0,0
+2026-02-13,Spicy Jalapeno Chicken,13,0,0
+2026-02-14,Margherita,32,0,1
+2026-02-14,Pepperoni,27,0,1
+2026-02-14,Veggie Supreme,21,0,1
+2026-02-14,Paneer Tikka,21,0,1
+2026-02-14,Chicken BBQ,23,0,1
+2026-02-14,Farmhouse,17,0,1
+2026-02-14,Corn & Cheese,12,0,1
+2026-02-14,Mushroom Delight,13,0,1
+2026-02-14,Hawaiian,9,0,1
+2026-02-14,Spicy Jalapeno Chicken,15,0,1
+2026-02-15,Margherita,24,0,0
+2026-02-15,Pepperoni,15,0,0
+2026-02-15,Veggie Supreme,15,0,0
+2026-02-15,Paneer Tikka,23,0,0
+2026-02-15,Chicken BBQ,19,0,0
+2026-02-15,Farmhouse,20,0,0
+2026-02-15,Corn & Cheese,8,0,0
+2026-02-15,Mushroom Delight,6,0,0
+2026-02-15,Hawaiian,6,0,0
+2026-02-15,Spicy Jalapeno Chicken,10,0,0
+2026-02-16,Margherita,11,0,0
+2026-02-16,Pepperoni,8,0,0
+2026-02-16,Veggie Supreme,7,0,0
+2026-02-16,Paneer Tikka,9,0,0
+2026-02-16,Chicken BBQ,6,0,0
+2026-02-16,Farmhouse,8,0,0
+2026-02-16,Corn & Cheese,3,0,0
+2026-02-16,Mushroom Delight,4,0,0
+2026-02-16,Hawaiian,3,0,0
+2026-02-16,Spicy Jalapeno Chicken,4,0,0
+2026-02-17,Margherita,5,0,0
+2026-02-17,Pepperoni,5,0,0
+2026-02-17,Veggie Supreme,8,0,0
+2026-02-17,Paneer Tikka,8,0,0
+2026-02-17,Chicken BBQ,7,0,0
+2026-02-17,Farmhouse,1,0,0
+2026-02-17,Corn & Cheese,5,0,0
+2026-02-17,Mushroom Delight,3,0,0
+2026-02-17,Hawaiian,7,0,0
+2026-02-17,Spicy Jalapeno Chicken,5,0,0
+2026-02-18,Margherita,9,0,0
+2026-02-18,Pepperoni,5,0,0
+2026-02-18,Veggie Supreme,5,0,0
+2026-02-18,Paneer Tikka,4,0,0
+2026-02-18,Chicken BBQ,5,0,0
+2026-02-18,Farmhouse,7,0,0
+2026-02-18,Corn & Cheese,8,0,0
+2026-02-18,Mushroom Delight,2,0,0
+2026-02-18,Hawaiian,4,0,0
+2026-02-18,Spicy Jalapeno Chicken,4,0,0
+2026-02-19,Margherita,10,0,0
+2026-02-19,Pepperoni,7,0,0
+2026-02-19,Veggie Supreme,8,0,0
+2026-02-19,Paneer Tikka,7,0,0
+2026-02-19,Chicken BBQ,11,0,0
+2026-02-19,Farmhouse,4,0,0
+2026-02-19,Corn & Cheese,6,0,0
+2026-02-19,Mushroom Delight,0,0,0
+2026-02-19,Hawaiian,5,0,0
+2026-02-19,Spicy Jalapeno Chicken,6,0,0
+2026-02-20,Margherita,16,0,0
+2026-02-20,Pepperoni,22,0,0
+2026-02-20,Veggie Supreme,15,0,0
+2026-02-20,Paneer Tikka,10,0,0
+2026-02-20,Chicken BBQ,11,0,0
+2026-02-20,Farmhouse,9,0,0
+2026-02-20,Corn & Cheese,9,0,0
+2026-02-20,Mushroom Delight,5,0,0
+2026-02-20,Hawaiian,6,0,0
+2026-02-20,Spicy Jalapeno Chicken,10,0,0
+2026-02-21,Margherita,25,0,0
+2026-02-21,Pepperoni,33,0,0
+2026-02-21,Veggie Supreme,16,0,0
+2026-02-21,Paneer Tikka,19,0,0
+2026-02-21,Chicken BBQ,18,0,0
+2026-02-21,Farmhouse,11,0,0
+2026-02-21,Corn & Cheese,8,0,0
+2026-02-21,Mushroom Delight,5,0,0
+2026-02-21,Hawaiian,10,0,0
+2026-02-21,Spicy Jalapeno Chicken,11,0,0
+2026-02-22,Margherita,19,0,0
+2026-02-22,Pepperoni,21,0,0
+2026-02-22,Veggie Supreme,12,0,0
+2026-02-22,Paneer Tikka,20,0,0
+2026-02-22,Chicken BBQ,20,0,0
+2026-02-22,Farmhouse,8,0,0
+2026-02-22,Corn & Cheese,4,0,0
+2026-02-22,Mushroom Delight,7,0,0
+2026-02-22,Hawaiian,14,0,0
+2026-02-22,Spicy Jalapeno Chicken,14,0,0
+2026-02-23,Margherita,10,0,0
+2026-02-23,Pepperoni,4,0,0
+2026-02-23,Veggie Supreme,5,0,0
+2026-02-23,Paneer Tikka,15,0,0
+2026-02-23,Chicken BBQ,3,0,0
+2026-02-23,Farmhouse,2,0,0
+2026-02-23,Corn & Cheese,4,0,0
+2026-02-23,Mushroom Delight,4,0,0
+2026-02-23,Hawaiian,5,0,0
+2026-02-23,Spicy Jalapeno Chicken,2,0,0
+2026-02-24,Margherita,5,0,0
+2026-02-24,Pepperoni,10,0,0
+2026-02-24,Veggie Supreme,4,0,0
+2026-02-24,Paneer Tikka,10,0,0
+2026-02-24,Chicken BBQ,6,0,0
+2026-02-24,Farmhouse,2,0,0
+2026-02-24,Corn & Cheese,6,0,0
+2026-02-24,Mushroom Delight,2,0,0
+2026-02-24,Hawaiian,3,0,0
+2026-02-24,Spicy Jalapeno Chicken,5,0,0
+2026-02-25,Margherita,10,0,0
+2026-02-25,Pepperoni,9,0,0
+2026-02-25,Veggie Supreme,12,0,0
+2026-02-25,Paneer Tikka,13,0,0
+2026-02-25,Chicken BBQ,3,0,0
+2026-02-25,Farmhouse,1,0,0
+2026-02-25,Corn & Cheese,4,0,0
+2026-02-25,Mushroom Delight,4,0,0
+2026-02-25,Hawaiian,1,0,0
+2026-02-25,Spicy Jalapeno Chicken,1,0,0
+2026-02-26,Margherita,6,0,0
+2026-02-26,Pepperoni,12,0,0
+2026-02-26,Veggie Supreme,7,0,0
+2026-02-26,Paneer Tikka,11,0,0
+2026-02-26,Chicken BBQ,9,0,0
+2026-02-26,Farmhouse,8,0,0
+2026-02-26,Corn & Cheese,4,0,0
+2026-02-26,Mushroom Delight,3,0,0
+2026-02-26,Hawaiian,5,0,0
+2026-02-26,Spicy Jalapeno Chicken,4,0,0
+2026-02-27,Margherita,19,0,0
+2026-02-27,Pepperoni,9,0,0
+2026-02-27,Veggie Supreme,14,0,0
+2026-02-27,Paneer Tikka,7,0,0
+2026-02-27,Chicken BBQ,7,0,0
+2026-02-27,Farmhouse,10,0,0
+2026-02-27,Corn & Cheese,5,0,0
+2026-02-27,Mushroom Delight,4,0,0
+2026-02-27,Hawaiian,3,0,0
+2026-02-27,Spicy Jalapeno Chicken,18,0,0
+2026-02-28,Margherita,12,0,0
+2026-02-28,Pepperoni,26,0,0
+2026-02-28,Veggie Supreme,19,0,0
+2026-02-28,Paneer Tikka,14,0,0
+2026-02-28,Chicken BBQ,15,0,0
+2026-02-28,Farmhouse,18,0,0
+2026-02-28,Corn & Cheese,13,0,0
+2026-02-28,Mushroom Delight,7,0,0
+2026-02-28,Hawaiian,12,0,0
+2026-02-28,Spicy Jalapeno Chicken,11,0,0
+2026-03-01,Margherita,23,1,0
+2026-03-01,Pepperoni,21,1,0
+2026-03-01,Veggie Supreme,18,1,0
+2026-03-01,Paneer Tikka,18,1,0
+2026-03-01,Chicken BBQ,20,1,0
+2026-03-01,Farmhouse,13,1,0
+2026-03-01,Corn & Cheese,9,1,0
+2026-03-01,Mushroom Delight,6,1,0
+2026-03-01,Hawaiian,9,1,0
+2026-03-01,Spicy Jalapeno Chicken,17,1,0
+2026-03-02,Margherita,5,0,0
+2026-03-02,Pepperoni,6,0,0
+2026-03-02,Veggie Supreme,5,0,0
+2026-03-02,Paneer Tikka,11,0,0
+2026-03-02,Chicken BBQ,6,0,0
+2026-03-02,Farmhouse,12,0,0
+2026-03-02,Corn & Cheese,2,0,0
+2026-03-02,Mushroom Delight,4,0,0
+2026-03-02,Hawaiian,4,0,0
+2026-03-02,Spicy Jalapeno Chicken,5,0,0
+2026-03-03,Margherita,14,0,0
+2026-03-03,Pepperoni,9,0,0
+2026-03-03,Veggie Supreme,3,0,0
+2026-03-03,Paneer Tikka,4,0,0
+2026-03-03,Chicken BBQ,6,0,0
+2026-03-03,Farmhouse,3,0,0
+2026-03-03,Corn & Cheese,5,0,0
+2026-03-03,Mushroom Delight,3,0,0
+2026-03-03,Hawaiian,3,0,0
+2026-03-03,Spicy Jalapeno Chicken,4,0,0
+2026-03-04,Margherita,5,0,0
+2026-03-04,Pepperoni,6,0,0
+2026-03-04,Veggie Supreme,10,0,0
+2026-03-04,Paneer Tikka,9,0,0
+2026-03-04,Chicken BBQ,6,0,0
+2026-03-04,Farmhouse,7,0,0
+2026-03-04,Corn & Cheese,9,0,0
+2026-03-04,Mushroom Delight,7,0,0
+2026-03-04,Hawaiian,5,0,0
+2026-03-04,Spicy Jalapeno Chicken,5,0,0
+2026-03-05,Margherita,11,0,0
+2026-03-05,Pepperoni,8,0,0
+2026-03-05,Veggie Supreme,8,0,0
+2026-03-05,Paneer Tikka,10,0,0
+2026-03-05,Chicken BBQ,4,0,0
+2026-03-05,Farmhouse,1,0,0
+2026-03-05,Corn & Cheese,6,0,0
+2026-03-05,Mushroom Delight,9,0,0
+2026-03-05,Hawaiian,7,0,0
+2026-03-05,Spicy Jalapeno Chicken,6,0,0
+2026-03-06,Margherita,16,0,0
+2026-03-06,Pepperoni,15,0,0
+2026-03-06,Veggie Supreme,17,0,0
+2026-03-06,Paneer Tikka,7,0,0
+2026-03-06,Chicken BBQ,8,0,0
+2026-03-06,Farmhouse,11,0,0
+2026-03-06,Corn & Cheese,7,0,0
+2026-03-06,Mushroom Delight,8,0,0
+2026-03-06,Hawaiian,7,0,0
+2026-03-06,Spicy Jalapeno Chicken,11,0,0
+2026-03-07,Margherita,19,1,0
+2026-03-07,Pepperoni,20,1,0
+2026-03-07,Veggie Supreme,12,1,0
+2026-03-07,Paneer Tikka,24,1,0
+2026-03-07,Chicken BBQ,17,1,0
+2026-03-07,Farmhouse,13,1,0
+2026-03-07,Corn & Cheese,7,1,0
+2026-03-07,Mushroom Delight,9,1,0
+2026-03-07,Hawaiian,12,1,0
+2026-03-07,Spicy Jalapeno Chicken,20,1,0
+2026-03-08,Margherita,23,0,0
+2026-03-08,Pepperoni,27,0,0
+2026-03-08,Veggie Supreme,9,0,0
+2026-03-08,Paneer Tikka,11,0,0
+2026-03-08,Chicken BBQ,12,0,0
+2026-03-08,Farmhouse,14,0,0
+2026-03-08,Corn & Cheese,7,0,0
+2026-03-08,Mushroom Delight,11,0,0
+2026-03-08,Hawaiian,12,0,0
+2026-03-08,Spicy Jalapeno Chicken,11,0,0
+2026-03-09,Margherita,17,0,0
+2026-03-09,Pepperoni,3,0,0
+2026-03-09,Veggie Supreme,5,0,0
+2026-03-09,Paneer Tikka,6,0,0
+2026-03-09,Chicken BBQ,9,0,0
+2026-03-09,Farmhouse,5,0,0
+2026-03-09,Corn & Cheese,5,0,0
+2026-03-09,Mushroom Delight,1,0,0
+2026-03-09,Hawaiian,7,0,0
+2026-03-09,Spicy Jalapeno Chicken,1,0,0
+2026-03-10,Margherita,7,0,0
+2026-03-10,Pepperoni,8,0,0
+2026-03-10,Veggie Supreme,4,0,0
+2026-03-10,Paneer Tikka,6,0,0
+2026-03-10,Chicken BBQ,4,0,0
+2026-03-10,Farmhouse,3,0,0
+2026-03-10,Corn & Cheese,8,0,0
+2026-03-10,Mushroom Delight,4,0,0
+2026-03-10,Hawaiian,4,0,0
+2026-03-10,Spicy Jalapeno Chicken,6,0,0
+2026-03-11,Margherita,11,0,0
+2026-03-11,Pepperoni,13,0,0
+2026-03-11,Veggie Supreme,10,0,0
+2026-03-11,Paneer Tikka,5,0,0
+2026-03-11,Chicken BBQ,4,0,0
+2026-03-11,Farmhouse,5,0,0
+2026-03-11,Corn & Cheese,5,0,0
+2026-03-11,Mushroom Delight,3,0,0
+2026-03-11,Hawaiian,5,0,0
+2026-03-11,Spicy Jalapeno Chicken,4,0,0
+2026-03-12,Margherita,9,0,0
+2026-03-12,Pepperoni,8,0,0
+2026-03-12,Veggie Supreme,4,0,0
+2026-03-12,Paneer Tikka,6,0,0
+2026-03-12,Chicken BBQ,9,0,0
+2026-03-12,Farmhouse,6,0,0
+2026-03-12,Corn & Cheese,5,0,0
+2026-03-12,Mushroom Delight,5,0,0
+2026-03-12,Hawaiian,7,0,0
+2026-03-12,Spicy Jalapeno Chicken,6,0,0
+2026-03-13,Margherita,20,0,0
+2026-03-13,Pepperoni,14,0,0
+2026-03-13,Veggie Supreme,12,0,0
+2026-03-13,Paneer Tikka,6,0,0
+2026-03-13,Chicken BBQ,15,0,0
+2026-03-13,Farmhouse,7,0,0
+2026-03-13,Corn & Cheese,11,0,0
+2026-03-13,Mushroom Delight,5,0,0
+2026-03-13,Hawaiian,1,0,0
+2026-03-13,Spicy Jalapeno Chicken,10,0,0
+2026-03-14,Margherita,26,1,0
+2026-03-14,Pepperoni,25,1,0
+2026-03-14,Veggie Supreme,25,1,0
+2026-03-14,Paneer Tikka,23,1,0
+2026-03-14,Chicken BBQ,23,1,0
+2026-03-14,Farmhouse,9,1,0
+2026-03-14,Corn & Cheese,19,1,0
+2026-03-14,Mushroom Delight,9,1,0
+2026-03-14,Hawaiian,19,1,0
+2026-03-14,Spicy Jalapeno Chicken,16,1,0
+2026-03-15,Margherita,18,0,0
+2026-03-15,Pepperoni,20,0,0
+2026-03-15,Veggie Supreme,19,0,0
+2026-03-15,Paneer Tikka,18,0,0
+2026-03-15,Chicken BBQ,19,0,0
+2026-03-15,Farmhouse,20,0,0
+2026-03-15,Corn & Cheese,15,0,0
+2026-03-15,Mushroom Delight,8,0,0
+2026-03-15,Hawaiian,5,0,0
+2026-03-15,Spicy Jalapeno Chicken,10,0,0
+2026-03-16,Margherita,8,0,0
+2026-03-16,Pepperoni,5,0,0
+2026-03-16,Veggie Supreme,9,0,0
+2026-03-16,Paneer Tikka,7,0,0
+2026-03-16,Chicken BBQ,6,0,0
+2026-03-16,Farmhouse,10,0,0
+2026-03-16,Corn & Cheese,4,0,0
+2026-03-16,Mushroom Delight,2,0,0
+2026-03-16,Hawaiian,2,0,0
+2026-03-16,Spicy Jalapeno Chicken,4,0,0
+2026-03-17,Margherita,9,0,0
+2026-03-17,Pepperoni,9,0,0
+2026-03-17,Veggie Supreme,4,0,0
+2026-03-17,Paneer Tikka,4,0,0
+2026-03-17,Chicken BBQ,7,0,0
+2026-03-17,Farmhouse,1,0,0
+2026-03-17,Corn & Cheese,4,0,0
+2026-03-17,Mushroom Delight,3,0,0
+2026-03-17,Hawaiian,4,0,0
+2026-03-17,Spicy Jalapeno Chicken,4,0,0
+2026-03-18,Margherita,8,0,0
+2026-03-18,Pepperoni,9,0,0
+2026-03-18,Veggie Supreme,2,0,0
+2026-03-18,Paneer Tikka,7,0,0
+2026-03-18,Chicken BBQ,6,0,0
+2026-03-18,Farmhouse,4,0,0
+2026-03-18,Corn & Cheese,4,0,0
+2026-03-18,Mushroom Delight,3,0,0
+2026-03-18,Hawaiian,6,0,0
+2026-03-18,Spicy Jalapeno Chicken,8,0,0
+2026-03-19,Margherita,11,1,0
+2026-03-19,Pepperoni,14,1,0
+2026-03-19,Veggie Supreme,14,1,0
+2026-03-19,Paneer Tikka,5,1,0
+2026-03-19,Chicken BBQ,9,1,0
+2026-03-19,Farmhouse,9,1,0
+2026-03-19,Corn & Cheese,6,1,0
+2026-03-19,Mushroom Delight,3,1,0
+2026-03-19,Hawaiian,4,1,0
+2026-03-19,Spicy Jalapeno Chicken,6,1,0
+2026-03-20,Margherita,27,1,0
+2026-03-20,Pepperoni,21,1,0
+2026-03-20,Veggie Supreme,5,1,0
+2026-03-20,Paneer Tikka,14,1,0
+2026-03-20,Chicken BBQ,8,1,0
+2026-03-20,Farmhouse,13,1,0
+2026-03-20,Corn & Cheese,4,1,0
+2026-03-20,Mushroom Delight,10,1,0
+2026-03-20,Hawaiian,8,1,0
+2026-03-20,Spicy Jalapeno Chicken,5,1,0
+2026-03-21,Margherita,28,1,0
+2026-03-21,Pepperoni,23,1,0
+2026-03-21,Veggie Supreme,19,1,0
+2026-03-21,Paneer Tikka,27,1,0
+2026-03-21,Chicken BBQ,21,1,0
+2026-03-21,Farmhouse,14,1,0
+2026-03-21,Corn & Cheese,12,1,0
+2026-03-21,Mushroom Delight,5,1,0
+2026-03-21,Hawaiian,19,1,0
+2026-03-21,Spicy Jalapeno Chicken,13,1,0
+2026-03-22,Margherita,16,0,0
+2026-03-22,Pepperoni,30,0,0
+2026-03-22,Veggie Supreme,9,0,0
+2026-03-22,Paneer Tikka,20,0,0
+2026-03-22,Chicken BBQ,17,0,0
+2026-03-22,Farmhouse,14,0,0
+2026-03-22,Corn & Cheese,13,0,0
+2026-03-22,Mushroom Delight,7,0,0
+2026-03-22,Hawaiian,8,0,0
+2026-03-22,Spicy Jalapeno Chicken,5,0,0
+2026-03-23,Margherita,9,0,0
+2026-03-23,Pepperoni,8,0,0
+2026-03-23,Veggie Supreme,10,0,0
+2026-03-23,Paneer Tikka,11,0,0
+2026-03-23,Chicken BBQ,5,0,0
+2026-03-23,Farmhouse,4,0,0
+2026-03-23,Corn & Cheese,3,0,0
+2026-03-23,Mushroom Delight,2,0,0
+2026-03-23,Hawaiian,3,0,0
+2026-03-23,Spicy Jalapeno Chicken,4,0,0
+2026-03-24,Margherita,5,0,0
+2026-03-24,Pepperoni,11,0,0
+2026-03-24,Veggie Supreme,6,0,0
+2026-03-24,Paneer Tikka,11,0,0
+2026-03-24,Chicken BBQ,6,0,0
+2026-03-24,Farmhouse,2,0,0
+2026-03-24,Corn & Cheese,3,0,0
+2026-03-24,Mushroom Delight,3,0,0
+2026-03-24,Hawaiian,9,0,0
+2026-03-24,Spicy Jalapeno Chicken,3,0,0
+2026-03-25,Margherita,13,0,0
+2026-03-25,Pepperoni,13,0,0
+2026-03-25,Veggie Supreme,4,0,0
+2026-03-25,Paneer Tikka,2,0,0
+2026-03-25,Chicken BBQ,3,0,0
+2026-03-25,Farmhouse,3,0,0
+2026-03-25,Corn & Cheese,4,0,0
+2026-03-25,Mushroom Delight,5,0,0
+2026-03-25,Hawaiian,8,0,0
+2026-03-25,Spicy Jalapeno Chicken,4,0,0
+2026-03-26,Margherita,8,0,0
+2026-03-26,Pepperoni,12,0,0
+2026-03-26,Veggie Supreme,8,0,0
+2026-03-26,Paneer Tikka,11,0,0
+2026-03-26,Chicken BBQ,10,0,0
+2026-03-26,Farmhouse,4,0,0
+2026-03-26,Corn & Cheese,2,0,0
+2026-03-26,Mushroom Delight,2,0,0
+2026-03-26,Hawaiian,5,0,0
+2026-03-26,Spicy Jalapeno Chicken,6,0,0
+2026-03-27,Margherita,19,0,0
+2026-03-27,Pepperoni,15,0,0
+2026-03-27,Veggie Supreme,9,0,0
+2026-03-27,Paneer Tikka,12,0,0
+2026-03-27,Chicken BBQ,12,0,0
+2026-03-27,Farmhouse,11,0,0
+2026-03-27,Corn & Cheese,8,0,0
+2026-03-27,Mushroom Delight,5,0,0
+2026-03-27,Hawaiian,10,0,0
+2026-03-27,Spicy Jalapeno Chicken,8,0,0
+2026-03-28,Margherita,16,0,0
+2026-03-28,Pepperoni,19,0,0
+2026-03-28,Veggie Supreme,17,0,0
+2026-03-28,Paneer Tikka,20,0,0
+2026-03-28,Chicken BBQ,19,0,0
+2026-03-28,Farmhouse,14,0,0
+2026-03-28,Corn & Cheese,20,0,0
+2026-03-28,Mushroom Delight,6,0,0
+2026-03-28,Hawaiian,9,0,0
+2026-03-28,Spicy Jalapeno Chicken,12,0,0
+2026-03-29,Margherita,20,0,0
+2026-03-29,Pepperoni,20,0,0
+2026-03-29,Veggie Supreme,17,0,0
+2026-03-29,Paneer Tikka,12,0,0
+2026-03-29,Chicken BBQ,27,0,0
+2026-03-29,Farmhouse,12,0,0
+2026-03-29,Corn & Cheese,13,0,0
+2026-03-29,Mushroom Delight,6,0,0
+2026-03-29,Hawaiian,5,0,0
+2026-03-29,Spicy Jalapeno Chicken,15,0,0
+2026-03-30,Margherita,11,0,0
+2026-03-30,Pepperoni,7,0,0
+2026-03-30,Veggie Supreme,7,0,0
+2026-03-30,Paneer Tikka,9,0,0
+2026-03-30,Chicken BBQ,5,0,0
+2026-03-30,Farmhouse,3,0,0
+2026-03-30,Corn & Cheese,5,0,0
+2026-03-30,Mushroom Delight,3,0,0
+2026-03-30,Hawaiian,6,0,0
+2026-03-30,Spicy Jalapeno Chicken,1,0,0
+2026-03-31,Margherita,11,0,0
+2026-03-31,Pepperoni,7,0,0
+2026-03-31,Veggie Supreme,7,0,0
+2026-03-31,Paneer Tikka,6,0,0
+2026-03-31,Chicken BBQ,4,0,0
+2026-03-31,Farmhouse,6,0,0
+2026-03-31,Corn & Cheese,2,0,0
+2026-03-31,Mushroom Delight,2,0,0
+2026-03-31,Hawaiian,6,0,0
+2026-03-31,Spicy Jalapeno Chicken,5,0,0
+2026-04-01,Margherita,7,0,0
+2026-04-01,Pepperoni,6,0,0
+2026-04-01,Veggie Supreme,12,0,0
+2026-04-01,Paneer Tikka,5,0,0
+2026-04-01,Chicken BBQ,5,0,0
+2026-04-01,Farmhouse,5,0,0
+2026-04-01,Corn & Cheese,6,0,0
+2026-04-01,Mushroom Delight,6,0,0
+2026-04-01,Hawaiian,5,0,0
+2026-04-01,Spicy Jalapeno Chicken,4,0,0
+2026-04-02,Margherita,9,0,0
+2026-04-02,Pepperoni,9,0,0
+2026-04-02,Veggie Supreme,5,0,0
+2026-04-02,Paneer Tikka,7,0,0
+2026-04-02,Chicken BBQ,6,0,0
+2026-04-02,Farmhouse,4,0,0
+2026-04-02,Corn & Cheese,7,0,0
+2026-04-02,Mushroom Delight,6,0,0
+2026-04-02,Hawaiian,3,0,0
+2026-04-02,Spicy Jalapeno Chicken,10,0,0
+2026-04-03,Margherita,20,0,0
+2026-04-03,Pepperoni,19,0,0
+2026-04-03,Veggie Supreme,11,0,0
+2026-04-03,Paneer Tikka,16,0,0
+2026-04-03,Chicken BBQ,8,0,0
+2026-04-03,Farmhouse,9,0,0
+2026-04-03,Corn & Cheese,6,0,0
+2026-04-03,Mushroom Delight,7,0,0
+2026-04-03,Hawaiian,8,0,0
+2026-04-03,Spicy Jalapeno Chicken,11,0,0
+2026-04-04,Margherita,19,0,0
+2026-04-04,Pepperoni,23,0,0
+2026-04-04,Veggie Supreme,13,0,0
+2026-04-04,Paneer Tikka,20,0,0
+2026-04-04,Chicken BBQ,19,0,0
+2026-04-04,Farmhouse,15,0,0
+2026-04-04,Corn & Cheese,11,0,0
+2026-04-04,Mushroom Delight,11,0,0
+2026-04-04,Hawaiian,16,0,0
+2026-04-04,Spicy Jalapeno Chicken,13,0,0
+2026-04-05,Margherita,24,0,0
+2026-04-05,Pepperoni,36,0,0
+2026-04-05,Veggie Supreme,13,0,0
+2026-04-05,Paneer Tikka,18,0,0
+2026-04-05,Chicken BBQ,17,0,0
+2026-04-05,Farmhouse,11,0,0
+2026-04-05,Corn & Cheese,6,0,0
+2026-04-05,Mushroom Delight,2,0,0
+2026-04-05,Hawaiian,3,0,0
+2026-04-05,Spicy Jalapeno Chicken,14,0,0
+2026-04-06,Margherita,9,0,0
+2026-04-06,Pepperoni,9,0,0
+2026-04-06,Veggie Supreme,7,0,0
+2026-04-06,Paneer Tikka,10,0,0
+2026-04-06,Chicken BBQ,3,0,0
+2026-04-06,Farmhouse,4,0,0
+2026-04-06,Corn & Cheese,7,0,0
+2026-04-06,Mushroom Delight,5,0,0
+2026-04-06,Hawaiian,7,0,0
+2026-04-06,Spicy Jalapeno Chicken,1,0,0
+2026-04-07,Margherita,7,0,0
+2026-04-07,Pepperoni,7,0,0
+2026-04-07,Veggie Supreme,5,0,0
+2026-04-07,Paneer Tikka,8,0,0
+2026-04-07,Chicken BBQ,9,0,0
+2026-04-07,Farmhouse,4,0,0
+2026-04-07,Corn & Cheese,4,0,0
+2026-04-07,Mushroom Delight,2,0,0
+2026-04-07,Hawaiian,3,0,0
+2026-04-07,Spicy Jalapeno Chicken,6,0,0
+2026-04-08,Margherita,14,0,0
+2026-04-08,Pepperoni,7,0,0
+2026-04-08,Veggie Supreme,8,0,0
+2026-04-08,Paneer Tikka,7,0,0
+2026-04-08,Chicken BBQ,3,0,0
+2026-04-08,Farmhouse,3,0,0
+2026-04-08,Corn & Cheese,6,0,0
+2026-04-08,Mushroom Delight,2,0,0
+2026-04-08,Hawaiian,6,0,0
+2026-04-08,Spicy Jalapeno Chicken,3,0,0
+2026-04-09,Margherita,12,0,0
+2026-04-09,Pepperoni,7,0,0
+2026-04-09,Veggie Supreme,6,0,0
+2026-04-09,Paneer Tikka,13,0,0
+2026-04-09,Chicken BBQ,4,0,0
+2026-04-09,Farmhouse,5,0,0
+2026-04-09,Corn & Cheese,5,0,0
+2026-04-09,Mushroom Delight,3,0,0
+2026-04-09,Hawaiian,6,0,0
+2026-04-09,Spicy Jalapeno Chicken,5,0,0
+2026-04-10,Margherita,20,0,0
+2026-04-10,Pepperoni,12,0,0
+2026-04-10,Veggie Supreme,5,0,0
+2026-04-10,Paneer Tikka,16,0,0
+2026-04-10,Chicken BBQ,21,0,0
+2026-04-10,Farmhouse,5,0,0
+2026-04-10,Corn & Cheese,7,0,0
+2026-04-10,Mushroom Delight,7,0,0
+2026-04-10,Hawaiian,11,0,0
+2026-04-10,Spicy Jalapeno Chicken,8,0,0
+2026-04-11,Margherita,26,1,0
+2026-04-11,Pepperoni,26,1,0
+2026-04-11,Veggie Supreme,14,1,0
+2026-04-11,Paneer Tikka,18,1,0
+2026-04-11,Chicken BBQ,21,1,0
+2026-04-11,Farmhouse,17,1,0
+2026-04-11,Corn & Cheese,17,1,0
+2026-04-11,Mushroom Delight,9,1,0
+2026-04-11,Hawaiian,13,1,0
+2026-04-11,Spicy Jalapeno Chicken,14,1,0
+2026-04-12,Margherita,19,0,0
+2026-04-12,Pepperoni,31,0,0
+2026-04-12,Veggie Supreme,12,0,0
+2026-04-12,Paneer Tikka,20,0,0
+2026-04-12,Chicken BBQ,20,0,0
+2026-04-12,Farmhouse,8,0,0
+2026-04-12,Corn & Cheese,11,0,0
+2026-04-12,Mushroom Delight,6,0,0
+2026-04-12,Hawaiian,9,0,0
+2026-04-12,Spicy Jalapeno Chicken,17,0,0
+2026-04-13,Margherita,11,0,0
+2026-04-13,Pepperoni,12,0,0
+2026-04-13,Veggie Supreme,8,0,0
+2026-04-13,Paneer Tikka,5,0,0
+2026-04-13,Chicken BBQ,4,0,0
+2026-04-13,Farmhouse,4,0,0
+2026-04-13,Corn & Cheese,3,0,0
+2026-04-13,Mushroom Delight,7,0,0
+2026-04-13,Hawaiian,3,0,0
+2026-04-13,Spicy Jalapeno Chicken,4,0,0
+2026-04-14,Margherita,6,0,0
+2026-04-14,Pepperoni,3,0,0
+2026-04-14,Veggie Supreme,4,0,0
+2026-04-14,Paneer Tikka,8,0,0
+2026-04-14,Chicken BBQ,7,0,0
+2026-04-14,Farmhouse,3,0,0
+2026-04-14,Corn & Cheese,7,0,0
+2026-04-14,Mushroom Delight,4,0,0
+2026-04-14,Hawaiian,4,0,0
+2026-04-14,Spicy Jalapeno Chicken,2,0,0
+2026-04-15,Margherita,13,0,0
+2026-04-15,Pepperoni,7,0,0
+2026-04-15,Veggie Supreme,7,0,0
+2026-04-15,Paneer Tikka,9,0,0
+2026-04-15,Chicken BBQ,3,0,0
+2026-04-15,Farmhouse,8,0,0
+2026-04-15,Corn & Cheese,8,0,0
+2026-04-15,Mushroom Delight,3,0,0
+2026-04-15,Hawaiian,3,0,0
+2026-04-15,Spicy Jalapeno Chicken,3,0,0
+2026-04-16,Margherita,12,0,0
+2026-04-16,Pepperoni,12,0,0
+2026-04-16,Veggie Supreme,9,0,0
+2026-04-16,Paneer Tikka,6,0,0
+2026-04-16,Chicken BBQ,4,0,0
+2026-04-16,Farmhouse,5,0,0
+2026-04-16,Corn & Cheese,6,0,0
+2026-04-16,Mushroom Delight,5,0,0
+2026-04-16,Hawaiian,5,0,0
+2026-04-16,Spicy Jalapeno Chicken,6,0,0
+2026-04-17,Margherita,21,0,0
+2026-04-17,Pepperoni,12,0,0
+2026-04-17,Veggie Supreme,13,0,0
+2026-04-17,Paneer Tikka,14,0,0
+2026-04-17,Chicken BBQ,10,0,0
+2026-04-17,Farmhouse,6,0,0
+2026-04-17,Corn & Cheese,11,0,0
+2026-04-17,Mushroom Delight,9,0,0
+2026-04-17,Hawaiian,6,0,0
+2026-04-17,Spicy Jalapeno Chicken,5,0,0
+2026-04-18,Margherita,24,0,0
+2026-04-18,Pepperoni,31,0,0
+2026-04-18,Veggie Supreme,19,0,0
+2026-04-18,Paneer Tikka,33,0,0
+2026-04-18,Chicken BBQ,26,0,0
+2026-04-18,Farmhouse,13,0,0
+2026-04-18,Corn & Cheese,15,0,0
+2026-04-18,Mushroom Delight,7,0,0
+2026-04-18,Hawaiian,12,0,0
+2026-04-18,Spicy Jalapeno Chicken,15,0,0
+2026-04-19,Margherita,11,0,0
+2026-04-19,Pepperoni,20,0,0
+2026-04-19,Veggie Supreme,18,0,0
+2026-04-19,Paneer Tikka,18,0,0
+2026-04-19,Chicken BBQ,18,0,0
+2026-04-19,Farmhouse,8,0,0
+2026-04-19,Corn & Cheese,11,0,0
+2026-04-19,Mushroom Delight,11,0,0
+2026-04-19,Hawaiian,6,0,0
+2026-04-19,Spicy Jalapeno Chicken,19,0,0
+2026-04-20,Margherita,5,0,0
+2026-04-20,Pepperoni,11,0,0
+2026-04-20,Veggie Supreme,6,0,0
+2026-04-20,Paneer Tikka,11,0,0
+2026-04-20,Chicken BBQ,8,0,0
+2026-04-20,Farmhouse,8,0,0
+2026-04-20,Corn & Cheese,3,0,0
+2026-04-20,Mushroom Delight,3,0,0
+2026-04-20,Hawaiian,5,0,0
+2026-04-20,Spicy Jalapeno Chicken,3,0,0
+2026-04-21,Margherita,3,0,0
+2026-04-21,Pepperoni,12,0,0
+2026-04-21,Veggie Supreme,6,0,0
+2026-04-21,Paneer Tikka,6,0,0
+2026-04-21,Chicken BBQ,6,0,0
+2026-04-21,Farmhouse,4,0,0
+2026-04-21,Corn & Cheese,3,0,0
+2026-04-21,Mushroom Delight,2,0,0
+2026-04-21,Hawaiian,4,0,0
+2026-04-21,Spicy Jalapeno Chicken,3,0,0
+2026-04-22,Margherita,12,0,0
+2026-04-22,Pepperoni,7,0,0
+2026-04-22,Veggie Supreme,7,0,0
+2026-04-22,Paneer Tikka,5,0,0
+2026-04-22,Chicken BBQ,11,0,0
+2026-04-22,Farmhouse,7,0,0
+2026-04-22,Corn & Cheese,6,0,0
+2026-04-22,Mushroom Delight,1,0,0
+2026-04-22,Hawaiian,2,0,0
+2026-04-22,Spicy Jalapeno Chicken,4,0,0
+2026-04-23,Margherita,8,0,0
+2026-04-23,Pepperoni,7,0,0
+2026-04-23,Veggie Supreme,17,0,0
+2026-04-23,Paneer Tikka,5,0,0
+2026-04-23,Chicken BBQ,6,0,0
+2026-04-23,Farmhouse,10,0,0
+2026-04-23,Corn & Cheese,7,0,0
+2026-04-23,Mushroom Delight,6,0,0
+2026-04-23,Hawaiian,6,0,0
+2026-04-23,Spicy Jalapeno Chicken,5,0,0
+2026-04-24,Margherita,17,0,0
+2026-04-24,Pepperoni,18,0,0
+2026-04-24,Veggie Supreme,12,0,0
+2026-04-24,Paneer Tikka,12,0,0
+2026-04-24,Chicken BBQ,11,0,0
+2026-04-24,Farmhouse,8,0,0
+2026-04-24,Corn & Cheese,12,0,0
+2026-04-24,Mushroom Delight,5,0,0
+2026-04-24,Hawaiian,6,0,0
+2026-04-24,Spicy Jalapeno Chicken,12,0,0
+2026-04-25,Margherita,20,0,0
+2026-04-25,Pepperoni,29,0,0
+2026-04-25,Veggie Supreme,21,0,0
+2026-04-25,Paneer Tikka,14,0,0
+2026-04-25,Chicken BBQ,23,0,0
+2026-04-25,Farmhouse,13,0,0
+2026-04-25,Corn & Cheese,10,0,0
+2026-04-25,Mushroom Delight,10,0,0
+2026-04-25,Hawaiian,16,0,0
+2026-04-25,Spicy Jalapeno Chicken,12,0,0
+2026-04-26,Margherita,17,0,0
+2026-04-26,Pepperoni,23,0,0
+2026-04-26,Veggie Supreme,16,0,0
+2026-04-26,Paneer Tikka,18,0,0
+2026-04-26,Chicken BBQ,18,0,0
+2026-04-26,Farmhouse,9,0,0
+2026-04-26,Corn & Cheese,12,0,0
+2026-04-26,Mushroom Delight,8,0,0
+2026-04-26,Hawaiian,10,0,0
+2026-04-26,Spicy Jalapeno Chicken,11,0,0
+2026-04-27,Margherita,8,1,0
+2026-04-27,Pepperoni,5,1,0
+2026-04-27,Veggie Supreme,5,1,0
+2026-04-27,Paneer Tikka,8,1,0
+2026-04-27,Chicken BBQ,9,1,0
+2026-04-27,Farmhouse,4,1,0
+2026-04-27,Corn & Cheese,8,1,0
+2026-04-27,Mushroom Delight,4,1,0
+2026-04-27,Hawaiian,5,1,0
+2026-04-27,Spicy Jalapeno Chicken,4,1,0
+2026-04-28,Margherita,10,0,0
+2026-04-28,Pepperoni,13,0,0
+2026-04-28,Veggie Supreme,6,0,0
+2026-04-28,Paneer Tikka,7,0,0
+2026-04-28,Chicken BBQ,6,0,0
+2026-04-28,Farmhouse,6,0,0
+2026-04-28,Corn & Cheese,2,0,0
+2026-04-28,Mushroom Delight,4,0,0
+2026-04-28,Hawaiian,5,0,0
+2026-04-28,Spicy Jalapeno Chicken,5,0,0
+2026-04-29,Margherita,10,0,0
+2026-04-29,Pepperoni,14,0,0
+2026-04-29,Veggie Supreme,6,0,0
+2026-04-29,Paneer Tikka,5,0,0
+2026-04-29,Chicken BBQ,5,0,0
+2026-04-29,Farmhouse,3,0,0
+2026-04-29,Corn & Cheese,0,0,0
+2026-04-29,Mushroom Delight,6,0,0
+2026-04-29,Hawaiian,9,0,0
+2026-04-29,Spicy Jalapeno Chicken,8,0,0
+2026-04-30,Margherita,11,0,0
+2026-04-30,Pepperoni,7,0,0
+2026-04-30,Veggie Supreme,12,0,0
+2026-04-30,Paneer Tikka,5,0,0
+2026-04-30,Chicken BBQ,8,0,0
+2026-04-30,Farmhouse,5,0,0
+2026-04-30,Corn & Cheese,6,0,0
+2026-04-30,Mushroom Delight,4,0,0
+2026-04-30,Hawaiian,6,0,0
+2026-04-30,Spicy Jalapeno Chicken,5,0,0
+2026-05-01,Margherita,18,0,0
+2026-05-01,Pepperoni,19,0,0
+2026-05-01,Veggie Supreme,16,0,0
+2026-05-01,Paneer Tikka,24,0,0
+2026-05-01,Chicken BBQ,7,0,0
+2026-05-01,Farmhouse,7,0,0
+2026-05-01,Corn & Cheese,6,0,0
+2026-05-01,Mushroom Delight,5,0,0
+2026-05-01,Hawaiian,9,0,0
+2026-05-01,Spicy Jalapeno Chicken,9,0,0
+2026-05-02,Margherita,24,0,0
+2026-05-02,Pepperoni,30,0,0
+2026-05-02,Veggie Supreme,22,0,0
+2026-05-02,Paneer Tikka,26,0,0
+2026-05-02,Chicken BBQ,15,0,0
+2026-05-02,Farmhouse,15,0,0
+2026-05-02,Corn & Cheese,14,0,0
+2026-05-02,Mushroom Delight,6,0,0
+2026-05-02,Hawaiian,11,0,0
+2026-05-02,Spicy Jalapeno Chicken,15,0,0
+2026-05-03,Margherita,24,0,0
+2026-05-03,Pepperoni,25,0,0
+2026-05-03,Veggie Supreme,11,0,0
+2026-05-03,Paneer Tikka,14,0,0
+2026-05-03,Chicken BBQ,17,0,0
+2026-05-03,Farmhouse,13,0,0
+2026-05-03,Corn & Cheese,10,0,0
+2026-05-03,Mushroom Delight,7,0,0
+2026-05-03,Hawaiian,9,0,0
+2026-05-03,Spicy Jalapeno Chicken,12,0,0
+2026-05-04,Margherita,7,0,0
+2026-05-04,Pepperoni,5,0,0
+2026-05-04,Veggie Supreme,5,0,0
+2026-05-04,Paneer Tikka,10,0,0
+2026-05-04,Chicken BBQ,6,0,0
+2026-05-04,Farmhouse,4,0,0
+2026-05-04,Corn & Cheese,7,0,0
+2026-05-04,Mushroom Delight,4,0,0
+2026-05-04,Hawaiian,1,0,0
+2026-05-04,Spicy Jalapeno Chicken,7,0,0
+2026-05-05,Margherita,9,0,0
+2026-05-05,Pepperoni,6,0,0
+2026-05-05,Veggie Supreme,3,0,0
+2026-05-05,Paneer Tikka,4,0,0
+2026-05-05,Chicken BBQ,7,0,0
+2026-05-05,Farmhouse,2,0,0
+2026-05-05,Corn & Cheese,9,0,0
+2026-05-05,Mushroom Delight,2,0,0
+2026-05-05,Hawaiian,6,0,0
+2026-05-05,Spicy Jalapeno Chicken,6,0,0
+2026-05-06,Margherita,5,0,0
+2026-05-06,Pepperoni,11,0,0
+2026-05-06,Veggie Supreme,10,0,0
+2026-05-06,Paneer Tikka,2,0,0
+2026-05-06,Chicken BBQ,4,0,0
+2026-05-06,Farmhouse,9,0,0
+2026-05-06,Corn & Cheese,5,0,0
+2026-05-06,Mushroom Delight,2,0,0
+2026-05-06,Hawaiian,4,0,0
+2026-05-06,Spicy Jalapeno Chicken,7,0,0
+2026-05-07,Margherita,11,0,0
+2026-05-07,Pepperoni,14,0,0
+2026-05-07,Veggie Supreme,7,0,0
+2026-05-07,Paneer Tikka,6,0,0
+2026-05-07,Chicken BBQ,6,0,0
+2026-05-07,Farmhouse,5,0,0
+2026-05-07,Corn & Cheese,4,0,0
+2026-05-07,Mushroom Delight,2,0,0
+2026-05-07,Hawaiian,6,0,0
+2026-05-07,Spicy Jalapeno Chicken,8,0,0
+2026-05-08,Margherita,17,0,0
+2026-05-08,Pepperoni,18,0,0
+2026-05-08,Veggie Supreme,14,0,0
+2026-05-08,Paneer Tikka,16,0,0
+2026-05-08,Chicken BBQ,13,0,0
+2026-05-08,Farmhouse,11,0,0
+2026-05-08,Corn & Cheese,5,0,0
+2026-05-08,Mushroom Delight,6,0,0
+2026-05-08,Hawaiian,8,0,0
+2026-05-08,Spicy Jalapeno Chicken,9,0,0
+2026-05-09,Margherita,18,0,0
+2026-05-09,Pepperoni,26,0,0
+2026-05-09,Veggie Supreme,16,0,0
+2026-05-09,Paneer Tikka,16,0,0
+2026-05-09,Chicken BBQ,25,0,0
+2026-05-09,Farmhouse,20,0,0
+2026-05-09,Corn & Cheese,8,0,0
+2026-05-09,Mushroom Delight,12,0,0
+2026-05-09,Hawaiian,4,0,0
+2026-05-09,Spicy Jalapeno Chicken,17,0,0
+2026-05-10,Margherita,10,0,0
+2026-05-10,Pepperoni,27,0,0
+2026-05-10,Veggie Supreme,22,0,0
+2026-05-10,Paneer Tikka,20,0,0
+2026-05-10,Chicken BBQ,21,0,0
+2026-05-10,Farmhouse,10,0,0
+2026-05-10,Corn & Cheese,4,0,0
+2026-05-10,Mushroom Delight,8,0,0
+2026-05-10,Hawaiian,8,0,0
+2026-05-10,Spicy Jalapeno Chicken,9,0,0
+2026-05-11,Margherita,9,0,0
+2026-05-11,Pepperoni,5,0,0
+2026-05-11,Veggie Supreme,8,0,0
+2026-05-11,Paneer Tikka,4,0,0
+2026-05-11,Chicken BBQ,8,0,0
+2026-05-11,Farmhouse,8,0,0
+2026-05-11,Corn & Cheese,4,0,0
+2026-05-11,Mushroom Delight,3,0,0
+2026-05-11,Hawaiian,3,0,0
+2026-05-11,Spicy Jalapeno Chicken,6,0,0
+2026-05-12,Margherita,7,0,0
+2026-05-12,Pepperoni,5,0,0
+2026-05-12,Veggie Supreme,5,0,0
+2026-05-12,Paneer Tikka,7,0,0
+2026-05-12,Chicken BBQ,10,0,0
+2026-05-12,Farmhouse,6,0,0
+2026-05-12,Corn & Cheese,2,0,0
+2026-05-12,Mushroom Delight,5,0,0
+2026-05-12,Hawaiian,2,0,0
+2026-05-12,Spicy Jalapeno Chicken,4,0,0
+2026-05-13,Margherita,10,0,0
+2026-05-13,Pepperoni,12,0,0
+2026-05-13,Veggie Supreme,5,0,0
+2026-05-13,Paneer Tikka,8,0,0
+2026-05-13,Chicken BBQ,10,0,0
+2026-05-13,Farmhouse,2,0,0
+2026-05-13,Corn & Cheese,2,0,0
+2026-05-13,Mushroom Delight,4,0,0
+2026-05-13,Hawaiian,3,0,0
+2026-05-13,Spicy Jalapeno Chicken,5,0,0
+2026-05-14,Margherita,16,1,0
+2026-05-14,Pepperoni,11,1,0
+2026-05-14,Veggie Supreme,9,1,0
+2026-05-14,Paneer Tikka,15,1,0
+2026-05-14,Chicken BBQ,9,1,0
+2026-05-14,Farmhouse,11,1,0
+2026-05-14,Corn & Cheese,6,1,0
+2026-05-14,Mushroom Delight,8,1,0
+2026-05-14,Hawaiian,5,1,0
+2026-05-14,Spicy Jalapeno Chicken,4,1,0
+2026-05-15,Margherita,19,1,0
+2026-05-15,Pepperoni,14,1,0
+2026-05-15,Veggie Supreme,11,1,0
+2026-05-15,Paneer Tikka,19,1,0
+2026-05-15,Chicken BBQ,8,1,0
+2026-05-15,Farmhouse,12,1,0
+2026-05-15,Corn & Cheese,9,1,0
+2026-05-15,Mushroom Delight,10,1,0
+2026-05-15,Hawaiian,12,1,0
+2026-05-15,Spicy Jalapeno Chicken,15,1,0
+2026-05-16,Margherita,14,0,0
+2026-05-16,Pepperoni,28,0,0
+2026-05-16,Veggie Supreme,16,0,0
+2026-05-16,Paneer Tikka,22,0,0
+2026-05-16,Chicken BBQ,15,0,0
+2026-05-16,Farmhouse,9,0,0
+2026-05-16,Corn & Cheese,12,0,0
+2026-05-16,Mushroom Delight,11,0,0
+2026-05-16,Hawaiian,14,0,0
+2026-05-16,Spicy Jalapeno Chicken,21,0,0
+2026-05-17,Margherita,21,0,0
+2026-05-17,Pepperoni,25,0,0
+2026-05-17,Veggie Supreme,9,0,0
+2026-05-17,Paneer Tikka,19,0,0
+2026-05-17,Chicken BBQ,18,0,0
+2026-05-17,Farmhouse,14,0,0
+2026-05-17,Corn & Cheese,8,0,0
+2026-05-17,Mushroom Delight,11,0,0
+2026-05-17,Hawaiian,16,0,0
+2026-05-17,Spicy Jalapeno Chicken,12,0,0
+2026-05-18,Margherita,13,1,0
+2026-05-18,Pepperoni,8,1,0
+2026-05-18,Veggie Supreme,10,1,0
+2026-05-18,Paneer Tikka,9,1,0
+2026-05-18,Chicken BBQ,10,1,0
+2026-05-18,Farmhouse,10,1,0
+2026-05-18,Corn & Cheese,1,1,0
+2026-05-18,Mushroom Delight,3,1,0
+2026-05-18,Hawaiian,4,1,0
+2026-05-18,Spicy Jalapeno Chicken,4,1,0
+2026-05-19,Margherita,14,0,0
+2026-05-19,Pepperoni,2,0,0
+2026-05-19,Veggie Supreme,5,0,0
+2026-05-19,Paneer Tikka,8,0,0
+2026-05-19,Chicken BBQ,4,0,0
+2026-05-19,Farmhouse,4,0,0
+2026-05-19,Corn & Cheese,7,0,0
+2026-05-19,Mushroom Delight,2,0,0
+2026-05-19,Hawaiian,1,0,0
+2026-05-19,Spicy Jalapeno Chicken,4,0,0
+2026-05-20,Margherita,10,1,0
+2026-05-20,Pepperoni,11,1,0
+2026-05-20,Veggie Supreme,6,1,0
+2026-05-20,Paneer Tikka,10,1,0
+2026-05-20,Chicken BBQ,13,1,0
+2026-05-20,Farmhouse,7,1,0
+2026-05-20,Corn & Cheese,11,1,0
+2026-05-20,Mushroom Delight,2,1,0
+2026-05-20,Hawaiian,5,1,0
+2026-05-20,Spicy Jalapeno Chicken,5,1,0
+2026-05-21,Margherita,8,0,0
+2026-05-21,Pepperoni,12,0,0
+2026-05-21,Veggie Supreme,6,0,0
+2026-05-21,Paneer Tikka,8,0,0
+2026-05-21,Chicken BBQ,11,0,0
+2026-05-21,Farmhouse,3,0,0
+2026-05-21,Corn & Cheese,4,0,0
+2026-05-21,Mushroom Delight,1,0,0
+2026-05-21,Hawaiian,5,0,0
+2026-05-21,Spicy Jalapeno Chicken,7,0,0
+2026-05-22,Margherita,13,0,0
+2026-05-22,Pepperoni,18,0,0
+2026-05-22,Veggie Supreme,10,0,0
+2026-05-22,Paneer Tikka,13,0,0
+2026-05-22,Chicken BBQ,11,0,0
+2026-05-22,Farmhouse,13,0,0
+2026-05-22,Corn & Cheese,9,0,0
+2026-05-22,Mushroom Delight,6,0,0
+2026-05-22,Hawaiian,11,0,0
+2026-05-22,Spicy Jalapeno Chicken,8,0,0
+2026-05-23,Margherita,29,0,0
+2026-05-23,Pepperoni,24,0,0
+2026-05-23,Veggie Supreme,11,0,0
+2026-05-23,Paneer Tikka,21,0,0
+2026-05-23,Chicken BBQ,17,0,0
+2026-05-23,Farmhouse,14,0,0
+2026-05-23,Corn & Cheese,17,0,0
+2026-05-23,Mushroom Delight,7,0,0
+2026-05-23,Hawaiian,17,0,0
+2026-05-23,Spicy Jalapeno Chicken,16,0,0
+2026-05-24,Margherita,20,0,0
+2026-05-24,Pepperoni,23,0,0
+2026-05-24,Veggie Supreme,22,0,0
+2026-05-24,Paneer Tikka,12,0,0
+2026-05-24,Chicken BBQ,10,0,0
+2026-05-24,Farmhouse,11,0,0
+2026-05-24,Corn & Cheese,9,0,0
+2026-05-24,Mushroom Delight,4,0,0
+2026-05-24,Hawaiian,10,0,0
+2026-05-24,Spicy Jalapeno Chicken,11,0,0
+2026-05-25,Margherita,9,1,0
+2026-05-25,Pepperoni,5,1,0
+2026-05-25,Veggie Supreme,5,1,0
+2026-05-25,Paneer Tikka,8,1,0
+2026-05-25,Chicken BBQ,7,1,0
+2026-05-25,Farmhouse,4,1,0
+2026-05-25,Corn & Cheese,7,1,0
+2026-05-25,Mushroom Delight,5,1,0
+2026-05-25,Hawaiian,9,1,0
+2026-05-25,Spicy Jalapeno Chicken,11,1,0
+2026-05-26,Margherita,6,0,0
+2026-05-26,Pepperoni,4,0,0
+2026-05-26,Veggie Supreme,2,0,0
+2026-05-26,Paneer Tikka,5,0,0
+2026-05-26,Chicken BBQ,8,0,0
+2026-05-26,Farmhouse,11,0,0
+2026-05-26,Corn & Cheese,6,0,0
+2026-05-26,Mushroom Delight,2,0,0
+2026-05-26,Hawaiian,2,0,0
+2026-05-26,Spicy Jalapeno Chicken,2,0,0
+2026-05-27,Margherita,12,0,0
+2026-05-27,Pepperoni,12,0,0
+2026-05-27,Veggie Supreme,10,0,0
+2026-05-27,Paneer Tikka,6,0,0
+2026-05-27,Chicken BBQ,7,0,0
+2026-05-27,Farmhouse,6,0,0
+2026-05-27,Corn & Cheese,3,0,0
+2026-05-27,Mushroom Delight,5,0,0
+2026-05-27,Hawaiian,1,0,0
+2026-05-27,Spicy Jalapeno Chicken,5,0,0
+2026-05-28,Margherita,7,0,0
+2026-05-28,Pepperoni,12,0,0
+2026-05-28,Veggie Supreme,4,0,0
+2026-05-28,Paneer Tikka,12,0,0
+2026-05-28,Chicken BBQ,10,0,0
+2026-05-28,Farmhouse,8,0,0
+2026-05-28,Corn & Cheese,8,0,0
+2026-05-28,Mushroom Delight,2,0,0
+2026-05-28,Hawaiian,5,0,0
+2026-05-28,Spicy Jalapeno Chicken,7,0,0
+2026-05-29,Margherita,18,0,0
+2026-05-29,Pepperoni,15,0,0
+2026-05-29,Veggie Supreme,13,0,0
+2026-05-29,Paneer Tikka,14,0,0
+2026-05-29,Chicken BBQ,16,0,0
+2026-05-29,Farmhouse,9,0,0
+2026-05-29,Corn & Cheese,13,0,0
+2026-05-29,Mushroom Delight,6,0,0
+2026-05-29,Hawaiian,7,0,0
+2026-05-29,Spicy Jalapeno Chicken,10,0,0
+2026-05-30,Margherita,18,0,0
+2026-05-30,Pepperoni,25,0,0
+2026-05-30,Veggie Supreme,13,0,0
+2026-05-30,Paneer Tikka,18,0,0
+2026-05-30,Chicken BBQ,20,0,0
+2026-05-30,Farmhouse,14,0,0
+2026-05-30,Corn & Cheese,15,0,0
+2026-05-30,Mushroom Delight,6,0,0
+2026-05-30,Hawaiian,17,0,0
+2026-05-30,Spicy Jalapeno Chicken,10,0,0
+2026-05-31,Margherita,25,0,0
+2026-05-31,Pepperoni,19,0,0
+2026-05-31,Veggie Supreme,17,0,0
+2026-05-31,Paneer Tikka,15,0,0
+2026-05-31,Chicken BBQ,23,0,0
+2026-05-31,Farmhouse,15,0,0
+2026-05-31,Corn & Cheese,9,0,0
+2026-05-31,Mushroom Delight,12,0,0
+2026-05-31,Hawaiian,7,0,0
+2026-05-31,Spicy Jalapeno Chicken,15,0,0
+2026-06-01,Margherita,5,0,0
+2026-06-01,Pepperoni,9,0,0
+2026-06-01,Veggie Supreme,9,0,0
+2026-06-01,Paneer Tikka,4,0,0
+2026-06-01,Chicken BBQ,6,0,0
+2026-06-01,Farmhouse,4,0,0
+2026-06-01,Corn & Cheese,7,0,0
+2026-06-01,Mushroom Delight,2,0,0
+2026-06-01,Hawaiian,8,0,0
+2026-06-01,Spicy Jalapeno Chicken,4,0,0
+2026-06-02,Margherita,8,0,0
+2026-06-02,Pepperoni,9,0,0
+2026-06-02,Veggie Supreme,8,0,0
+2026-06-02,Paneer Tikka,7,0,0
+2026-06-02,Chicken BBQ,4,0,0
+2026-06-02,Farmhouse,3,0,0
+2026-06-02,Corn & Cheese,14,0,0
+2026-06-02,Mushroom Delight,2,0,0
+2026-06-02,Hawaiian,4,0,0
+2026-06-02,Spicy Jalapeno Chicken,2,0,0
+2026-06-03,Margherita,6,0,0
+2026-06-03,Pepperoni,7,0,0
+2026-06-03,Veggie Supreme,13,0,0
+2026-06-03,Paneer Tikka,13,0,0
+2026-06-03,Chicken BBQ,5,0,0
+2026-06-03,Farmhouse,5,0,0
+2026-06-03,Corn & Cheese,5,0,0
+2026-06-03,Mushroom Delight,4,0,0
+2026-06-03,Hawaiian,3,0,0
+2026-06-03,Spicy Jalapeno Chicken,7,0,0
+2026-06-04,Margherita,13,0,0
+2026-06-04,Pepperoni,6,0,0
+2026-06-04,Veggie Supreme,4,0,0
+2026-06-04,Paneer Tikka,11,0,0
+2026-06-04,Chicken BBQ,7,0,0
+2026-06-04,Farmhouse,9,0,0
+2026-06-04,Corn & Cheese,4,0,0
+2026-06-04,Mushroom Delight,9,0,0
+2026-06-04,Hawaiian,6,0,0
+2026-06-04,Spicy Jalapeno Chicken,5,0,0
+2026-06-05,Margherita,16,0,0
+2026-06-05,Pepperoni,15,0,0
+2026-06-05,Veggie Supreme,13,0,0
+2026-06-05,Paneer Tikka,13,0,0
+2026-06-05,Chicken BBQ,8,0,0
+2026-06-05,Farmhouse,11,0,0
+2026-06-05,Corn & Cheese,9,0,0
+2026-06-05,Mushroom Delight,8,0,0
+2026-06-05,Hawaiian,9,0,0
+2026-06-05,Spicy Jalapeno Chicken,14,0,0
+2026-06-06,Margherita,23,1,0
+2026-06-06,Pepperoni,28,1,0
+2026-06-06,Veggie Supreme,20,1,0
+2026-06-06,Paneer Tikka,25,1,0
+2026-06-06,Chicken BBQ,20,1,0
+2026-06-06,Farmhouse,17,1,0
+2026-06-06,Corn & Cheese,19,1,0
+2026-06-06,Mushroom Delight,8,1,0
+2026-06-06,Hawaiian,14,1,0
+2026-06-06,Spicy Jalapeno Chicken,11,1,0
+2026-06-07,Margherita,21,0,0
+2026-06-07,Pepperoni,28,0,0
+2026-06-07,Veggie Supreme,25,0,0
+2026-06-07,Paneer Tikka,17,0,0
+2026-06-07,Chicken BBQ,13,0,0
+2026-06-07,Farmhouse,14,0,0
+2026-06-07,Corn & Cheese,8,0,0
+2026-06-07,Mushroom Delight,10,0,0
+2026-06-07,Hawaiian,11,0,0
+2026-06-07,Spicy Jalapeno Chicken,15,0,0
+2026-06-08,Margherita,9,0,0
+2026-06-08,Pepperoni,8,0,0
+2026-06-08,Veggie Supreme,7,0,0
+2026-06-08,Paneer Tikka,8,0,0
+2026-06-08,Chicken BBQ,7,0,0
+2026-06-08,Farmhouse,1,0,0
+2026-06-08,Corn & Cheese,4,0,0
+2026-06-08,Mushroom Delight,2,0,0
+2026-06-08,Hawaiian,6,0,0
+2026-06-08,Spicy Jalapeno Chicken,3,0,0
+2026-06-09,Margherita,7,0,0
+2026-06-09,Pepperoni,8,0,0
+2026-06-09,Veggie Supreme,8,0,0
+2026-06-09,Paneer Tikka,6,0,0
+2026-06-09,Chicken BBQ,4,0,0
+2026-06-09,Farmhouse,9,0,0
+2026-06-09,Corn & Cheese,7,0,0
+2026-06-09,Mushroom Delight,2,0,0
+2026-06-09,Hawaiian,4,0,0
+2026-06-09,Spicy Jalapeno Chicken,6,0,0
+2026-06-10,Margherita,10,0,0
+2026-06-10,Pepperoni,7,0,0
+2026-06-10,Veggie Supreme,5,0,0
+2026-06-10,Paneer Tikka,4,0,0
+2026-06-10,Chicken BBQ,9,0,0
+2026-06-10,Farmhouse,3,0,0
+2026-06-10,Corn & Cheese,1,0,0
+2026-06-10,Mushroom Delight,8,0,0
+2026-06-10,Hawaiian,10,0,0
+2026-06-10,Spicy Jalapeno Chicken,4,0,0
+2026-06-11,Margherita,11,0,0
+2026-06-11,Pepperoni,10,0,0
+2026-06-11,Veggie Supreme,7,0,0
+2026-06-11,Paneer Tikka,10,0,0
+2026-06-11,Chicken BBQ,8,0,0
+2026-06-11,Farmhouse,8,0,0
+2026-06-11,Corn & Cheese,9,0,0
+2026-06-11,Mushroom Delight,9,0,0
+2026-06-11,Hawaiian,1,0,0
+2026-06-11,Spicy Jalapeno Chicken,5,0,0
+2026-06-12,Margherita,16,0,0
+2026-06-12,Pepperoni,14,0,0
+2026-06-12,Veggie Supreme,10,0,0
+2026-06-12,Paneer Tikka,18,0,0
+2026-06-12,Chicken BBQ,12,0,0
+2026-06-12,Farmhouse,15,0,0
+2026-06-12,Corn & Cheese,4,0,0
+2026-06-12,Mushroom Delight,4,0,0
+2026-06-12,Hawaiian,10,0,0
+2026-06-12,Spicy Jalapeno Chicken,13,0,0
+2026-06-13,Margherita,35,1,0
+2026-06-13,Pepperoni,24,1,0
+2026-06-13,Veggie Supreme,15,1,0
+2026-06-13,Paneer Tikka,23,1,0
+2026-06-13,Chicken BBQ,22,1,0
+2026-06-13,Farmhouse,17,1,0
+2026-06-13,Corn & Cheese,12,1,0
+2026-06-13,Mushroom Delight,12,1,0
+2026-06-13,Hawaiian,9,1,0
+2026-06-13,Spicy Jalapeno Chicken,18,1,0
+2026-06-14,Margherita,26,0,0
+2026-06-14,Pepperoni,23,0,0
+2026-06-14,Veggie Supreme,16,0,0
+2026-06-14,Paneer Tikka,13,0,0
+2026-06-14,Chicken BBQ,16,0,0
+2026-06-14,Farmhouse,11,0,0
+2026-06-14,Corn & Cheese,16,0,0
+2026-06-14,Mushroom Delight,8,0,0
+2026-06-14,Hawaiian,15,0,0
+2026-06-14,Spicy Jalapeno Chicken,15,0,0
+2026-06-15,Margherita,16,1,0
+2026-06-15,Pepperoni,7,1,0
+2026-06-15,Veggie Supreme,4,1,0
+2026-06-15,Paneer Tikka,7,1,0
+2026-06-15,Chicken BBQ,13,1,0
+2026-06-15,Farmhouse,7,1,0
+2026-06-15,Corn & Cheese,8,1,0
+2026-06-15,Mushroom Delight,6,1,0
+2026-06-15,Hawaiian,9,1,0
+2026-06-15,Spicy Jalapeno Chicken,6,1,0
+2026-06-16,Margherita,15,0,0
+2026-06-16,Pepperoni,5,0,0
+2026-06-16,Veggie Supreme,8,0,0
+2026-06-16,Paneer Tikka,3,0,0
+2026-06-16,Chicken BBQ,5,0,0
+2026-06-16,Farmhouse,8,0,0
+2026-06-16,Corn & Cheese,5,0,0
+2026-06-16,Mushroom Delight,3,0,0
+2026-06-16,Hawaiian,2,0,0
+2026-06-16,Spicy Jalapeno Chicken,4,0,0
+2026-06-17,Margherita,12,0,0
+2026-06-17,Pepperoni,10,0,0
+2026-06-17,Veggie Supreme,7,0,0
+2026-06-17,Paneer Tikka,8,0,0
+2026-06-17,Chicken BBQ,7,0,0
+2026-06-17,Farmhouse,7,0,0
+2026-06-17,Corn & Cheese,5,0,0
+2026-06-17,Mushroom Delight,9,0,0
+2026-06-17,Hawaiian,7,0,0
+2026-06-17,Spicy Jalapeno Chicken,6,0,0
+2026-06-18,Margherita,17,1,0
+2026-06-18,Pepperoni,9,1,0
+2026-06-18,Veggie Supreme,7,1,0
+2026-06-18,Paneer Tikka,4,1,0
+2026-06-18,Chicken BBQ,6,1,0
+2026-06-18,Farmhouse,13,1,0
+2026-06-18,Corn & Cheese,15,1,0
+2026-06-18,Mushroom Delight,2,1,0
+2026-06-18,Hawaiian,8,1,0
+2026-06-18,Spicy Jalapeno Chicken,7,1,0
+2026-06-19,Margherita,25,1,0
+2026-06-19,Pepperoni,18,1,0
+2026-06-19,Veggie Supreme,8,1,0
+2026-06-19,Paneer Tikka,20,1,0
+2026-06-19,Chicken BBQ,24,1,0
+2026-06-19,Farmhouse,10,1,0
+2026-06-19,Corn & Cheese,9,1,0
+2026-06-19,Mushroom Delight,6,1,0
+2026-06-19,Hawaiian,12,1,0
+2026-06-19,Spicy Jalapeno Chicken,14,1,0
+2026-06-20,Margherita,27,0,0
+2026-06-20,Pepperoni,33,0,0
+2026-06-20,Veggie Supreme,20,0,0
+2026-06-20,Paneer Tikka,16,0,0
+2026-06-20,Chicken BBQ,20,0,0
+2026-06-20,Farmhouse,13,0,0
+2026-06-20,Corn & Cheese,11,0,0
+2026-06-20,Mushroom Delight,13,0,0
+2026-06-20,Hawaiian,12,0,0
+2026-06-20,Spicy Jalapeno Chicken,12,0,0
+2026-06-21,Margherita,20,0,0
+2026-06-21,Pepperoni,24,0,0
+2026-06-21,Veggie Supreme,11,0,0
+2026-06-21,Paneer Tikka,16,0,0
+2026-06-21,Chicken BBQ,20,0,0
+2026-06-21,Farmhouse,10,0,0
+2026-06-21,Corn & Cheese,17,0,0
+2026-06-21,Mushroom Delight,5,0,0
+2026-06-21,Hawaiian,10,0,0
+2026-06-21,Spicy Jalapeno Chicken,18,0,0
+2026-06-22,Margherita,14,0,0
+2026-06-22,Pepperoni,11,0,0
+2026-06-22,Veggie Supreme,4,0,0
+2026-06-22,Paneer Tikka,9,0,0
+2026-06-22,Chicken BBQ,7,0,0
+2026-06-22,Farmhouse,7,0,0
+2026-06-22,Corn & Cheese,7,0,0
+2026-06-22,Mushroom Delight,4,0,0
+2026-06-22,Hawaiian,4,0,0
+2026-06-22,Spicy Jalapeno Chicken,3,0,0
+2026-06-23,Margherita,15,1,0
+2026-06-23,Pepperoni,9,1,0
+2026-06-23,Veggie Supreme,8,1,0
+2026-06-23,Paneer Tikka,7,1,0
+2026-06-23,Chicken BBQ,8,1,0
+2026-06-23,Farmhouse,11,1,0
+2026-06-23,Corn & Cheese,1,1,0
+2026-06-23,Mushroom Delight,1,1,0
+2026-06-23,Hawaiian,4,1,0
+2026-06-23,Spicy Jalapeno Chicken,4,1,0
+2026-06-24,Margherita,5,0,0
+2026-06-24,Pepperoni,8,0,0
+2026-06-24,Veggie Supreme,8,0,0
+2026-06-24,Paneer Tikka,8,0,0
+2026-06-24,Chicken BBQ,7,0,0
+2026-06-24,Farmhouse,7,0,0
+2026-06-24,Corn & Cheese,5,0,0
+2026-06-24,Mushroom Delight,4,0,0
+2026-06-24,Hawaiian,4,0,0
+2026-06-24,Spicy Jalapeno Chicken,3,0,0
+2026-06-25,Margherita,7,0,0
+2026-06-25,Pepperoni,8,0,0
+2026-06-25,Veggie Supreme,8,0,0
+2026-06-25,Paneer Tikka,12,0,0
+2026-06-25,Chicken BBQ,8,0,0
+2026-06-25,Farmhouse,3,0,0
+2026-06-25,Corn & Cheese,7,0,0
+2026-06-25,Mushroom Delight,3,0,0
+2026-06-25,Hawaiian,7,0,0
+2026-06-25,Spicy Jalapeno Chicken,6,0,0
+2026-06-26,Margherita,21,0,0
+2026-06-26,Pepperoni,17,0,0
+2026-06-26,Veggie Supreme,14,0,0
+2026-06-26,Paneer Tikka,20,0,0
+2026-06-26,Chicken BBQ,14,0,0
+2026-06-26,Farmhouse,11,0,0
+2026-06-26,Corn & Cheese,9,0,0
+2026-06-26,Mushroom Delight,4,0,0
+2026-06-26,Hawaiian,8,0,0
+2026-06-26,Spicy Jalapeno Chicken,14,0,0
+2026-06-27,Margherita,37,1,0
+2026-06-27,Pepperoni,30,1,0
+2026-06-27,Veggie Supreme,17,1,0
+2026-06-27,Paneer Tikka,25,1,0
+2026-06-27,Chicken BBQ,31,1,0
+2026-06-27,Farmhouse,18,1,0
+2026-06-27,Corn & Cheese,18,1,0
+2026-06-27,Mushroom Delight,13,1,0
+2026-06-27,Hawaiian,10,1,0
+2026-06-27,Spicy Jalapeno Chicken,21,1,0
+2026-06-28,Margherita,18,0,0
+2026-06-28,Pepperoni,16,0,0
+2026-06-28,Veggie Supreme,21,0,0
+2026-06-28,Paneer Tikka,22,0,0
+2026-06-28,Chicken BBQ,16,0,0
+2026-06-28,Farmhouse,13,0,0
+2026-06-28,Corn & Cheese,7,0,0
+2026-06-28,Mushroom Delight,10,0,0
+2026-06-28,Hawaiian,9,0,0
+2026-06-28,Spicy Jalapeno Chicken,12,0,0
+2026-06-29,Margherita,15,1,0
+2026-06-29,Pepperoni,11,1,0
+2026-06-29,Veggie Supreme,5,1,0
+2026-06-29,Paneer Tikka,3,1,0
+2026-06-29,Chicken BBQ,10,1,0
+2026-06-29,Farmhouse,8,1,0
+2026-06-29,Corn & Cheese,4,1,0
+2026-06-29,Mushroom Delight,3,1,0
+2026-06-29,Hawaiian,3,1,0
+2026-06-29,Spicy Jalapeno Chicken,4,1,0
+2026-06-30,Margherita,4,0,0
+2026-06-30,Pepperoni,6,0,0
+2026-06-30,Veggie Supreme,9,0,0
+2026-06-30,Paneer Tikka,4,0,0
+2026-06-30,Chicken BBQ,4,0,0
+2026-06-30,Farmhouse,6,0,0
+2026-06-30,Corn & Cheese,3,0,0
+2026-06-30,Mushroom Delight,3,0,0
+2026-06-30,Hawaiian,6,0,0
+2026-06-30,Spicy Jalapeno Chicken,6,0,0
+2026-07-01,Margherita,14,0,0
+2026-07-01,Pepperoni,6,0,0
+2026-07-01,Veggie Supreme,10,0,0
+2026-07-01,Paneer Tikka,10,0,0
+2026-07-01,Chicken BBQ,7,0,0
+2026-07-01,Farmhouse,5,0,0
+2026-07-01,Corn & Cheese,4,0,0
+2026-07-01,Mushroom Delight,3,0,0
+2026-07-01,Hawaiian,3,0,0
+2026-07-01,Spicy Jalapeno Chicken,3,0,0
+2026-07-02,Margherita,15,1,0
+2026-07-02,Pepperoni,16,1,0
+2026-07-02,Veggie Supreme,9,1,0
+2026-07-02,Paneer Tikka,5,1,0
+2026-07-02,Chicken BBQ,10,1,0
+2026-07-02,Farmhouse,9,1,0
+2026-07-02,Corn & Cheese,8,1,0
+2026-07-02,Mushroom Delight,5,1,0
+2026-07-02,Hawaiian,7,1,0
+2026-07-02,Spicy Jalapeno Chicken,10,1,0
+2026-07-03,Margherita,25,0,0
+2026-07-03,Pepperoni,12,0,0
+2026-07-03,Veggie Supreme,11,0,0
+2026-07-03,Paneer Tikka,12,0,0
+2026-07-03,Chicken BBQ,12,0,0
+2026-07-03,Farmhouse,11,0,0
+2026-07-03,Corn & Cheese,10,0,0
+2026-07-03,Mushroom Delight,11,0,0
+2026-07-03,Hawaiian,5,0,0
+2026-07-03,Spicy Jalapeno Chicken,8,0,0
+2026-07-04,Margherita,20,0,0
+2026-07-04,Pepperoni,28,0,0
+2026-07-04,Veggie Supreme,11,0,0
+2026-07-04,Paneer Tikka,24,0,0
+2026-07-04,Chicken BBQ,24,0,0
+2026-07-04,Farmhouse,19,0,0
+2026-07-04,Corn & Cheese,12,0,0
+2026-07-04,Mushroom Delight,9,0,0
+2026-07-04,Hawaiian,11,0,0
+2026-07-04,Spicy Jalapeno Chicken,17,0,0
+2026-07-05,Margherita,28,1,0
+2026-07-05,Pepperoni,21,1,0
+2026-07-05,Veggie Supreme,22,1,0
+2026-07-05,Paneer Tikka,26,1,0
+2026-07-05,Chicken BBQ,28,1,0
+2026-07-05,Farmhouse,13,1,0
+2026-07-05,Corn & Cheese,19,1,0
+2026-07-05,Mushroom Delight,4,1,0
+2026-07-05,Hawaiian,18,1,0
+2026-07-05,Spicy Jalapeno Chicken,16,1,0
+2026-07-06,Margherita,4,1,0
+2026-07-06,Pepperoni,11,1,0
+2026-07-06,Veggie Supreme,8,1,0
+2026-07-06,Paneer Tikka,7,1,0
+2026-07-06,Chicken BBQ,8,1,0
+2026-07-06,Farmhouse,7,1,0
+2026-07-06,Corn & Cheese,9,1,0
+2026-07-06,Mushroom Delight,8,1,0
+2026-07-06,Hawaiian,5,1,0
+2026-07-06,Spicy Jalapeno Chicken,5,1,0
+2026-07-07,Margherita,13,1,0
+2026-07-07,Pepperoni,4,1,0
+2026-07-07,Veggie Supreme,6,1,0
+2026-07-07,Paneer Tikka,11,1,0
+2026-07-07,Chicken BBQ,9,1,0
+2026-07-07,Farmhouse,4,1,0
+2026-07-07,Corn & Cheese,4,1,0
+2026-07-07,Mushroom Delight,2,1,0
+2026-07-07,Hawaiian,4,1,0
+2026-07-07,Spicy Jalapeno Chicken,3,1,0
+2026-07-08,Margherita,11,1,0
+2026-07-08,Pepperoni,8,1,0
+2026-07-08,Veggie Supreme,9,1,0
+2026-07-08,Paneer Tikka,7,1,0
+2026-07-08,Chicken BBQ,10,1,0
+2026-07-08,Farmhouse,8,1,0
+2026-07-08,Corn & Cheese,5,1,0
+2026-07-08,Mushroom Delight,5,1,0
+2026-07-08,Hawaiian,2,1,0
+2026-07-08,Spicy Jalapeno Chicken,5,1,0
+2026-07-09,Margherita,15,0,0
+2026-07-09,Pepperoni,13,0,0
+2026-07-09,Veggie Supreme,11,0,0
+2026-07-09,Paneer Tikka,11,0,0
+2026-07-09,Chicken BBQ,10,0,0
+2026-07-09,Farmhouse,3,0,0
+2026-07-09,Corn & Cheese,7,0,0
+2026-07-09,Mushroom Delight,3,0,0
+2026-07-09,Hawaiian,3,0,0
+2026-07-09,Spicy Jalapeno Chicken,3,0,0
+2026-07-10,Margherita,13,0,0
+2026-07-10,Pepperoni,12,0,0
+2026-07-10,Veggie Supreme,8,0,0
+2026-07-10,Paneer Tikka,14,0,0
+2026-07-10,Chicken BBQ,15,0,0
+2026-07-10,Farmhouse,10,0,0
+2026-07-10,Corn & Cheese,8,0,0
+2026-07-10,Mushroom Delight,6,0,0
+2026-07-10,Hawaiian,7,0,0
+2026-07-10,Spicy Jalapeno Chicken,9,0,0
+2026-07-11,Margherita,23,1,0
+2026-07-11,Pepperoni,32,1,0
+2026-07-11,Veggie Supreme,25,1,0
+2026-07-11,Paneer Tikka,28,1,0
+2026-07-11,Chicken BBQ,25,1,0
+2026-07-11,Farmhouse,21,1,0
+2026-07-11,Corn & Cheese,21,1,0
+2026-07-11,Mushroom Delight,7,1,0
+2026-07-11,Hawaiian,13,1,0
+2026-07-11,Spicy Jalapeno Chicken,11,1,0
+2026-07-12,Margherita,25,0,0
+2026-07-12,Pepperoni,21,0,0
+2026-07-12,Veggie Supreme,15,0,0
+2026-07-12,Paneer Tikka,12,0,0
+2026-07-12,Chicken BBQ,15,0,0
+2026-07-12,Farmhouse,17,0,0
+2026-07-12,Corn & Cheese,9,0,0
+2026-07-12,Mushroom Delight,7,0,0
+2026-07-12,Hawaiian,9,0,0
+2026-07-12,Spicy Jalapeno Chicken,15,0,0
+2026-07-13,Margherita,12,0,0
+2026-07-13,Pepperoni,4,0,0
+2026-07-13,Veggie Supreme,7,0,0
+2026-07-13,Paneer Tikka,7,0,0
+2026-07-13,Chicken BBQ,6,0,0
+2026-07-13,Farmhouse,5,0,0
+2026-07-13,Corn & Cheese,4,0,0
+2026-07-13,Mushroom Delight,3,0,0
+2026-07-13,Hawaiian,5,0,0
+2026-07-13,Spicy Jalapeno Chicken,4,0,0
+2026-07-14,Margherita,12,0,0
+2026-07-14,Pepperoni,10,0,0
+2026-07-14,Veggie Supreme,5,0,0
+2026-07-14,Paneer Tikka,9,0,0
+2026-07-14,Chicken BBQ,8,0,0
+2026-07-14,Farmhouse,3,0,0
+2026-07-14,Corn & Cheese,5,0,0
+2026-07-14,Mushroom Delight,2,0,0
+2026-07-14,Hawaiian,5,0,0
+2026-07-14,Spicy Jalapeno Chicken,4,0,0
+2026-07-15,Margherita,8,1,0
+2026-07-15,Pepperoni,10,1,0
+2026-07-15,Veggie Supreme,12,1,0
+2026-07-15,Paneer Tikka,7,1,0
+2026-07-15,Chicken BBQ,9,1,0
+2026-07-15,Farmhouse,10,1,0
+2026-07-15,Corn & Cheese,5,1,0
+2026-07-15,Mushroom Delight,1,1,0
+2026-07-15,Hawaiian,3,1,0
+2026-07-15,Spicy Jalapeno Chicken,2,1,0
+2026-07-16,Margherita,16,1,0
+2026-07-16,Pepperoni,12,1,0
+2026-07-16,Veggie Supreme,8,1,0
+2026-07-16,Paneer Tikka,8,1,0
+2026-07-16,Chicken BBQ,10,1,0
+2026-07-16,Farmhouse,7,1,0
+2026-07-16,Corn & Cheese,5,1,0
+2026-07-16,Mushroom Delight,6,1,0
+2026-07-16,Hawaiian,3,1,0
+2026-07-16,Spicy Jalapeno Chicken,5,1,0
+2026-07-17,Margherita,28,1,0
+2026-07-17,Pepperoni,15,1,0
+2026-07-17,Veggie Supreme,12,1,0
+2026-07-17,Paneer Tikka,12,1,0
+2026-07-17,Chicken BBQ,17,1,0
+2026-07-17,Farmhouse,9,1,0
+2026-07-17,Corn & Cheese,11,1,0
+2026-07-17,Mushroom Delight,14,1,0
+2026-07-17,Hawaiian,3,1,0
+2026-07-17,Spicy Jalapeno Chicken,12,1,0
+2026-07-18,Margherita,26,0,0
+2026-07-18,Pepperoni,24,0,0
+2026-07-18,Veggie Supreme,16,0,0
+2026-07-18,Paneer Tikka,16,0,0
+2026-07-18,Chicken BBQ,23,0,0
+2026-07-18,Farmhouse,17,0,0
+2026-07-18,Corn & Cheese,8,0,0
+2026-07-18,Mushroom Delight,8,0,0
+2026-07-18,Hawaiian,15,0,0
+2026-07-18,Spicy Jalapeno Chicken,13,0,0
+2026-07-19,Margherita,22,1,0
+2026-07-19,Pepperoni,24,1,0
+2026-07-19,Veggie Supreme,14,1,0
+2026-07-19,Paneer Tikka,19,1,0
+2026-07-19,Chicken BBQ,17,1,0
+2026-07-19,Farmhouse,16,1,0
+2026-07-19,Corn & Cheese,14,1,0
+2026-07-19,Mushroom Delight,9,1,0
+2026-07-19,Hawaiian,8,1,0
+2026-07-19,Spicy Jalapeno Chicken,19,1,0
+2026-07-20,Margherita,12,0,0
+2026-07-20,Pepperoni,8,0,0
+2026-07-20,Veggie Supreme,9,0,0
+2026-07-20,Paneer Tikka,6,0,0
+2026-07-20,Chicken BBQ,5,0,0
+2026-07-20,Farmhouse,7,0,0
+2026-07-20,Corn & Cheese,2,0,0
+2026-07-20,Mushroom Delight,4,0,0
+2026-07-20,Hawaiian,8,0,0
+2026-07-20,Spicy Jalapeno Chicken,7,0,0
+2026-07-21,Margherita,11,0,0
+2026-07-21,Pepperoni,9,0,0
+2026-07-21,Veggie Supreme,8,0,0
+2026-07-21,Paneer Tikka,6,0,0
+2026-07-21,Chicken BBQ,5,0,0
+2026-07-21,Farmhouse,4,0,0
+2026-07-21,Corn & Cheese,4,0,0
+2026-07-21,Mushroom Delight,4,0,0
+2026-07-21,Hawaiian,0,0,0
+2026-07-21,Spicy Jalapeno Chicken,3,0,0
+2026-07-22,Margherita,17,1,0
+2026-07-22,Pepperoni,9,1,0
+2026-07-22,Veggie Supreme,9,1,0
+2026-07-22,Paneer Tikka,11,1,0
+2026-07-22,Chicken BBQ,12,1,0
+2026-07-22,Farmhouse,3,1,0
+2026-07-22,Corn & Cheese,6,1,0
+2026-07-22,Mushroom Delight,5,1,0
+2026-07-22,Hawaiian,1,1,0
+2026-07-22,Spicy Jalapeno Chicken,4,1,0
+2026-07-23,Margherita,11,0,0
+2026-07-23,Pepperoni,9,0,0
+2026-07-23,Veggie Supreme,6,0,0
+2026-07-23,Paneer Tikka,6,0,0
+2026-07-23,Chicken BBQ,5,0,0
+2026-07-23,Farmhouse,4,0,0
+2026-07-23,Corn & Cheese,8,0,0
+2026-07-23,Mushroom Delight,5,0,0
+2026-07-23,Hawaiian,5,0,0
+2026-07-23,Spicy Jalapeno Chicken,9,0,0
+2026-07-24,Margherita,17,0,0
+2026-07-24,Pepperoni,21,0,0
+2026-07-24,Veggie Supreme,11,0,0
+2026-07-24,Paneer Tikka,16,0,0
+2026-07-24,Chicken BBQ,6,0,0
+2026-07-24,Farmhouse,12,0,0
+2026-07-24,Corn & Cheese,14,0,0
+2026-07-24,Mushroom Delight,6,0,0
+2026-07-24,Hawaiian,5,0,0
+2026-07-24,Spicy Jalapeno Chicken,5,0,0
+2026-07-25,Margherita,24,0,0
+2026-07-25,Pepperoni,29,0,0
+2026-07-25,Veggie Supreme,28,0,0
+2026-07-25,Paneer Tikka,16,0,0
+2026-07-25,Chicken BBQ,11,0,0
+2026-07-25,Farmhouse,14,0,0
+2026-07-25,Corn & Cheese,7,0,0
+2026-07-25,Mushroom Delight,6,0,0
+2026-07-25,Hawaiian,11,0,0
+2026-07-25,Spicy Jalapeno Chicken,17,0,0
+2026-07-26,Margherita,18,0,0
+2026-07-26,Pepperoni,20,0,0
+2026-07-26,Veggie Supreme,24,0,0
+2026-07-26,Paneer Tikka,23,0,0
+2026-07-26,Chicken BBQ,14,0,0
+2026-07-26,Farmhouse,10,0,0
+2026-07-26,Corn & Cheese,16,0,0
+2026-07-26,Mushroom Delight,9,0,0
+2026-07-26,Hawaiian,16,0,0
+2026-07-26,Spicy Jalapeno Chicken,19,0,0
+2026-07-27,Margherita,8,0,0
+2026-07-27,Pepperoni,11,0,0
+2026-07-27,Veggie Supreme,3,0,0
+2026-07-27,Paneer Tikka,13,0,0
+2026-07-27,Chicken BBQ,11,0,0
+2026-07-27,Farmhouse,6,0,0
+2026-07-27,Corn & Cheese,3,0,0
+2026-07-27,Mushroom Delight,2,0,0
+2026-07-27,Hawaiian,5,0,0
+2026-07-27,Spicy Jalapeno Chicken,3,0,0
+2026-07-28,Margherita,10,0,0
+2026-07-28,Pepperoni,9,0,0
+2026-07-28,Veggie Supreme,10,0,0
+2026-07-28,Paneer Tikka,9,0,0
+2026-07-28,Chicken BBQ,7,0,0
+2026-07-28,Farmhouse,6,0,0
+2026-07-28,Corn & Cheese,3,0,0
+2026-07-28,Mushroom Delight,3,0,0
+2026-07-28,Hawaiian,2,0,0
+2026-07-28,Spicy Jalapeno Chicken,8,0,0
+2026-07-29,Margherita,10,0,0
+2026-07-29,Pepperoni,8,0,0
+2026-07-29,Veggie Supreme,6,0,0
+2026-07-29,Paneer Tikka,9,0,0
+2026-07-29,Chicken BBQ,5,0,0
+2026-07-29,Farmhouse,4,0,0
+2026-07-29,Corn & Cheese,9,0,0
+2026-07-29,Mushroom Delight,4,0,0
+2026-07-29,Hawaiian,6,0,0
+2026-07-29,Spicy Jalapeno Chicken,7,0,0
+2026-07-30,Margherita,9,0,0
+2026-07-30,Pepperoni,12,0,0
+2026-07-30,Veggie Supreme,12,0,0
+2026-07-30,Paneer Tikka,9,0,0
+2026-07-30,Chicken BBQ,6,0,0
+2026-07-30,Farmhouse,7,0,0
+2026-07-30,Corn & Cheese,4,0,0
+2026-07-30,Mushroom Delight,3,0,0
+2026-07-30,Hawaiian,5,0,0
+2026-07-30,Spicy Jalapeno Chicken,5,0,0
+2026-07-31,Margherita,18,1,0
+2026-07-31,Pepperoni,13,1,0
+2026-07-31,Veggie Supreme,14,1,0
+2026-07-31,Paneer Tikka,16,1,0
+2026-07-31,Chicken BBQ,18,1,0
+2026-07-31,Farmhouse,6,1,0
+2026-07-31,Corn & Cheese,12,1,0
+2026-07-31,Mushroom Delight,7,1,0
+2026-07-31,Hawaiian,5,1,0
+2026-07-31,Spicy Jalapeno Chicken,15,1,0
+2026-08-01,Margherita,20,1,0
+2026-08-01,Pepperoni,25,1,0
+2026-08-01,Veggie Supreme,18,1,0
+2026-08-01,Paneer Tikka,22,1,0
+2026-08-01,Chicken BBQ,10,1,0
+2026-08-01,Farmhouse,15,1,0
+2026-08-01,Corn & Cheese,12,1,0
+2026-08-01,Mushroom Delight,13,1,0
+2026-08-01,Hawaiian,15,1,0
+2026-08-01,Spicy Jalapeno Chicken,24,1,0
+2026-08-02,Margherita,11,0,0
+2026-08-02,Pepperoni,30,0,0
+2026-08-02,Veggie Supreme,10,0,0
+2026-08-02,Paneer Tikka,12,0,0
+2026-08-02,Chicken BBQ,14,0,0
+2026-08-02,Farmhouse,21,0,0
+2026-08-02,Corn & Cheese,10,0,0
+2026-08-02,Mushroom Delight,7,0,0
+2026-08-02,Hawaiian,14,0,0
+2026-08-02,Spicy Jalapeno Chicken,6,0,0
+2026-08-03,Margherita,8,1,0
+2026-08-03,Pepperoni,11,1,0
+2026-08-03,Veggie Supreme,8,1,0
+2026-08-03,Paneer Tikka,8,1,0
+2026-08-03,Chicken BBQ,11,1,0
+2026-08-03,Farmhouse,4,1,0
+2026-08-03,Corn & Cheese,12,1,0
+2026-08-03,Mushroom Delight,2,1,0
+2026-08-03,Hawaiian,4,1,0
+2026-08-03,Spicy Jalapeno Chicken,4,1,0
+2026-08-04,Margherita,13,0,0
+2026-08-04,Pepperoni,8,0,0
+2026-08-04,Veggie Supreme,7,0,0
+2026-08-04,Paneer Tikka,4,0,0
+2026-08-04,Chicken BBQ,6,0,0
+2026-08-04,Farmhouse,6,0,0
+2026-08-04,Corn & Cheese,4,0,0
+2026-08-04,Mushroom Delight,2,0,0
+2026-08-04,Hawaiian,4,0,0
+2026-08-04,Spicy Jalapeno Chicken,6,0,0
+2026-08-05,Margherita,11,0,0
+2026-08-05,Pepperoni,19,0,0
+2026-08-05,Veggie Supreme,1,0,0
+2026-08-05,Paneer Tikka,4,0,0
+2026-08-05,Chicken BBQ,7,0,0
+2026-08-05,Farmhouse,2,0,0
+2026-08-05,Corn & Cheese,6,0,0
+2026-08-05,Mushroom Delight,5,0,0
+2026-08-05,Hawaiian,5,0,0
+2026-08-05,Spicy Jalapeno Chicken,5,0,0
+2026-08-06,Margherita,11,0,0
+2026-08-06,Pepperoni,7,0,0
+2026-08-06,Veggie Supreme,8,0,0
+2026-08-06,Paneer Tikka,11,0,0
+2026-08-06,Chicken BBQ,7,0,0
+2026-08-06,Farmhouse,5,0,0
+2026-08-06,Corn & Cheese,4,0,0
+2026-08-06,Mushroom Delight,2,0,0
+2026-08-06,Hawaiian,4,0,0
+2026-08-06,Spicy Jalapeno Chicken,8,0,0
+2026-08-07,Margherita,13,1,0
+2026-08-07,Pepperoni,19,1,0
+2026-08-07,Veggie Supreme,9,1,0
+2026-08-07,Paneer Tikka,11,1,0
+2026-08-07,Chicken BBQ,11,1,0
+2026-08-07,Farmhouse,9,1,0
+2026-08-07,Corn & Cheese,12,1,0
+2026-08-07,Mushroom Delight,10,1,0
+2026-08-07,Hawaiian,8,1,0
+2026-08-07,Spicy Jalapeno Chicken,5,1,0
+2026-08-08,Margherita,20,1,0
+2026-08-08,Pepperoni,41,1,0
+2026-08-08,Veggie Supreme,17,1,0
+2026-08-08,Paneer Tikka,18,1,0
+2026-08-08,Chicken BBQ,14,1,0
+2026-08-08,Farmhouse,17,1,0
+2026-08-08,Corn & Cheese,21,1,0
+2026-08-08,Mushroom Delight,12,1,0
+2026-08-08,Hawaiian,18,1,0
+2026-08-08,Spicy Jalapeno Chicken,12,1,0
+2026-08-09,Margherita,21,1,0
+2026-08-09,Pepperoni,30,1,0
+2026-08-09,Veggie Supreme,17,1,0
+2026-08-09,Paneer Tikka,20,1,0
+2026-08-09,Chicken BBQ,23,1,0
+2026-08-09,Farmhouse,14,1,0
+2026-08-09,Corn & Cheese,14,1,0
+2026-08-09,Mushroom Delight,11,1,0
+2026-08-09,Hawaiian,10,1,0
+2026-08-09,Spicy Jalapeno Chicken,21,1,0
+2026-08-10,Margherita,12,0,0
+2026-08-10,Pepperoni,9,0,0
+2026-08-10,Veggie Supreme,7,0,0
+2026-08-10,Paneer Tikka,8,0,0
+2026-08-10,Chicken BBQ,8,0,0
+2026-08-10,Farmhouse,4,0,0
+2026-08-10,Corn & Cheese,3,0,0
+2026-08-10,Mushroom Delight,1,0,0
+2026-08-10,Hawaiian,5,0,0
+2026-08-10,Spicy Jalapeno Chicken,4,0,0
+2026-08-11,Margherita,5,1,0
+2026-08-11,Pepperoni,9,1,0
+2026-08-11,Veggie Supreme,4,1,0
+2026-08-11,Paneer Tikka,9,1,0
+2026-08-11,Chicken BBQ,8,1,0
+2026-08-11,Farmhouse,7,1,0
+2026-08-11,Corn & Cheese,3,1,0
+2026-08-11,Mushroom Delight,4,1,0
+2026-08-11,Hawaiian,4,1,0
+2026-08-11,Spicy Jalapeno Chicken,5,1,0
+2026-08-12,Margherita,7,0,0
+2026-08-12,Pepperoni,15,0,0
+2026-08-12,Veggie Supreme,3,0,0
+2026-08-12,Paneer Tikka,10,0,0
+2026-08-12,Chicken BBQ,6,0,0
+2026-08-12,Farmhouse,4,0,0
+2026-08-12,Corn & Cheese,6,0,0
+2026-08-12,Mushroom Delight,1,0,0
+2026-08-12,Hawaiian,6,0,0
+2026-08-12,Spicy Jalapeno Chicken,5,0,0
+2026-08-13,Margherita,8,0,0
+2026-08-13,Pepperoni,14,0,0
+2026-08-13,Veggie Supreme,8,0,0
+2026-08-13,Paneer Tikka,14,0,0
+2026-08-13,Chicken BBQ,10,0,0
+2026-08-13,Farmhouse,8,0,0
+2026-08-13,Corn & Cheese,5,0,0
+2026-08-13,Mushroom Delight,6,0,0
+2026-08-13,Hawaiian,7,0,0
+2026-08-13,Spicy Jalapeno Chicken,3,0,0
+2026-08-14,Margherita,17,1,0
+2026-08-14,Pepperoni,18,1,0
+2026-08-14,Veggie Supreme,18,1,0
+2026-08-14,Paneer Tikka,16,1,0
+2026-08-14,Chicken BBQ,14,1,0
+2026-08-14,Farmhouse,11,1,0
+2026-08-14,Corn & Cheese,8,1,0
+2026-08-14,Mushroom Delight,8,1,0
+2026-08-14,Hawaiian,15,1,0
+2026-08-14,Spicy Jalapeno Chicken,11,1,0
+2026-08-15,Margherita,26,0,0
+2026-08-15,Pepperoni,19,0,0
+2026-08-15,Veggie Supreme,15,0,0
+2026-08-15,Paneer Tikka,18,0,0
+2026-08-15,Chicken BBQ,30,0,0
+2026-08-15,Farmhouse,16,0,0
+2026-08-15,Corn & Cheese,11,0,0
+2026-08-15,Mushroom Delight,2,0,0
+2026-08-15,Hawaiian,10,0,0
+2026-08-15,Spicy Jalapeno Chicken,19,0,0
+2026-08-16,Margherita,26,0,0
+2026-08-16,Pepperoni,26,0,0
+2026-08-16,Veggie Supreme,14,0,0
+2026-08-16,Paneer Tikka,19,0,0
+2026-08-16,Chicken BBQ,23,0,0
+2026-08-16,Farmhouse,10,0,0
+2026-08-16,Corn & Cheese,9,0,0
+2026-08-16,Mushroom Delight,9,0,0
+2026-08-16,Hawaiian,6,0,0
+2026-08-16,Spicy Jalapeno Chicken,10,0,0
+2026-08-17,Margherita,11,0,0
+2026-08-17,Pepperoni,12,0,0
+2026-08-17,Veggie Supreme,8,0,0
+2026-08-17,Paneer Tikka,7,0,0
+2026-08-17,Chicken BBQ,7,0,0
+2026-08-17,Farmhouse,4,0,0
+2026-08-17,Corn & Cheese,4,0,0
+2026-08-17,Mushroom Delight,3,0,0
+2026-08-17,Hawaiian,7,0,0
+2026-08-17,Spicy Jalapeno Chicken,6,0,0
+2026-08-18,Margherita,13,0,0
+2026-08-18,Pepperoni,8,0,0
+2026-08-18,Veggie Supreme,7,0,0
+2026-08-18,Paneer Tikka,7,0,0
+2026-08-18,Chicken BBQ,4,0,0
+2026-08-18,Farmhouse,8,0,0
+2026-08-18,Corn & Cheese,5,0,0
+2026-08-18,Mushroom Delight,1,0,0
+2026-08-18,Hawaiian,9,0,0
+2026-08-18,Spicy Jalapeno Chicken,4,0,0
+2026-08-19,Margherita,15,0,0
+2026-08-19,Pepperoni,14,0,0
+2026-08-19,Veggie Supreme,6,0,0
+2026-08-19,Paneer Tikka,9,0,0
+2026-08-19,Chicken BBQ,7,0,0
+2026-08-19,Farmhouse,4,0,0
+2026-08-19,Corn & Cheese,4,0,0
+2026-08-19,Mushroom Delight,2,0,0
+2026-08-19,Hawaiian,7,0,0
+2026-08-19,Spicy Jalapeno Chicken,7,0,0
+2026-08-20,Margherita,10,0,0
+2026-08-20,Pepperoni,8,0,0
+2026-08-20,Veggie Supreme,8,0,0
+2026-08-20,Paneer Tikka,10,0,0
+2026-08-20,Chicken BBQ,11,0,0
+2026-08-20,Farmhouse,9,0,0
+2026-08-20,Corn & Cheese,8,0,0
+2026-08-20,Mushroom Delight,4,0,0
+2026-08-20,Hawaiian,5,0,0
+2026-08-20,Spicy Jalapeno Chicken,1,0,0
+2026-08-21,Margherita,13,0,0
+2026-08-21,Pepperoni,16,0,0
+2026-08-21,Veggie Supreme,12,0,0
+2026-08-21,Paneer Tikka,12,0,0
+2026-08-21,Chicken BBQ,20,0,0
+2026-08-21,Farmhouse,9,0,0
+2026-08-21,Corn & Cheese,15,0,0
+2026-08-21,Mushroom Delight,8,0,0
+2026-08-21,Hawaiian,8,0,0
+2026-08-21,Spicy Jalapeno Chicken,7,0,0
+2026-08-22,Margherita,22,0,0
+2026-08-22,Pepperoni,20,0,0
+2026-08-22,Veggie Supreme,22,0,0
+2026-08-22,Paneer Tikka,15,0,0
+2026-08-22,Chicken BBQ,15,0,0
+2026-08-22,Farmhouse,15,0,0
+2026-08-22,Corn & Cheese,12,0,0
+2026-08-22,Mushroom Delight,7,0,0
+2026-08-22,Hawaiian,11,0,0
+2026-08-22,Spicy Jalapeno Chicken,12,0,0
+2026-08-23,Margherita,19,1,0
+2026-08-23,Pepperoni,23,1,0
+2026-08-23,Veggie Supreme,14,1,0
+2026-08-23,Paneer Tikka,19,1,0
+2026-08-23,Chicken BBQ,19,1,0
+2026-08-23,Farmhouse,16,1,0
+2026-08-23,Corn & Cheese,10,1,0
+2026-08-23,Mushroom Delight,8,1,0
+2026-08-23,Hawaiian,15,1,0
+2026-08-23,Spicy Jalapeno Chicken,19,1,0
+2026-08-24,Margherita,14,1,0
+2026-08-24,Pepperoni,8,1,0
+2026-08-24,Veggie Supreme,10,1,0
+2026-08-24,Paneer Tikka,4,1,0
+2026-08-24,Chicken BBQ,3,1,0
+2026-08-24,Farmhouse,7,1,0
+2026-08-24,Corn & Cheese,7,1,0
+2026-08-24,Mushroom Delight,5,1,0
+2026-08-24,Hawaiian,1,1,0
+2026-08-24,Spicy Jalapeno Chicken,6,1,0
+2026-08-25,Margherita,7,0,0
+2026-08-25,Pepperoni,6,0,0
+2026-08-25,Veggie Supreme,14,0,0
+2026-08-25,Paneer Tikka,3,0,0
+2026-08-25,Chicken BBQ,8,0,0
+2026-08-25,Farmhouse,5,0,0
+2026-08-25,Corn & Cheese,5,0,0
+2026-08-25,Mushroom Delight,4,0,0
+2026-08-25,Hawaiian,4,0,0
+2026-08-25,Spicy Jalapeno Chicken,2,0,0
+2026-08-26,Margherita,11,1,0
+2026-08-26,Pepperoni,9,1,0
+2026-08-26,Veggie Supreme,5,1,0
+2026-08-26,Paneer Tikka,7,1,0
+2026-08-26,Chicken BBQ,7,1,0
+2026-08-26,Farmhouse,4,1,0
+2026-08-26,Corn & Cheese,4,1,0
+2026-08-26,Mushroom Delight,10,1,0
+2026-08-26,Hawaiian,6,1,0
+2026-08-26,Spicy Jalapeno Chicken,8,1,0
+2026-08-27,Margherita,7,0,0
+2026-08-27,Pepperoni,12,0,0
+2026-08-27,Veggie Supreme,8,0,0
+2026-08-27,Paneer Tikka,9,0,0
+2026-08-27,Chicken BBQ,4,0,0
+2026-08-27,Farmhouse,5,0,0
+2026-08-27,Corn & Cheese,3,0,0
+2026-08-27,Mushroom Delight,6,0,0
+2026-08-27,Hawaiian,11,0,0
+2026-08-27,Spicy Jalapeno Chicken,3,0,0
+2026-08-28,Margherita,30,0,0
+2026-08-28,Pepperoni,19,0,0
+2026-08-28,Veggie Supreme,8,0,0
+2026-08-28,Paneer Tikka,20,0,0
+2026-08-28,Chicken BBQ,11,0,0
+2026-08-28,Farmhouse,4,0,0
+2026-08-28,Corn & Cheese,12,0,0
+2026-08-28,Mushroom Delight,13,0,0
+2026-08-28,Hawaiian,8,0,0
+2026-08-28,Spicy Jalapeno Chicken,12,0,0
+2026-08-29,Margherita,14,0,0
+2026-08-29,Pepperoni,20,0,0
+2026-08-29,Veggie Supreme,20,0,0
+2026-08-29,Paneer Tikka,24,0,0
+2026-08-29,Chicken BBQ,15,0,0
+2026-08-29,Farmhouse,13,0,0
+2026-08-29,Corn & Cheese,10,0,0
+2026-08-29,Mushroom Delight,5,0,0
+2026-08-29,Hawaiian,15,0,0
+2026-08-29,Spicy Jalapeno Chicken,20,0,0
+2026-08-30,Margherita,20,0,0
+2026-08-30,Pepperoni,26,0,0
+2026-08-30,Veggie Supreme,11,0,0
+2026-08-30,Paneer Tikka,16,0,0
+2026-08-30,Chicken BBQ,27,0,0
+2026-08-30,Farmhouse,16,0,0
+2026-08-30,Corn & Cheese,15,0,0
+2026-08-30,Mushroom Delight,10,0,0
+2026-08-30,Hawaiian,8,0,0
+2026-08-30,Spicy Jalapeno Chicken,9,0,0
+2026-08-31,Margherita,2,0,0
+2026-08-31,Pepperoni,5,0,0
+2026-08-31,Veggie Supreme,5,0,0
+2026-08-31,Paneer Tikka,6,0,0
+2026-08-31,Chicken BBQ,7,0,0
+2026-08-31,Farmhouse,9,0,0
+2026-08-31,Corn & Cheese,8,0,0
+2026-08-31,Mushroom Delight,5,0,0
+2026-08-31,Hawaiian,3,0,0
+2026-08-31,Spicy Jalapeno Chicken,8,0,0
+2026-09-01,Margherita,3,0,0
+2026-09-01,Pepperoni,7,0,0
+2026-09-01,Veggie Supreme,6,0,0
+2026-09-01,Paneer Tikka,6,0,0
+2026-09-01,Chicken BBQ,8,0,0
+2026-09-01,Farmhouse,7,0,0
+2026-09-01,Corn & Cheese,5,0,0
+2026-09-01,Mushroom Delight,2,0,0
+2026-09-01,Hawaiian,6,0,0
+2026-09-01,Spicy Jalapeno Chicken,3,0,0
+2026-09-02,Margherita,11,0,0
+2026-09-02,Pepperoni,9,0,0
+2026-09-02,Veggie Supreme,6,0,0
+2026-09-02,Paneer Tikka,5,0,0
+2026-09-02,Chicken BBQ,7,0,0
+2026-09-02,Farmhouse,4,0,0
+2026-09-02,Corn & Cheese,4,0,0
+2026-09-02,Mushroom Delight,3,0,0
+2026-09-02,Hawaiian,11,0,0
+2026-09-02,Spicy Jalapeno Chicken,5,0,0
+2026-09-03,Margherita,11,1,0
+2026-09-03,Pepperoni,16,1,0
+2026-09-03,Veggie Supreme,9,1,0
+2026-09-03,Paneer Tikka,13,1,0
+2026-09-03,Chicken BBQ,6,1,0
+2026-09-03,Farmhouse,4,1,0
+2026-09-03,Corn & Cheese,7,1,0
+2026-09-03,Mushroom Delight,4,1,0
+2026-09-03,Hawaiian,8,1,0
+2026-09-03,Spicy Jalapeno Chicken,5,1,0
+2026-09-04,Margherita,26,0,0
+2026-09-04,Pepperoni,16,0,0
+2026-09-04,Veggie Supreme,10,0,0
+2026-09-04,Paneer Tikka,14,0,0
+2026-09-04,Chicken BBQ,6,0,0
+2026-09-04,Farmhouse,14,0,0
+2026-09-04,Corn & Cheese,6,0,0
+2026-09-04,Mushroom Delight,7,0,0
+2026-09-04,Hawaiian,11,0,0
+2026-09-04,Spicy Jalapeno Chicken,11,0,0
+2026-09-05,Margherita,23,1,0
+2026-09-05,Pepperoni,19,1,0
+2026-09-05,Veggie Supreme,17,1,0
+2026-09-05,Paneer Tikka,18,1,0
+2026-09-05,Chicken BBQ,17,1,0
+2026-09-05,Farmhouse,13,1,0
+2026-09-05,Corn & Cheese,16,1,0
+2026-09-05,Mushroom Delight,13,1,0
+2026-09-05,Hawaiian,8,1,0
+2026-09-05,Spicy Jalapeno Chicken,16,1,0
+2026-09-06,Margherita,19,0,0
+2026-09-06,Pepperoni,23,0,0
+2026-09-06,Veggie Supreme,15,0,0
+2026-09-06,Paneer Tikka,18,0,0
+2026-09-06,Chicken BBQ,14,0,0
+2026-09-06,Farmhouse,11,0,0
+2026-09-06,Corn & Cheese,7,0,0
+2026-09-06,Mushroom Delight,4,0,0
+2026-09-06,Hawaiian,11,0,0
+2026-09-06,Spicy Jalapeno Chicken,12,0,0
+2026-09-07,Margherita,6,1,0
+2026-09-07,Pepperoni,7,1,0
+2026-09-07,Veggie Supreme,9,1,0
+2026-09-07,Paneer Tikka,10,1,0
+2026-09-07,Chicken BBQ,7,1,0
+2026-09-07,Farmhouse,4,1,0
+2026-09-07,Corn & Cheese,6,1,0
+2026-09-07,Mushroom Delight,4,1,0
+2026-09-07,Hawaiian,8,1,0
+2026-09-07,Spicy Jalapeno Chicken,6,1,0
+2026-09-08,Margherita,10,0,0
+2026-09-08,Pepperoni,15,0,0
+2026-09-08,Veggie Supreme,8,0,0
+2026-09-08,Paneer Tikka,7,0,0
+2026-09-08,Chicken BBQ,5,0,0
+2026-09-08,Farmhouse,2,0,0
+2026-09-08,Corn & Cheese,9,0,0
+2026-09-08,Mushroom Delight,2,0,0
+2026-09-08,Hawaiian,3,0,0
+2026-09-08,Spicy Jalapeno Chicken,6,0,0
+2026-09-09,Margherita,4,0,0
+2026-09-09,Pepperoni,5,0,0
+2026-09-09,Veggie Supreme,3,0,0
+2026-09-09,Paneer Tikka,10,0,0
+2026-09-09,Chicken BBQ,4,0,0
+2026-09-09,Farmhouse,11,0,0
+2026-09-09,Corn & Cheese,9,0,0
+2026-09-09,Mushroom Delight,3,0,0
+2026-09-09,Hawaiian,4,0,0
+2026-09-09,Spicy Jalapeno Chicken,4,0,0
+2026-09-10,Margherita,15,1,0
+2026-09-10,Pepperoni,8,1,0
+2026-09-10,Veggie Supreme,6,1,0
+2026-09-10,Paneer Tikka,9,1,0
+2026-09-10,Chicken BBQ,4,1,0
+2026-09-10,Farmhouse,9,1,0
+2026-09-10,Corn & Cheese,10,1,0
+2026-09-10,Mushroom Delight,8,1,0
+2026-09-10,Hawaiian,8,1,0
+2026-09-10,Spicy Jalapeno Chicken,7,1,0
+2026-09-11,Margherita,21,0,0
+2026-09-11,Pepperoni,15,0,0
+2026-09-11,Veggie Supreme,10,0,0
+2026-09-11,Paneer Tikka,19,0,0
+2026-09-11,Chicken BBQ,9,0,0
+2026-09-11,Farmhouse,5,0,0
+2026-09-11,Corn & Cheese,8,0,0
+2026-09-11,Mushroom Delight,7,0,0
+2026-09-11,Hawaiian,9,0,0
+2026-09-11,Spicy Jalapeno Chicken,12,0,0
+2026-09-12,Margherita,19,0,0
+2026-09-12,Pepperoni,27,0,0
+2026-09-12,Veggie Supreme,15,0,0
+2026-09-12,Paneer Tikka,24,0,0
+2026-09-12,Chicken BBQ,15,0,0
+2026-09-12,Farmhouse,11,0,0
+2026-09-12,Corn & Cheese,13,0,0
+2026-09-12,Mushroom Delight,11,0,0
+2026-09-12,Hawaiian,15,0,0
+2026-09-12,Spicy Jalapeno Chicken,14,0,0
+2026-09-13,Margherita,18,0,0
+2026-09-13,Pepperoni,16,0,0
+2026-09-13,Veggie Supreme,12,0,0
+2026-09-13,Paneer Tikka,13,0,0
+2026-09-13,Chicken BBQ,19,0,0
+2026-09-13,Farmhouse,16,0,0
+2026-09-13,Corn & Cheese,12,0,0
+2026-09-13,Mushroom Delight,10,0,0
+2026-09-13,Hawaiian,13,0,0
+2026-09-13,Spicy Jalapeno Chicken,17,0,0
+2026-09-14,Margherita,7,0,0
+2026-09-14,Pepperoni,7,0,0
+2026-09-14,Veggie Supreme,7,0,0
+2026-09-14,Paneer Tikka,8,0,0
+2026-09-14,Chicken BBQ,5,0,0
+2026-09-14,Farmhouse,4,0,0
+2026-09-14,Corn & Cheese,6,0,0
+2026-09-14,Mushroom Delight,4,0,0
+2026-09-14,Hawaiian,3,0,0
+2026-09-14,Spicy Jalapeno Chicken,6,0,0
+2026-09-15,Margherita,4,0,0
+2026-09-15,Pepperoni,12,0,0
+2026-09-15,Veggie Supreme,4,0,0
+2026-09-15,Paneer Tikka,8,0,0
+2026-09-15,Chicken BBQ,6,0,0
+2026-09-15,Farmhouse,1,0,0
+2026-09-15,Corn & Cheese,10,0,0
+2026-09-15,Mushroom Delight,4,0,0
+2026-09-15,Hawaiian,7,0,0
+2026-09-15,Spicy Jalapeno Chicken,3,0,0
+2026-09-16,Margherita,18,1,0
+2026-09-16,Pepperoni,12,1,0
+2026-09-16,Veggie Supreme,7,1,0
+2026-09-16,Paneer Tikka,12,1,0
+2026-09-16,Chicken BBQ,9,1,0
+2026-09-16,Farmhouse,11,1,0
+2026-09-16,Corn & Cheese,5,1,0
+2026-09-16,Mushroom Delight,3,1,0
+2026-09-16,Hawaiian,4,1,0
+2026-09-16,Spicy Jalapeno Chicken,8,1,0
+2026-09-17,Margherita,6,0,0
+2026-09-17,Pepperoni,14,0,0
+2026-09-17,Veggie Supreme,13,0,0
+2026-09-17,Paneer Tikka,5,0,0
+2026-09-17,Chicken BBQ,5,0,0
+2026-09-17,Farmhouse,9,0,0
+2026-09-17,Corn & Cheese,8,0,0
+2026-09-17,Mushroom Delight,2,0,0
+2026-09-17,Hawaiian,9,0,0
+2026-09-17,Spicy Jalapeno Chicken,6,0,0
+2026-09-18,Margherita,22,0,0
+2026-09-18,Pepperoni,19,0,0
+2026-09-18,Veggie Supreme,12,0,0
+2026-09-18,Paneer Tikka,11,0,0
+2026-09-18,Chicken BBQ,11,0,0
+2026-09-18,Farmhouse,7,0,0
+2026-09-18,Corn & Cheese,11,0,0
+2026-09-18,Mushroom Delight,5,0,0
+2026-09-18,Hawaiian,10,0,0
+2026-09-18,Spicy Jalapeno Chicken,11,0,0
+2026-09-19,Margherita,21,1,0
+2026-09-19,Pepperoni,25,1,0
+2026-09-19,Veggie Supreme,25,1,0
+2026-09-19,Paneer Tikka,21,1,0
+2026-09-19,Chicken BBQ,24,1,0
+2026-09-19,Farmhouse,16,1,0
+2026-09-19,Corn & Cheese,10,1,0
+2026-09-19,Mushroom Delight,11,1,0
+2026-09-19,Hawaiian,10,1,0
+2026-09-19,Spicy Jalapeno Chicken,23,1,0
+2026-09-20,Margherita,24,0,0
+2026-09-20,Pepperoni,25,0,0
+2026-09-20,Veggie Supreme,16,0,0
+2026-09-20,Paneer Tikka,26,0,0
+2026-09-20,Chicken BBQ,13,0,0
+2026-09-20,Farmhouse,8,0,0
+2026-09-20,Corn & Cheese,11,0,0
+2026-09-20,Mushroom Delight,7,0,0
+2026-09-20,Hawaiian,10,0,0
+2026-09-20,Spicy Jalapeno Chicken,15,0,0
+2026-09-21,Margherita,7,1,0
+2026-09-21,Pepperoni,6,1,0
+2026-09-21,Veggie Supreme,3,1,0
+2026-09-21,Paneer Tikka,7,1,0
+2026-09-21,Chicken BBQ,9,1,0
+2026-09-21,Farmhouse,5,1,0
+2026-09-21,Corn & Cheese,6,1,0
+2026-09-21,Mushroom Delight,4,1,0
+2026-09-21,Hawaiian,3,1,0
+2026-09-21,Spicy Jalapeno Chicken,5,1,0
+2026-09-22,Margherita,8,0,0
+2026-09-22,Pepperoni,1,0,0
+2026-09-22,Veggie Supreme,2,0,0
+2026-09-22,Paneer Tikka,14,0,0
+2026-09-22,Chicken BBQ,7,0,0
+2026-09-22,Farmhouse,7,0,0
+2026-09-22,Corn & Cheese,5,0,0
+2026-09-22,Mushroom Delight,0,0,0
+2026-09-22,Hawaiian,4,0,0
+2026-09-22,Spicy Jalapeno Chicken,2,0,0
+2026-09-23,Margherita,3,0,0
+2026-09-23,Pepperoni,8,0,0
+2026-09-23,Veggie Supreme,9,0,0
+2026-09-23,Paneer Tikka,10,0,0
+2026-09-23,Chicken BBQ,7,0,0
+2026-09-23,Farmhouse,4,0,0
+2026-09-23,Corn & Cheese,4,0,0
+2026-09-23,Mushroom Delight,8,0,0
+2026-09-23,Hawaiian,3,0,0
+2026-09-23,Spicy Jalapeno Chicken,4,0,0
+2026-09-24,Margherita,10,0,0
+2026-09-24,Pepperoni,11,0,0
+2026-09-24,Veggie Supreme,8,0,0
+2026-09-24,Paneer Tikka,12,0,0
+2026-09-24,Chicken BBQ,10,0,0
+2026-09-24,Farmhouse,9,0,0
+2026-09-24,Corn & Cheese,4,0,0
+2026-09-24,Mushroom Delight,3,0,0
+2026-09-24,Hawaiian,4,0,0
+2026-09-24,Spicy Jalapeno Chicken,4,0,0
+2026-09-25,Margherita,17,0,0
+2026-09-25,Pepperoni,16,0,0
+2026-09-25,Veggie Supreme,12,0,0
+2026-09-25,Paneer Tikka,14,0,0
+2026-09-25,Chicken BBQ,7,0,0
+2026-09-25,Farmhouse,9,0,0
+2026-09-25,Corn & Cheese,8,0,0
+2026-09-25,Mushroom Delight,1,0,0
+2026-09-25,Hawaiian,11,0,0
+2026-09-25,Spicy Jalapeno Chicken,8,0,0
+2026-09-26,Margherita,26,0,0
+2026-09-26,Pepperoni,28,0,0
+2026-09-26,Veggie Supreme,19,0,0
+2026-09-26,Paneer Tikka,17,0,0
+2026-09-26,Chicken BBQ,22,0,0
+2026-09-26,Farmhouse,12,0,0
+2026-09-26,Corn & Cheese,11,0,0
+2026-09-26,Mushroom Delight,1,0,0
+2026-09-26,Hawaiian,14,0,0
+2026-09-26,Spicy Jalapeno Chicken,15,0,0
+2026-09-27,Margherita,18,0,0
+2026-09-27,Pepperoni,26,0,0
+2026-09-27,Veggie Supreme,15,0,0
+2026-09-27,Paneer Tikka,13,0,0
+2026-09-27,Chicken BBQ,22,0,0
+2026-09-27,Farmhouse,12,0,0
+2026-09-27,Corn & Cheese,14,0,0
+2026-09-27,Mushroom Delight,8,0,0
+2026-09-27,Hawaiian,7,0,0
+2026-09-27,Spicy Jalapeno Chicken,4,0,0
+2026-09-28,Margherita,6,0,0
+2026-09-28,Pepperoni,8,0,0
+2026-09-28,Veggie Supreme,8,0,0
+2026-09-28,Paneer Tikka,6,0,0
+2026-09-28,Chicken BBQ,8,0,0
+2026-09-28,Farmhouse,2,0,0
+2026-09-28,Corn & Cheese,4,0,0
+2026-09-28,Mushroom Delight,3,0,0
+2026-09-28,Hawaiian,4,0,0
+2026-09-28,Spicy Jalapeno Chicken,5,0,0
+2026-09-29,Margherita,12,1,0
+2026-09-29,Pepperoni,8,1,0
+2026-09-29,Veggie Supreme,3,1,0
+2026-09-29,Paneer Tikka,3,1,0
+2026-09-29,Chicken BBQ,7,1,0
+2026-09-29,Farmhouse,4,1,0
+2026-09-29,Corn & Cheese,8,1,0
+2026-09-29,Mushroom Delight,6,1,0
+2026-09-29,Hawaiian,3,1,0
+2026-09-29,Spicy Jalapeno Chicken,7,1,0
+2026-09-30,Margherita,8,0,0
+2026-09-30,Pepperoni,13,0,0
+2026-09-30,Veggie Supreme,7,0,0
+2026-09-30,Paneer Tikka,10,0,0
+2026-09-30,Chicken BBQ,4,0,0
+2026-09-30,Farmhouse,4,0,0
+2026-09-30,Corn & Cheese,5,0,0
+2026-09-30,Mushroom Delight,4,0,0
+2026-09-30,Hawaiian,8,0,0
+2026-09-30,Spicy Jalapeno Chicken,1,0,0
+2026-10-01,Margherita,13,1,0
+2026-10-01,Pepperoni,9,1,0
+2026-10-01,Veggie Supreme,6,1,0
+2026-10-01,Paneer Tikka,8,1,0
+2026-10-01,Chicken BBQ,5,1,0
+2026-10-01,Farmhouse,8,1,0
+2026-10-01,Corn & Cheese,5,1,0
+2026-10-01,Mushroom Delight,6,1,0
+2026-10-01,Hawaiian,3,1,0
+2026-10-01,Spicy Jalapeno Chicken,3,1,0
+2026-10-02,Margherita,18,0,0
+2026-10-02,Pepperoni,22,0,0
+2026-10-02,Veggie Supreme,10,0,0
+2026-10-02,Paneer Tikka,21,0,0
+2026-10-02,Chicken BBQ,13,0,0
+2026-10-02,Farmhouse,12,0,0
+2026-10-02,Corn & Cheese,7,0,0
+2026-10-02,Mushroom Delight,7,0,0
+2026-10-02,Hawaiian,4,0,0
+2026-10-02,Spicy Jalapeno Chicken,7,0,0
+2026-10-03,Margherita,18,0,0
+2026-10-03,Pepperoni,24,0,0
+2026-10-03,Veggie Supreme,15,0,0
+2026-10-03,Paneer Tikka,18,0,0
+2026-10-03,Chicken BBQ,23,0,0
+2026-10-03,Farmhouse,12,0,0
+2026-10-03,Corn & Cheese,13,0,0
+2026-10-03,Mushroom Delight,4,0,0
+2026-10-03,Hawaiian,14,0,0
+2026-10-03,Spicy Jalapeno Chicken,14,0,0
+2026-10-04,Margherita,21,0,0
+2026-10-04,Pepperoni,28,0,0
+2026-10-04,Veggie Supreme,16,0,0
+2026-10-04,Paneer Tikka,14,0,0
+2026-10-04,Chicken BBQ,15,0,0
+2026-10-04,Farmhouse,14,0,0
+2026-10-04,Corn & Cheese,7,0,0
+2026-10-04,Mushroom Delight,9,0,0
+2026-10-04,Hawaiian,7,0,0
+2026-10-04,Spicy Jalapeno Chicken,12,0,0
+2026-10-05,Margherita,4,0,0
+2026-10-05,Pepperoni,16,0,0
+2026-10-05,Veggie Supreme,7,0,0
+2026-10-05,Paneer Tikka,7,0,0
+2026-10-05,Chicken BBQ,7,0,0
+2026-10-05,Farmhouse,2,0,0
+2026-10-05,Corn & Cheese,2,0,0
+2026-10-05,Mushroom Delight,1,0,0
+2026-10-05,Hawaiian,3,0,0
+2026-10-05,Spicy Jalapeno Chicken,3,0,0
+2026-10-06,Margherita,2,0,0
+2026-10-06,Pepperoni,5,0,0
+2026-10-06,Veggie Supreme,5,0,0
+2026-10-06,Paneer Tikka,6,0,0
+2026-10-06,Chicken BBQ,5,0,0
+2026-10-06,Farmhouse,8,0,0
+2026-10-06,Corn & Cheese,5,0,0
+2026-10-06,Mushroom Delight,5,0,0
+2026-10-06,Hawaiian,7,0,0
+2026-10-06,Spicy Jalapeno Chicken,4,0,0
+2026-10-07,Margherita,8,0,0
+2026-10-07,Pepperoni,6,0,0
+2026-10-07,Veggie Supreme,6,0,0
+2026-10-07,Paneer Tikka,13,0,0
+2026-10-07,Chicken BBQ,6,0,0
+2026-10-07,Farmhouse,4,0,0
+2026-10-07,Corn & Cheese,4,0,0
+2026-10-07,Mushroom Delight,5,0,0
+2026-10-07,Hawaiian,4,0,0
+2026-10-07,Spicy Jalapeno Chicken,4,0,0
+2026-10-08,Margherita,12,0,0
+2026-10-08,Pepperoni,10,0,0
+2026-10-08,Veggie Supreme,5,0,0
+2026-10-08,Paneer Tikka,5,0,0
+2026-10-08,Chicken BBQ,12,0,0
+2026-10-08,Farmhouse,6,0,0
+2026-10-08,Corn & Cheese,5,0,0
+2026-10-08,Mushroom Delight,4,0,0
+2026-10-08,Hawaiian,2,0,0
+2026-10-08,Spicy Jalapeno Chicken,8,0,0
+2026-10-09,Margherita,18,0,0
+2026-10-09,Pepperoni,13,0,0
+2026-10-09,Veggie Supreme,8,0,0
+2026-10-09,Paneer Tikka,6,0,0
+2026-10-09,Chicken BBQ,13,0,0
+2026-10-09,Farmhouse,7,0,0
+2026-10-09,Corn & Cheese,5,0,0
+2026-10-09,Mushroom Delight,9,0,0
+2026-10-09,Hawaiian,8,0,0
+2026-10-09,Spicy Jalapeno Chicken,10,0,0
+2026-10-10,Margherita,28,0,0
+2026-10-10,Pepperoni,25,0,0
+2026-10-10,Veggie Supreme,15,0,0
+2026-10-10,Paneer Tikka,19,0,0
+2026-10-10,Chicken BBQ,18,0,0
+2026-10-10,Farmhouse,15,0,0
+2026-10-10,Corn & Cheese,10,0,0
+2026-10-10,Mushroom Delight,8,0,0
+2026-10-10,Hawaiian,16,0,0
+2026-10-10,Spicy Jalapeno Chicken,23,0,0
+2026-10-11,Margherita,15,0,0
+2026-10-11,Pepperoni,28,0,0
+2026-10-11,Veggie Supreme,18,0,0
+2026-10-11,Paneer Tikka,17,0,0
+2026-10-11,Chicken BBQ,12,0,0
+2026-10-11,Farmhouse,11,0,0
+2026-10-11,Corn & Cheese,7,0,0
+2026-10-11,Mushroom Delight,5,0,0
+2026-10-11,Hawaiian,10,0,0
+2026-10-11,Spicy Jalapeno Chicken,16,0,0
+2026-10-12,Margherita,11,0,0
+2026-10-12,Pepperoni,8,0,0
+2026-10-12,Veggie Supreme,6,0,0
+2026-10-12,Paneer Tikka,11,0,0
+2026-10-12,Chicken BBQ,9,0,0
+2026-10-12,Farmhouse,4,0,0
+2026-10-12,Corn & Cheese,6,0,0
+2026-10-12,Mushroom Delight,3,0,0
+2026-10-12,Hawaiian,2,0,0
+2026-10-12,Spicy Jalapeno Chicken,8,0,0
+2026-10-13,Margherita,7,0,0
+2026-10-13,Pepperoni,7,0,0
+2026-10-13,Veggie Supreme,4,0,0
+2026-10-13,Paneer Tikka,4,0,0
+2026-10-13,Chicken BBQ,5,0,0
+2026-10-13,Farmhouse,10,0,0
+2026-10-13,Corn & Cheese,5,0,0
+2026-10-13,Mushroom Delight,3,0,0
+2026-10-13,Hawaiian,1,0,0
+2026-10-13,Spicy Jalapeno Chicken,7,0,0
+2026-10-14,Margherita,11,0,0
+2026-10-14,Pepperoni,11,0,0
+2026-10-14,Veggie Supreme,7,0,0
+2026-10-14,Paneer Tikka,7,0,0
+2026-10-14,Chicken BBQ,3,0,0
+2026-10-14,Farmhouse,3,0,0
+2026-10-14,Corn & Cheese,7,0,0
+2026-10-14,Mushroom Delight,8,0,0
+2026-10-14,Hawaiian,4,0,0
+2026-10-14,Spicy Jalapeno Chicken,8,0,0
+2026-10-15,Margherita,7,0,0
+2026-10-15,Pepperoni,8,0,0
+2026-10-15,Veggie Supreme,8,0,0
+2026-10-15,Paneer Tikka,12,0,0
+2026-10-15,Chicken BBQ,8,0,0
+2026-10-15,Farmhouse,10,0,0
+2026-10-15,Corn & Cheese,9,0,0
+2026-10-15,Mushroom Delight,5,0,0
+2026-10-15,Hawaiian,8,0,0
+2026-10-15,Spicy Jalapeno Chicken,2,0,0
+2026-10-16,Margherita,19,0,0
+2026-10-16,Pepperoni,16,0,0
+2026-10-16,Veggie Supreme,13,0,0
+2026-10-16,Paneer Tikka,16,0,0
+2026-10-16,Chicken BBQ,8,0,0
+2026-10-16,Farmhouse,8,0,0
+2026-10-16,Corn & Cheese,6,0,0
+2026-10-16,Mushroom Delight,7,0,0
+2026-10-16,Hawaiian,4,0,0
+2026-10-16,Spicy Jalapeno Chicken,6,0,0
+2026-10-17,Margherita,29,0,0
+2026-10-17,Pepperoni,21,0,0
+2026-10-17,Veggie Supreme,18,0,0
+2026-10-17,Paneer Tikka,21,0,0
+2026-10-17,Chicken BBQ,23,0,0
+2026-10-17,Farmhouse,16,0,0
+2026-10-17,Corn & Cheese,9,0,0
+2026-10-17,Mushroom Delight,6,0,0
+2026-10-17,Hawaiian,6,0,0
+2026-10-17,Spicy Jalapeno Chicken,13,0,0
+2026-10-18,Margherita,22,0,0
+2026-10-18,Pepperoni,26,0,0
+2026-10-18,Veggie Supreme,14,0,0
+2026-10-18,Paneer Tikka,14,0,0
+2026-10-18,Chicken BBQ,14,0,0
+2026-10-18,Farmhouse,17,0,0
+2026-10-18,Corn & Cheese,10,0,0
+2026-10-18,Mushroom Delight,4,0,0
+2026-10-18,Hawaiian,13,0,0
+2026-10-18,Spicy Jalapeno Chicken,13,0,0
+2026-10-19,Margherita,7,0,0
+2026-10-19,Pepperoni,6,0,0
+2026-10-19,Veggie Supreme,4,0,0
+2026-10-19,Paneer Tikka,8,0,0
+2026-10-19,Chicken BBQ,6,0,0
+2026-10-19,Farmhouse,8,0,0
+2026-10-19,Corn & Cheese,5,0,0
+2026-10-19,Mushroom Delight,3,0,0
+2026-10-19,Hawaiian,4,0,0
+2026-10-19,Spicy Jalapeno Chicken,7,0,0
+2026-10-20,Margherita,6,0,0
+2026-10-20,Pepperoni,15,0,0
+2026-10-20,Veggie Supreme,5,0,0
+2026-10-20,Paneer Tikka,3,0,0
+2026-10-20,Chicken BBQ,4,0,0
+2026-10-20,Farmhouse,3,0,0
+2026-10-20,Corn & Cheese,7,0,0
+2026-10-20,Mushroom Delight,4,0,0
+2026-10-20,Hawaiian,4,0,0
+2026-10-20,Spicy Jalapeno Chicken,6,0,0
+2026-10-21,Margherita,14,0,0
+2026-10-21,Pepperoni,13,0,0
+2026-10-21,Veggie Supreme,6,0,0
+2026-10-21,Paneer Tikka,8,0,0
+2026-10-21,Chicken BBQ,6,0,0
+2026-10-21,Farmhouse,3,0,0
+2026-10-21,Corn & Cheese,4,0,0
+2026-10-21,Mushroom Delight,1,0,0
+2026-10-21,Hawaiian,4,0,0
+2026-10-21,Spicy Jalapeno Chicken,3,0,0
+2026-10-22,Margherita,12,0,0
+2026-10-22,Pepperoni,12,0,0
+2026-10-22,Veggie Supreme,4,0,0
+2026-10-22,Paneer Tikka,7,0,0
+2026-10-22,Chicken BBQ,9,0,0
+2026-10-22,Farmhouse,8,0,0
+2026-10-22,Corn & Cheese,1,0,0
+2026-10-22,Mushroom Delight,2,0,0
+2026-10-22,Hawaiian,4,0,0
+2026-10-22,Spicy Jalapeno Chicken,4,0,0
+2026-10-23,Margherita,10,0,0
+2026-10-23,Pepperoni,14,0,0
+2026-10-23,Veggie Supreme,15,0,0
+2026-10-23,Paneer Tikka,17,0,0
+2026-10-23,Chicken BBQ,14,0,0
+2026-10-23,Farmhouse,13,0,0
+2026-10-23,Corn & Cheese,8,0,0
+2026-10-23,Mushroom Delight,6,0,0
+2026-10-23,Hawaiian,4,0,0
+2026-10-23,Spicy Jalapeno Chicken,15,0,0
+2026-10-24,Margherita,16,0,0
+2026-10-24,Pepperoni,16,0,0
+2026-10-24,Veggie Supreme,13,0,0
+2026-10-24,Paneer Tikka,22,0,0
+2026-10-24,Chicken BBQ,21,0,0
+2026-10-24,Farmhouse,20,0,0
+2026-10-24,Corn & Cheese,13,0,0
+2026-10-24,Mushroom Delight,7,0,0
+2026-10-24,Hawaiian,7,0,0
+2026-10-24,Spicy Jalapeno Chicken,14,0,0
+2026-10-25,Margherita,19,0,0
+2026-10-25,Pepperoni,22,0,0
+2026-10-25,Veggie Supreme,15,0,0
+2026-10-25,Paneer Tikka,16,0,0
+2026-10-25,Chicken BBQ,20,0,0
+2026-10-25,Farmhouse,17,0,0
+2026-10-25,Corn & Cheese,12,0,0
+2026-10-25,Mushroom Delight,7,0,0
+2026-10-25,Hawaiian,9,0,0
+2026-10-25,Spicy Jalapeno Chicken,12,0,0
+2026-10-26,Margherita,11,1,0
+2026-10-26,Pepperoni,8,1,0
+2026-10-26,Veggie Supreme,7,1,0
+2026-10-26,Paneer Tikka,14,1,0
+2026-10-26,Chicken BBQ,8,1,0
+2026-10-26,Farmhouse,6,1,0
+2026-10-26,Corn & Cheese,6,1,0
+2026-10-26,Mushroom Delight,3,1,0
+2026-10-26,Hawaiian,5,1,0
+2026-10-26,Spicy Jalapeno Chicken,5,1,0
+2026-10-27,Margherita,9,0,0
+2026-10-27,Pepperoni,3,0,0
+2026-10-27,Veggie Supreme,8,0,0
+2026-10-27,Paneer Tikka,5,0,0
+2026-10-27,Chicken BBQ,7,0,0
+2026-10-27,Farmhouse,5,0,0
+2026-10-27,Corn & Cheese,5,0,0
+2026-10-27,Mushroom Delight,3,0,0
+2026-10-27,Hawaiian,6,0,0
+2026-10-27,Spicy Jalapeno Chicken,1,0,0
+2026-10-28,Margherita,10,0,0
+2026-10-28,Pepperoni,6,0,0
+2026-10-28,Veggie Supreme,5,0,0
+2026-10-28,Paneer Tikka,6,0,0
+2026-10-28,Chicken BBQ,5,0,0
+2026-10-28,Farmhouse,5,0,0
+2026-10-28,Corn & Cheese,5,0,0
+2026-10-28,Mushroom Delight,4,0,0
+2026-10-28,Hawaiian,3,0,0
+2026-10-28,Spicy Jalapeno Chicken,7,0,0
+2026-10-29,Margherita,13,0,0
+2026-10-29,Pepperoni,6,0,0
+2026-10-29,Veggie Supreme,9,0,0
+2026-10-29,Paneer Tikka,5,0,0
+2026-10-29,Chicken BBQ,10,0,0
+2026-10-29,Farmhouse,7,0,0
+2026-10-29,Corn & Cheese,11,0,0
+2026-10-29,Mushroom Delight,3,0,0
+2026-10-29,Hawaiian,6,0,0
+2026-10-29,Spicy Jalapeno Chicken,6,0,0
+2026-10-30,Margherita,14,0,0
+2026-10-30,Pepperoni,12,0,0
+2026-10-30,Veggie Supreme,8,0,0
+2026-10-30,Paneer Tikka,9,0,0
+2026-10-30,Chicken BBQ,8,0,0
+2026-10-30,Farmhouse,20,0,0
+2026-10-30,Corn & Cheese,6,0,0
+2026-10-30,Mushroom Delight,1,0,0
+2026-10-30,Hawaiian,12,0,0
+2026-10-30,Spicy Jalapeno Chicken,6,0,0
+2026-10-31,Margherita,31,1,1
+2026-10-31,Pepperoni,42,1,1
+2026-10-31,Veggie Supreme,20,1,1
+2026-10-31,Paneer Tikka,32,1,1
+2026-10-31,Chicken BBQ,14,1,1
+2026-10-31,Farmhouse,26,1,1
+2026-10-31,Corn & Cheese,15,1,1
+2026-10-31,Mushroom Delight,11,1,1
+2026-10-31,Hawaiian,7,1,1
+2026-10-31,Spicy Jalapeno Chicken,13,1,1
+2026-11-01,Margherita,18,0,0
+2026-11-01,Pepperoni,22,0,0
+2026-11-01,Veggie Supreme,19,0,0
+2026-11-01,Paneer Tikka,16,0,0
+2026-11-01,Chicken BBQ,13,0,0
+2026-11-01,Farmhouse,10,0,0
+2026-11-01,Corn & Cheese,6,0,0
+2026-11-01,Mushroom Delight,5,0,0
+2026-11-01,Hawaiian,9,0,0
+2026-11-01,Spicy Jalapeno Chicken,17,0,0
+2026-11-02,Margherita,8,0,0
+2026-11-02,Pepperoni,7,0,0
+2026-11-02,Veggie Supreme,7,0,0
+2026-11-02,Paneer Tikka,9,0,0
+2026-11-02,Chicken BBQ,7,0,0
+2026-11-02,Farmhouse,4,0,0
+2026-11-02,Corn & Cheese,5,0,0
+2026-11-02,Mushroom Delight,2,0,0
+2026-11-02,Hawaiian,3,0,0
+2026-11-02,Spicy Jalapeno Chicken,3,0,0
+2026-11-03,Margherita,7,0,0
+2026-11-03,Pepperoni,6,0,0
+2026-11-03,Veggie Supreme,6,0,0
+2026-11-03,Paneer Tikka,7,0,0
+2026-11-03,Chicken BBQ,7,0,0
+2026-11-03,Farmhouse,5,0,0
+2026-11-03,Corn & Cheese,3,0,0
+2026-11-03,Mushroom Delight,6,0,0
+2026-11-03,Hawaiian,3,0,0
+2026-11-03,Spicy Jalapeno Chicken,4,0,0
+2026-11-04,Margherita,9,0,0
+2026-11-04,Pepperoni,8,0,0
+2026-11-04,Veggie Supreme,8,0,0
+2026-11-04,Paneer Tikka,4,0,0
+2026-11-04,Chicken BBQ,9,0,0
+2026-11-04,Farmhouse,5,0,0
+2026-11-04,Corn & Cheese,4,0,0
+2026-11-04,Mushroom Delight,3,0,0
+2026-11-04,Hawaiian,1,0,0
+2026-11-04,Spicy Jalapeno Chicken,6,0,0
+2026-11-05,Margherita,9,0,0
+2026-11-05,Pepperoni,11,0,0
+2026-11-05,Veggie Supreme,7,0,0
+2026-11-05,Paneer Tikka,5,0,0
+2026-11-05,Chicken BBQ,4,0,0
+2026-11-05,Farmhouse,6,0,0
+2026-11-05,Corn & Cheese,5,0,0
+2026-11-05,Mushroom Delight,7,0,0
+2026-11-05,Hawaiian,5,0,0
+2026-11-05,Spicy Jalapeno Chicken,10,0,0
+2026-11-06,Margherita,10,0,0
+2026-11-06,Pepperoni,18,0,0
+2026-11-06,Veggie Supreme,9,0,0
+2026-11-06,Paneer Tikka,11,0,0
+2026-11-06,Chicken BBQ,15,0,0
+2026-11-06,Farmhouse,11,0,0
+2026-11-06,Corn & Cheese,7,0,0
+2026-11-06,Mushroom Delight,1,0,0
+2026-11-06,Hawaiian,6,0,0
+2026-11-06,Spicy Jalapeno Chicken,6,0,0
+2026-11-07,Margherita,16,0,0
+2026-11-07,Pepperoni,25,0,0
+2026-11-07,Veggie Supreme,15,0,0
+2026-11-07,Paneer Tikka,16,0,0
+2026-11-07,Chicken BBQ,24,0,0
+2026-11-07,Farmhouse,13,0,0
+2026-11-07,Corn & Cheese,12,0,0
+2026-11-07,Mushroom Delight,6,0,0
+2026-11-07,Hawaiian,15,0,0
+2026-11-07,Spicy Jalapeno Chicken,19,0,0
+2026-11-08,Margherita,13,0,0
+2026-11-08,Pepperoni,29,0,0
+2026-11-08,Veggie Supreme,9,0,0
+2026-11-08,Paneer Tikka,16,0,0
+2026-11-08,Chicken BBQ,13,0,0
+2026-11-08,Farmhouse,8,0,0
+2026-11-08,Corn & Cheese,8,0,0
+2026-11-08,Mushroom Delight,5,0,0
+2026-11-08,Hawaiian,10,0,0
+2026-11-08,Spicy Jalapeno Chicken,20,0,0
+2026-11-09,Margherita,5,0,0
+2026-11-09,Pepperoni,8,0,0
+2026-11-09,Veggie Supreme,7,0,0
+2026-11-09,Paneer Tikka,5,0,0
+2026-11-09,Chicken BBQ,5,0,0
+2026-11-09,Farmhouse,3,0,0
+2026-11-09,Corn & Cheese,4,0,0
+2026-11-09,Mushroom Delight,5,0,0
+2026-11-09,Hawaiian,10,0,0
+2026-11-09,Spicy Jalapeno Chicken,3,0,0
+2026-11-10,Margherita,7,0,0
+2026-11-10,Pepperoni,4,0,0
+2026-11-10,Veggie Supreme,5,0,0
+2026-11-10,Paneer Tikka,5,0,0
+2026-11-10,Chicken BBQ,2,0,0
+2026-11-10,Farmhouse,4,0,0
+2026-11-10,Corn & Cheese,6,0,0
+2026-11-10,Mushroom Delight,4,0,0
+2026-11-10,Hawaiian,5,0,0
+2026-11-10,Spicy Jalapeno Chicken,9,0,0
+2026-11-11,Margherita,11,0,0
+2026-11-11,Pepperoni,5,0,0
+2026-11-11,Veggie Supreme,6,0,0
+2026-11-11,Paneer Tikka,4,0,0
+2026-11-11,Chicken BBQ,6,0,0
+2026-11-11,Farmhouse,3,0,0
+2026-11-11,Corn & Cheese,3,0,0
+2026-11-11,Mushroom Delight,5,0,0
+2026-11-11,Hawaiian,4,0,0
+2026-11-11,Spicy Jalapeno Chicken,7,0,0
+2026-11-12,Margherita,6,0,0
+2026-11-12,Pepperoni,11,0,0
+2026-11-12,Veggie Supreme,9,0,0
+2026-11-12,Paneer Tikka,7,0,0
+2026-11-12,Chicken BBQ,8,0,0
+2026-11-12,Farmhouse,4,0,0
+2026-11-12,Corn & Cheese,8,0,0
+2026-11-12,Mushroom Delight,4,0,0
+2026-11-12,Hawaiian,5,0,0
+2026-11-12,Spicy Jalapeno Chicken,9,0,0
+2026-11-13,Margherita,21,0,0
+2026-11-13,Pepperoni,22,0,0
+2026-11-13,Veggie Supreme,12,0,0
+2026-11-13,Paneer Tikka,13,0,0
+2026-11-13,Chicken BBQ,10,0,0
+2026-11-13,Farmhouse,12,0,0
+2026-11-13,Corn & Cheese,7,0,0
+2026-11-13,Mushroom Delight,5,0,0
+2026-11-13,Hawaiian,7,0,0
+2026-11-13,Spicy Jalapeno Chicken,7,0,0
+2026-11-14,Margherita,17,0,0
+2026-11-14,Pepperoni,28,0,0
+2026-11-14,Veggie Supreme,13,0,0
+2026-11-14,Paneer Tikka,21,0,0
+2026-11-14,Chicken BBQ,16,0,0
+2026-11-14,Farmhouse,14,0,0
+2026-11-14,Corn & Cheese,6,0,0
+2026-11-14,Mushroom Delight,11,0,0
+2026-11-14,Hawaiian,9,0,0
+2026-11-14,Spicy Jalapeno Chicken,11,0,0
