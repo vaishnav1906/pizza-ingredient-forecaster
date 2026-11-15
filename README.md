@@ -22,8 +22,8 @@ wastes food on quiet days or runs out on busy ones.
 Light and dark mode follow your system setting. All screenshots live in [`docs/screens`](docs/screens) and are
 regenerated with `python scripts/screenshots.py` while the app is running.
 
-There is also a scroll-animated showcase page in [`docs/index.html`](docs/index.html). Open it locally, or turn on
-GitHub Pages (Settings → Pages → branch `main`, folder `/docs`) to host it.
+**Showcase page:** https://vaishnav1906.github.io/pizza-ingredient-forecaster/ (a scroll-animated tour of the
+project, built from [`docs/index.html`](docs/index.html) with GitHub Pages).
 
 ## What it does
 - Forecasts daily pizza demand (Gradient Boosting) using weekday, month, holidays, rain and recent sales lags
