@@ -6,6 +6,25 @@ over the next 7 days, splits that across the 10 menu items, and converts it into
 **Problem:** weekends sell about 2.5x more than Mon-Wed. Ordering the same amount every day either
 wastes food on quiet days or runs out on busy ones.
 
+![Order list: tomorrow's forecast, pizza mix and ingredients to order](docs/screens/order-list-light.jpg)
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screens/outlook-light.jpg" alt="7-day outlook with likely ranges"><br><sub><b>7-day outlook</b>: pizzas per day with likely ranges, and ingredients per day</sub></td>
+    <td width="50%"><img src="docs/screens/average-needs-light.jpg" alt="Average ingredient needs by weekday"><br><sub><b>Average needs</b>: the weekend rush for every ingredient</sub></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screens/accuracy-light.jpg" alt="Model accuracy versus a naive baseline"><br><sub><b>Model accuracy</b>: tested on 28 days the model never saw</sub></td>
+    <td><img src="docs/screens/impact-dark.jpg" alt="Business impact comparison of ordering methods, dark mode"><br><sub><b>Business impact</b> (dark mode): waste and stock-outs for three ordering methods</sub></td>
+  </tr>
+</table>
+
+Light and dark mode follow your system setting. All screenshots live in [`docs/screens`](docs/screens) and are
+regenerated with `python scripts/screenshots.py` while the app is running.
+
+There is also a scroll-animated showcase page in [`docs/index.html`](docs/index.html). Open it locally, or turn on
+GitHub Pages (Settings → Pages → branch `main`, folder `/docs`) to host it.
+
 ## What it does
 - Forecasts daily pizza demand (Gradient Boosting) using weekday, month, holidays, rain and recent sales lags
 - Splits the forecast by pizza variety using the recent weekday/weekend sales mix
@@ -55,6 +74,8 @@ Upload a CSV with `date, pizza, qty` (one row per pizza per day, at least 90 day
 | `app.py` | Streamlit interface |
 | `ui.py` | Design tokens, cards and shared chart style (light and dark mode) |
 | `.streamlit/config.toml` | Warm light/dark theme |
+| `scripts/screenshots.py` | Captures the README screenshots with Playwright |
+| `docs/index.html` | Cinematic project showcase page (GitHub Pages ready) |
 | `forecast_lib.py` | Features, model, backtest, mix split, ingredient and waste simulation |
 | `generate_data.py` | Synthetic sales generator (weekend peaks, holidays, rain, trend, noise) |
 | `recipes.csv` | Grams of each ingredient per pizza |
