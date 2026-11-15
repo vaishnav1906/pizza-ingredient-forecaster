@@ -85,7 +85,8 @@ with tabs[5]:
     fig = px.line(daily.reset_index(names="date"), x="date", y="total", title="Pizzas sold per day")
     fig.update_layout(height=300, margin=dict(t=40, b=10))
     c1.plotly_chart(fig, use_container_width=True)
-    c2.dataframe(sales.tail(12), hide_index=True, use_container_width=True)
+    c2.dataframe(sales.tail(12).assign(date=sales["date"].tail(12).dt.date), hide_index=True,
+                 use_container_width=True)
     st.markdown("**Using your own data?** Upload a CSV with `date, pizza, qty` (one row per pizza per day). "
                 "Optional columns `rainy` and `holiday` (0/1) improve accuracy. Need at least 90 days.")
 
