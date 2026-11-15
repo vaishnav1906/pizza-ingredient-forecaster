@@ -146,33 +146,81 @@ def split_by_mix(total: float, date: pd.Timestamp, mix: pd.DataFrame) -> pd.Seri
     return mix["weekend" if date.dayofweek >= 5 else "weekday"] * total
 
 
+def round_half_up(x: float) -> int:
+    """Shop-style rounding (138.5 -> 139). Python's round()/format use banker's rounding (138.5 -> 138)."""
+    return int(np.floor(float(x) + 0.5))
+
+
+def allocate(total: int, shares: pd.Series) -> pd.Series:
+    """Split a whole number of pizzas across varieties by share (largest-remainder method).
+    The parts are whole numbers and always add up exactly to `total`."""
+    shares = shares.clip(lower=0).fillna(0)
+    if total <= 0 or shares.sum() == 0:
+        return pd.Series(0, index=shares.index, dtype="int64")
+    raw = shares / shares.sum() * total
+    out = np.floor(raw).astype("int64")
+    leftover = int(total - out.sum())
+    top = (raw - out).sort_values(ascending=False, kind="stable").index[:leftover]
+    out.loc[top] += 1
+    return out
+
+
+def plan_pizzas(pred: float, date: pd.Timestamp, mix: pd.DataFrame) -> pd.Series:
+    """Whole-pizza plan for a day: rounded forecast split across the menu by the recent mix."""
+    return allocate(round_half_up(pred), mix["weekend" if date.dayofweek >= 5 else "weekday"])
+
+
 def ingredient_need(counts: pd.Series, recipes: pd.DataFrame) -> pd.Series:
     """counts: pizzas per variety; recipes: pizza x ingredient grams  ->  grams per ingredient."""
     return counts.reindex(recipes.index).fillna(0) @ recipes
 
 
+def ingredient_grams(counts: pd.Series, recipes: pd.DataFrame) -> pd.Series:
+    """Whole grams per ingredient (recipes may hold decimals)."""
+    return ingredient_need(counts, recipes).round().astype("int64")
+
+
+def to_10g_units(grams):
+    """Grams -> units of 10 g (= 0.01 kg), rounded half-up with exact integer maths."""
+    return (grams + 5) // 10
+
+
+def with_buffer_units(units, buffer_pct: int):
+    """Add a whole-percent buffer to 10 g units, rounded half-up with exact integer maths."""
+    return (units * (100 + int(buffer_pct)) + 50) // 100
+
+
 def history_ingredients(sales: pd.DataFrame, recipes: pd.DataFrame) -> pd.DataFrame:
+    """date x ingredient grams. Days with no sales rows count as 0, matching build_daily()."""
     wide = sales.pivot_table(index="date", columns="pizza", values="qty", aggfunc="sum").fillna(0)
-    wide = wide.reindex(columns=recipes.index, fill_value=0)
-    return wide @ recipes  # date x ingredient (grams)
+    full = pd.date_range(wide.index.min(), wide.index.max(), freq="D")
+    wide = wide.reindex(index=full, columns=recipes.index, fill_value=0)
+    return wide @ recipes
 
 
 # ---------------------------------------------------------------- business impact
+POLICY_AVG = "Fixed: average day (last 28-day mean + 10%)"
+POLICY_PEAK = "Fixed: peak day (90th percentile of last 28 days)"
+POLICY_FCST = "Forecast-driven (this app)"
+WASTE, STOCKOUT_DAYS, LOST, FILL = ("Waste (% of pizzas prepared)", "Stock-out days (of period)",
+                                    "Pizzas lost to stock-outs", "Fill rate %")
+
+
 def _policy_stats(order: pd.Series, actual: pd.Series) -> dict:
     waste = (order - actual).clip(lower=0)
     short = (actual - order).clip(lower=0)
-    return {"Waste (% of pizzas prepared)": waste.sum() / order.sum() * 100,
-            "Stock-out days (of period)": int((actual > order).sum()),
-            "Pizzas lost to stock-outs": float(short.sum()),
-            "Fill rate %": (1 - short.sum() / actual.sum()) * 100}
+    return {WASTE: waste.sum() / order.sum() * 100,
+            STOCKOUT_DAYS: int((actual > order).sum()),
+            LOST: float(short.sum()),
+            FILL: (1 - short.sum() / actual.sum()) * 100}
 
 
 def simulate_policies(bt_frame: pd.DataFrame, daily: pd.DataFrame, buffer: float) -> pd.DataFrame:
     actual = bt_frame["actual"]
     prev = daily["total"].shift(1)
     policies = {
-        "Fixed: prep for an average day": prev.rolling(28).mean().reindex(actual.index) * 1.10,
-        "Fixed: always prep for a peak day": prev.rolling(28).quantile(0.9).reindex(actual.index),
-        "Forecast-driven (this app)": bt_frame["model"] * (1 + buffer),
+        POLICY_AVG: prev.rolling(28).mean().reindex(actual.index) * 1.10,
+        POLICY_PEAK: prev.rolling(28).quantile(0.9).reindex(actual.index),
+        POLICY_FCST: bt_frame["model"] * (1 + buffer),
     }
     return pd.DataFrame({k: _policy_stats(v, actual) for k, v in policies.items()}).T

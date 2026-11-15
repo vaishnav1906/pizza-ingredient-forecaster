@@ -29,6 +29,22 @@ python generate_data.py      # optional: regenerates sales.csv
 streamlit run app.py
 ```
 
+## How the numbers are calculated
+- The daily forecast is rounded half-up to whole pizzas (138.5 → 139), then split across the menu with the
+  largest-remainder method, so the pizza-mix bars always add up exactly to the headline number.
+- Ingredients are computed in whole grams from that plan, shown in kg to the nearest 10 g.
+  "With buffer" is the shown "Needed" value × (1 + buffer), using exact integer maths, so every row can be checked by hand.
+- The 7-day week total is the exact sum of the daily cells shown.
+- Days with no sales rows count as zero sales, both in the model and in the averages.
+
+## Tests
+```bash
+pip install pytest
+python -m pytest -q
+```
+`tests/test_math.py` checks rounding, pizza allocation, ingredient maths by hand, the buffer, the no-look-ahead
+rule for model features, the baseline, backtest scores and the waste simulation.
+
 ## Use your own data
 Upload a CSV with `date, pizza, qty` (one row per pizza per day, at least 90 days). Optional `rainy` and
 `holiday` columns (0/1) improve accuracy. Edit `recipes.csv` (grams per pizza) to match your menu.
