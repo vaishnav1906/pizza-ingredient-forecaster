@@ -22,8 +22,16 @@ wastes food on quiet days or runs out on busy ones.
 Light and dark mode follow your system setting. All screenshots live in [`docs/screens`](docs/screens) and are
 regenerated with `python scripts/screenshots.py` while the app is running.
 
+**▶ Try the live app:** https://slice-planner-eosin.vercel.app/app/
+The full Streamlit app runs in your browser with [stlite](https://github.com/whitphx/stlite) (Python compiled to
+WebAssembly), so there's no server and nothing you upload leaves your machine. The first visit downloads Python
+and takes a little while; later visits are faster.
+
 **Showcase page:** https://slice-planner-eosin.vercel.app (a scroll-animated tour of the project, built from
 [`docs/index.html`](docs/index.html)). Also on GitHub Pages: https://vaishnav1906.github.io/pizza-ingredient-forecaster/
+
+After changing the app, run `python scripts/build_web.py` to refresh the browser copy in `docs/app/src`, then
+redeploy (`vercel deploy --prod` from `docs/`). A test fails if the copy is out of date.
 
 ## What it does
 - Forecasts daily pizza demand (Gradient Boosting) using weekday, month, holidays, rain and recent sales lags

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Slice Planner App</title>
+<meta name="description" content="Pizza demand forecasting and ingredient planning, running fully in your browser.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍕</text></svg>">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/browser@1.12.0/build/stlite.css">
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #f9f9f7; --ink: #0b0b0b; --ink-2: #52514e; --track: #ece7dd; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #0d0d0d; --ink: #f0efec; --ink-2: #c3c2b7; --track: #2c2c2a; } }
+  :root[data-theme="dark"] { --bg: #0d0d0d; --ink: #f0efec; --ink-2: #c3c2b7; --track: #2c2c2a; }
+  html, body { margin: 0; background: var(--bg); }
+  #loader { position: fixed; inset: 0; z-index: 9999; display: grid; place-items: center; background: var(--bg);
+            font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); transition: opacity .5s; }
+  #loader.done { opacity: 0; pointer-events: none; }
+  .box { text-align: center; padding: 0 20px; max-width: 420px; }
+  .slice { font-size: 64px; display: inline-block; animation: spin 2.4s cubic-bezier(.6,0,.4,1) infinite; }
+  @keyframes spin { 50% { transform: rotate(-20deg) scale(1.08); } }
+  h1 { font-family: "Anton", Impact, sans-serif; font-weight: 400; letter-spacing: .03em; font-size: 34px; margin: 12px 0 6px;
+       background: linear-gradient(180deg, #ffb347, #ff5a36 60%, #c2387a); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  #status { color: var(--ink-2); font-size: 15px; min-height: 1.4em; }
+  .bar { height: 4px; width: 220px; margin: 18px auto 10px; border-radius: 99px; background: var(--track); overflow: hidden; }
+  .bar i { display: block; height: 100%; width: 35%; border-radius: 99px; background: linear-gradient(90deg, #ffb347, #ff5a36);
+           animation: slide 1.4s ease-in-out infinite; }
+  @keyframes slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(300%); } }
+  .note { color: var(--ink-2); font-size: 12.5px; opacity: .8; }
+  .note a { color: inherit; }
+  @media (prefers-reduced-motion: reduce) { .slice, .bar i { animation: none; } }
+</style>
+</head>
+<body>
+<div id="loader" role="status" aria-live="polite">
+  <div class="box">
+    <div class="slice">🍕</div>
+    <h1>SLICE PLANNER</h1>
+    <div id="status">Firing up the oven…</div>
+    <div class="bar"><i></i></div>
+    <div class="note">Runs entirely in your browser, nothing is uploaded. The first visit downloads Python, so it takes a few seconds.
+      <br><a href="../">Back to the showcase</a></div>
+  </div>
+</div>
+<div id="root"></div>
+
+<script type="module">
+  import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@1.12.0/build/stlite.js";
+
+  const src = name => ({ url: new URL(`src/${name}`, location.href).href });
+  mount({
+    entrypoint: "app.py",
+    requirements: ["pandas", "numpy", "scikit-learn", "plotly"],
+    files: {
+      "app.py": src("app.py"),
+      "forecast_lib.py": src("forecast_lib.py"),
+      "ui.py": src("ui.py"),
+      "generate_data.py": src("generate_data.py"),
+      "recipes.csv": src("recipes.csv"),
+      "sales.csv": src("sales.csv"),
+      ".streamlit/config.toml": src("streamlit-config.toml"),
+    },
+  }, document.getElementById("root"));
+
+  // Friendly progress messages, then hide the loader once the app has drawn its header.
+  const status = document.getElementById("status"), loader = document.getElementById("loader");
+  const steps = ["Firing up the oven…", "Kneading Python into the browser…", "Adding the toppings (pandas, scikit-learn)…",
+                 "Training the forecast model…", "Almost out of the oven…"];
+  let i = 0;
+  const tick = setInterval(() => { i = Math.min(i + 1, steps.length - 1); status.textContent = steps[i]; }, 4000);
+  const ready = () => document.querySelector(".hero") || document.querySelector('[data-testid="stException"]');
+  const obs = new MutationObserver(() => {
+    if (ready()) { clearInterval(tick); loader.classList.add("done"); obs.disconnect(); setTimeout(() => loader.remove(), 600); }
+  });
+  obs.observe(document.body, { childList: true, subtree: true });
+</script>
+</body>
+</html>

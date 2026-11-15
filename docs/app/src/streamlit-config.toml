@@ -1,0 +1,37 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+font = "system-ui, -apple-system, 'Segoe UI', sans-serif"
+headingFont = "system-ui, -apple-system, 'Segoe UI', sans-serif"
+headingFontWeights = [800, 700, 700]
+baseRadius = "0.75rem"
+buttonRadius = "full"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#c9431b"
+backgroundColor = "#f9f9f7"
+secondaryBackgroundColor = "#f2efe8"
+textColor = "#0b0b0b"
+borderColor = "#e4e1d8"
+dataframeHeaderBackgroundColor = "#f6f3ec"
+linkColor = "#c9431b"
+
+[theme.light.sidebar]
+backgroundColor = "#f4f0e8"
+secondaryBackgroundColor = "#ffffff"
+
+[theme.dark]
+primaryColor = "#f06a3a"
+backgroundColor = "#0d0d0d"
+secondaryBackgroundColor = "#1a1a19"
+textColor = "#f0efec"
+borderColor = "#2c2c2a"
+dataframeHeaderBackgroundColor = "#21211f"
+linkColor = "#f58a62"
+
+[theme.dark.sidebar]
+backgroundColor = "#141413"
+secondaryBackgroundColor = "#1f1f1d"
