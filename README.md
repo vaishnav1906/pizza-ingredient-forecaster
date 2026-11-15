@@ -22,8 +22,8 @@ wastes food on quiet days or runs out on busy ones.
 Light and dark mode follow your system setting. All screenshots live in [`docs/screens`](docs/screens) and are
 regenerated with `python scripts/screenshots.py` while the app is running.
 
-**Showcase page:** https://vaishnav1906.github.io/pizza-ingredient-forecaster/ (a scroll-animated tour of the
-project, built from [`docs/index.html`](docs/index.html) with GitHub Pages).
+**Showcase page:** https://slice-planner-eosin.vercel.app (a scroll-animated tour of the project, built from
+[`docs/index.html`](docs/index.html)). Also on GitHub Pages: https://vaishnav1906.github.io/pizza-ingredient-forecaster/
 
 ## What it does
 - Forecasts daily pizza demand (Gradient Boosting) using weekday, month, holidays, rain and recent sales lags
