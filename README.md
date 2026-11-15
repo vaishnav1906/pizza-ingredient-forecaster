@@ -53,6 +53,8 @@ Upload a CSV with `date, pizza, qty` (one row per pizza per day, at least 90 day
 | File | Purpose |
 |---|---|
 | `app.py` | Streamlit interface |
+| `ui.py` | Design tokens, cards and shared chart style (light and dark mode) |
+| `.streamlit/config.toml` | Warm light/dark theme |
 | `forecast_lib.py` | Features, model, backtest, mix split, ingredient and waste simulation |
 | `generate_data.py` | Synthetic sales generator (weekend peaks, holidays, rain, trend, noise) |
 | `recipes.csv` | Grams of each ingredient per pizza |
