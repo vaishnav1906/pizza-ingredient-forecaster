@@ -106,7 +106,10 @@ need_kg = pd.DataFrame({d: fl.ingredient_need(c, recipes) for d, c in counts.ite
 
 # ------------------------------------------------------------------ tab 1: order list
 with tabs[0]:
-    labels = {d: f"{DAYS[d.dayofweek]} {d:%d %b}" for d in fc.index}
+    if unknown:
+        st.warning(f"No recipe for {', '.join(sorted(unknown))}, so ingredient totals below are understated. "
+                   "Add the recipe in the Data & recipes tab.")
+    labels ={d: f"{DAYS[d.dayofweek]} {d:%d %b}" for d in fc.index}
     day = st.selectbox("Forecast day", list(fc.index), format_func=labels.get)
     row = fc.loc[day]
     last_same = daily["total"].get(day - pd.Timedelta(days=7))
